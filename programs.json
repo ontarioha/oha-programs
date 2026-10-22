@@ -698,8 +698,7 @@
   "name": "Niagara Region — Social Assistance & Employment Opportunities (Fort Erie Office)",
   "level": "Regional / 211 Ontario",
   "regions": [
-   "city:Fort Erie",
-   "region:Niagara"
+   "city:Fort Erie"
   ],
   "categories": [
    "housing",
@@ -763,8 +762,7 @@
   "name": "Niagara — Low-Income Senior Property Tax Deferral",
   "level": "Municipal / Regional",
   "regions": [
-   "city:Fort Erie",
-   "region:Niagara"
+   "city:Fort Erie"
   ],
   "categories": [
    "tax"
