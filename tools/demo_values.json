@@ -1,0 +1,387 @@
+{
+ "waterloo-renovates": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 15000,
+  "type": "financing",
+  "note": "Illustrative forgivable repair financing; not cash"
+ },
+ "waterloo-suites": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 20000,
+  "type": "project",
+  "note": "Illustrative conditional affordable secondary-suite funding"
+ },
+ "cambridge-tax-deferral": {
+  "monthly": 0,
+  "annual": 300,
+  "once": 0,
+  "type": "financing",
+  "note": "Illustrative tax deferred; payable later"
+ },
+ "kitchener-tax-deferral": {
+  "monthly": 0,
+  "annual": 300,
+  "once": 0,
+  "type": "financing",
+  "note": "Illustrative tax deferred; payable later"
+ },
+ "retrofitwr-cambridge": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 2500,
+  "type": "project",
+  "note": "Published maximum heat-pump incentive, subject to conditions"
+ },
+ "retrofitwr-coach": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 250,
+  "type": "inkind",
+  "note": "Hypothetical value of free coaching, not cash"
+ },
+ "waterloo-home-water-review": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 125,
+  "type": "inkind",
+  "note": "Hypothetical value of free assessment, not cash"
+ },
+ "oesp": {
+  "monthly": 45,
+  "annual": 0,
+  "once": 0,
+  "type": "bill",
+  "note": "Monthly on-bill credit; household and after-tax income determine actual rate"
+ },
+ "leap": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 400,
+  "type": "cash",
+  "note": "Illustrative emergency arrears payment; may overlap NEEF"
+ },
+ "neef": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 700,
+  "type": "cash",
+  "note": "Illustrative emergency arrears payment; may overlap LEAP"
+ },
+ "seniortax": {
+  "monthly": 0,
+  "annual": 500,
+  "once": 0,
+  "type": "cash",
+  "note": "Illustration at published maximum for qualifying low-income senior owner"
+ },
+ "gis": {
+  "monthly": 600,
+  "annual": 0,
+  "once": 0,
+  "type": "cash",
+  "note": "Hypothetical incremental GIS; can be $0 depending on OAS and other income"
+ },
+ "gains": {
+  "monthly": 45,
+  "annual": 0,
+  "once": 0,
+  "type": "cash",
+  "note": "Illustrative supplement; depends on GIS and other income"
+ },
+ "trillium": {
+  "monthly": 0,
+  "annual": 900,
+  "once": 0,
+  "type": "cash",
+  "note": "Illustrative tax credit; avoid separately counting same OEPTC"
+ },
+ "niagrenov": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 15000,
+  "type": "financing",
+  "note": "Illustrative forgivable repair financing; not unrestricted cash"
+ },
+ "access": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 1000,
+  "type": "tax",
+  "note": "Illustrative nonrefundable tax savings; requires eligible expense and tax payable"
+ },
+ "eap": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 0,
+  "type": "inkind",
+  "note": "Program overview only; itemized upgrade values appear in separate rows"
+ },
+ "cdcp": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 600,
+  "type": "inkind",
+  "note": "Illustrative covered dental service value; not cash"
+ },
+ "import-5": {
+  "monthly": 600,
+  "annual": 0,
+  "once": 0,
+  "type": "cash",
+  "note": "Illustrative OAS amount; often already received, not necessarily new assistance"
+ },
+ "import-9": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 0,
+  "type": "inkind",
+  "note": "Program overview only; itemized upgrade values appear in separate rows"
+ },
+ "import-10": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 0,
+  "type": "inkind",
+  "note": "Program overview only; itemized upgrade values appear in separate rows"
+ },
+ "import-12": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 2500,
+  "type": "tax",
+  "note": "Illustrative nonrefundable renovation tax credit; eligible costs required"
+ },
+ "import-13": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 5000,
+  "type": "project",
+  "note": "Illustrative mobility modification support; disability criteria apply"
+ },
+ "import-17": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 3000,
+  "type": "project",
+  "note": "Illustrative basement flooding subsidy; geography and expenses apply"
+ },
+ "import-18": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 20000,
+  "type": "project",
+  "note": "Historical/illustrative ADU incentive; availability not confirmed"
+ },
+ "import-19": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 25000,
+  "type": "project",
+  "note": "Historical/illustrative secondary-suite incentive; availability not confirmed"
+ },
+ "import-20": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 15000,
+  "type": "project",
+  "note": "Historical/illustrative ARU incentive; availability not confirmed"
+ },
+ "fort211salvation": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 400,
+  "type": "referral",
+  "note": "Illustrative underlying LEAP/NEEF assistance; do not add to those grants"
+ },
+ "fort211food": {
+  "monthly": 0,
+  "annual": 1200,
+  "once": 0,
+  "type": "inkind",
+  "note": "Illustrative annual food basket value; not cash"
+ },
+ "fort211saeo": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 500,
+  "type": "referral",
+  "note": "Illustrative referral outcome; overlaps underlying programs"
+ },
+ "fortwaterrelief": {
+  "monthly": 0,
+  "annual": 140,
+  "once": 0,
+  "type": "bill",
+  "note": "Illustration at published annual water credit"
+ },
+ "forttaxdeferral": {
+  "monthly": 0,
+  "annual": 300,
+  "once": 0,
+  "type": "financing",
+  "note": "Illustrative annual taxes deferred, still owed later"
+ },
+ "fortaduofficial": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 20000,
+  "type": "project",
+  "note": "Illustrative grant scenario; construction, rent and funding restrictions"
+ },
+ "fortstudy": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 2500,
+  "type": "project",
+  "note": "Illustrative feasibility study subsidy; verify program rules"
+ },
+ "fortperdoor": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 10000,
+  "type": "project",
+  "note": "Illustrative per-door affordable housing incentive; verify current terms"
+ },
+ "fortcip": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 5000,
+  "type": "project",
+  "note": "Illustrative location-dependent CIP incentive; verify eligibility"
+ },
+ "eap-kit": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 125,
+  "type": "inkind",
+  "note": "Estimated retail value of kit, not a program-published award"
+ },
+ "eap-fridge": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 1100,
+  "type": "inkind",
+  "note": "Estimated replacement appliance value"
+ },
+ "eap-freezer": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 850,
+  "type": "inkind",
+  "note": "Estimated replacement appliance value"
+ },
+ "eap-ac": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 500,
+  "type": "inkind",
+  "note": "Estimated replacement appliance value"
+ },
+ "eap-dehumid": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 350,
+  "type": "inkind",
+  "note": "Estimated replacement appliance value"
+ },
+ "eap-insulation": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 4000,
+  "type": "inkind",
+  "note": "Illustrative installed value; electric heat and assessment requirements"
+ },
+ "eap-heatpump": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 12000,
+  "type": "inkind",
+  "note": "Illustrative installed equipment value; only for eligible heating systems"
+ },
+ "hwp-insulation": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 3500,
+  "type": "inkind",
+  "note": "Illustrative installed value; home energy assessment required"
+ },
+ "hwp-draft": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 600,
+  "type": "inkind",
+  "note": "Illustrative installed value"
+ },
+ "hwp-thermostat": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 200,
+  "type": "inkind",
+  "note": "Illustrative installed value; linked to qualifying upgrades"
+ },
+ "hrs-heatpump": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 12000,
+  "type": "project",
+  "note": "Published up-to rebate, not an average; depends on heat pump and heating fuel"
+ },
+ "hrs-solar": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 10000,
+  "type": "project",
+  "note": "Published up-to combined rebate; eligible equipment required"
+ },
+ "hrs-insulation": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 7700,
+  "type": "project",
+  "note": "Published up-to bundled rebate; eligible upgrade costs required"
+ },
+ "hrs-attic": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 1250,
+  "type": "project",
+  "note": "Published up-to standalone rebate; alternative to bundled attic pathway"
+ },
+ "hrs-thermostat": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 125,
+  "type": "project",
+  "note": "Published eligible rebate; cannot also count free thermostat for same device"
+ },
+ "hrs-appliances": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 200,
+  "type": "project",
+  "note": "Published up-to rebate; qualifying purchase required"
+ },
+ "hrs-airseal": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 250,
+  "type": "project",
+  "note": "Published up-to bundled rebate; assessment and eligible work required"
+ },
+ "hrs-waterheater": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 500,
+  "type": "project",
+  "note": "Published rebate; eligible equipment and pathway required"
+ },
+ "hrs-assessment": {
+  "monthly": 0,
+  "annual": 0,
+  "once": 600,
+  "type": "project",
+  "note": "Published rebate, eligible bundled pathway required"
+ }
+}

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>OHA Team | Assistance Search</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=13">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="/" aria-label="Ontario Home Assistance home">
+    <span class="logo">OHA</span>
+    <span><strong>Ontario Home Assistance</strong><small>Team · Assistance Search</small></span>
+  </a>
+  <div class="who" id="who" hidden><span>Signed in as <b id="whoName"></b></span><button type="button" id="logoutBtn">Log out</button></div>
+</header>
+
+<section id="login" class="login" aria-labelledby="login_h">
+  <form id="loginForm" class="login-card" autocomplete="off">
+    <p class="eyebrow">Team Login</p>
+    <h1 id="login_h">Sign in to the assistance search</h1>
+    <p class="muted">For Ontario Home Assistance staff only.</p>
+    <label>Login<input id="loginUser" name="user" autocomplete="username" required></label>
+    <label>Password<input id="loginPass" name="pass" type="password" autocomplete="current-password" required></label>
+    <p id="loginMsg" class="login-msg" role="alert"></p>
+    <button class="primary" type="submit">Sign in</button>
+    <p class="fineprint"><a href="/">← Back to ontha.ca</a></p>
+  </form>
+</section>
+
+<main id="app" hidden>
+<div class="intro"><h1>Find assistance programs</h1><p>Enter the client's information, review programs that may apply, and prepare a report. Every result still needs the client's eligibility and current funding confirmed with the program.</p></div>
+<div id="dataBanner" class="databanner" role="status"></div>
+<nav class="tabs" aria-label="Sections"><button class="active" data-tab="search">1. Search</button><button data-tab="results">2. Results <span id="resultCount"></span></button><button data-tab="report">3. Report</button><button data-tab="admin">4. Admin wording</button></nav>
+
+<section id="search" class="panel active"><h2>Client profile</h2>
+<div class="formgrid"><label>Client name<input id="clientName" placeholder="Client name"></label><label>Street address<input id="streetAddress" placeholder="Street address (optional)"></label><label>Postal code<input id="postalCode" placeholder="Postal code (optional)"></label></div>
+<div class="note">Client details stay in this browser tab only. Nothing is saved or sent anywhere. Close the tab when you're finished.</div>
+<div class="formgrid"><label>Municipality<input id="city" list="cities" value="Barrie" placeholder="City, town or community" autocomplete="off"><datalist id="cities"></datalist><span id="cityHint" class="hint"></span></label>
+<label>Age<select id="age"><option value="under60">Under 60</option><option value="60-64">60–64</option><option value="65-69" selected>65–69</option><option value="70-74">70–74</option><option value="75+">75+</option></select></label>
+<label>Annual household income<select id="income"><option value="under20">Under $20,000</option><option value="under30" selected>$20,000–$29,999</option><option value="30to45">$30,000–$44,999</option><option value="45to60">$45,000–$59,999</option><option value="60plus">$60,000+</option><option value="unknown">Unknown</option></select></label>
+<label>Household members<select id="household"><option>1</option><option>2</option><option>3</option><option>4</option><option>5+</option></select></label>
+<label>Housing<select id="housing"><option value="owner">Owns and occupies home</option><option value="renter">Rents home</option><option value="other">Other / unknown</option></select></label>
+<label>GIS receipt<select id="gis"><option value="unknown">Unknown</option><option value="yes">Yes</option><option value="no">No</option></select></label>
+<label>Utility status<select id="utility"><option value="disconnection">Disconnection threatened</option><option value="arrears">Bills overdue</option><option value="current">Current</option><option value="unknown">Unknown</option></select></label>
+<label>Utility account in client's name?<select id="account"><option value="unknown">Unknown</option><option value="yes">Yes</option><option value="no">No</option></select></label></div>
+<h2>Search categories</h2><div id="categories" class="checks"></div>
+<div class="actions"><button class="primary" id="searchBtn">Find assistance →</button></div>
+<div id="searchWait" class="search-wait" role="status" aria-live="polite" hidden><div class="wait-icon" aria-hidden="true">⌛</div><h2>Preparing your assistance results</h2><p id="waitMessage">Your results will appear in <strong id="waitSeconds">10</strong> seconds.</p><div class="wait-track" role="progressbar" aria-label="Countdown" aria-valuemin="0" aria-valuemax="10" aria-valuenow="0" id="waitBar"><div class="wait-fill" id="waitFill"></div></div><button id="cancelWait" type="button">Cancel</button></div>
+</section>
+
+<section id="results" class="panel"><div class="section-head"><div><h2>Potential program matches</h2><p class="muted" id="resultMeta"></p></div><button id="toReport" class="primary">Prepare report →</button></div>
+<div id="coverageNote"></div>
+<div class="warning">Dollar amounts are illustrations, not guaranteed benefits. Monthly, yearly and one-time amounts are shown separately. Confirm eligibility, funding and current amounts with each program before presenting a total. <a href="https://211ontario.ca/" target="_blank" rel="noopener">Search 211 Ontario ↗</a> for community services not listed here.</div>
+<div id="estimateSummary"></div><div id="resultsList"></div></section>
+
+<section id="report" class="panel"><div class="section-head"><h2>Assessment report</h2><div class="actions"><button id="printBtn">Print / Save PDF</button><button id="copyBtn">Copy report</button></div></div>
+<div class="formgrid"><label>Audience<select id="audience"><option value="homeowner">Client</option><option value="representative">OHA representative</option><option value="office">Office / applications</option></select></label><label>Length<select id="length"><option value="short">Short</option><option value="medium" selected>Medium</option><option value="detailed">Detailed</option></select></label></div>
+<article id="reportContent" class="report"></article></section>
+
+<section id="admin" class="panel"><h2>Report wording controls</h2><p class="muted">Changes are saved only in this browser on this device. They are not shared with other staff.</p>
+<div class="formgrid"><label>Report heading<input id="wordTitle"></label><label>Client introduction<textarea id="wordIntro" rows="4"></textarea></label><label>Representative introduction<textarea id="wordRepIntro" rows="4"></textarea></label><label>Eligibility caution<textarea id="wordCaution" rows="4"></textarea></label><label>Action plan heading<input id="wordNext"></label><label>Our goal<textarea id="wordGoal" rows="3"></textarea></label><label>Step 1 title<input id="wordStep1"></label><label>Step 2 title<input id="wordStep2"></label><label>Step 3 title<input id="wordStep3"></label><label>Step 4 title<input id="wordStep4"></label><label>Agreement and 7-day process wording<textarea id="wordAgreement" rows="5"></textarea></label><label>What happens next<textarea id="wordAfter" rows="4"></textarea></label><label>Our commitment<textarea id="wordCommitment" rows="3"></textarea></label></div>
+<div class="actions"><button id="saveWords" class="primary">Save wording on this device</button><button id="resetWords">Restore defaults</button></div>
+<h2>Program list</h2><p class="muted">The program list is updated centrally every week, so every rep sees the same list. Download a copy for your records:</p>
+<div class="actions"><button id="exportJson">Download program list</button></div><p id="adminMsg" role="status"></p></section>
+</main>
+<footer>Ontario Home Assistance · Internal staff tool · Not a government eligibility decision. Programs are run by the governments and agencies named in each listing.</footer>
+<script src="app.js?v=13"></script>
+</body>
+</html>
