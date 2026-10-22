@@ -1,7 +1,7 @@
 # Changelog
 
 ## 2026-10-22: Ring 2 added
-- Added local programs for Toronto, Peel (Mississauga, Brampton, Caledon), Halton, Hamilton, York Region, Durham, Niagara and Dufferin: 36 new programs, 2 rewritten (Toronto basement flooding, Niagara Renovates), 1 updated (Niagara Emergency Energy Fund).
+- Added local programs for Toronto, Peel (Mississauga, Brampton, Caledon), Halton, Hamilton, York Region, Durham, Niagara and Dufferin: 38 new programs, 2 rewritten (Toronto basement flooding, Niagara Renovates), 1 updated (Niagara Emergency Energy Fund).
 - 123 programs in total; 113 checked against official or official-directory sources.
 - Added 37 community names to the city lookup (e.g. Scarborough → Toronto, Bowmanville → Clarington, Ancaster → Hamilton).
 - Links still to confirm: Oakville and Burlington tax pages (taken from community directory listings), Dufferin County Ontario Renovates page.
