@@ -79,21 +79,22 @@
    "renter",
    "other"
   ],
-  "amount": "Emergency energy assistance; confirm current maximum with Niagara Region",
-  "requirements": "Financial hardship and qualifying utility arrears; caseworker assessment required.",
-  "action": "Contact Niagara Region Utility Benefits.",
+  "amount": "Pays electricity or gas arrears to stop disconnection: up to $2,000 per utility once every 24 months.",
+  "requirements": "Niagara resident on OW/ODSP or low income; bill and disconnection notice in your name.",
+  "action": "Apply online through the Discretionary Benefits Portal or call 905-641-9960 ext. 6072.",
   "url": "https://www.niagararegion.ca/social-services/discretionary-benefits/utilities.aspx",
-  "phone": "",
-  "status": "Check current intake and funding",
+  "phone": "905-641-9960 ext. 6072",
+  "status": "Open.",
   "value": {
    "monthly": 0,
    "annual": 0,
    "once": 700,
    "type": "cash",
-   "note": "Illustrative emergency arrears payment; may overlap LEAP"
+   "note": "Illustrative; up to $2,000; overlaps LEAP"
   },
   "source": "https://www.niagararegion.ca/social-services/discretionary-benefits/utilities.aspx",
-  "verified": "Starter reference; not live-verified — Not re-checked in Oct 2026 review."
+  "verified": "Official Region page checked Oct 22, 2026.",
+  "checked": "2026-10-22"
  },
  {
   "id": "seniortax",
@@ -225,7 +226,7 @@
  },
  {
   "id": "niagrenov",
-  "name": "Niagara Renovates",
+  "name": "Niagara Renovates — Repairs and Accessibility",
   "level": "Regional",
   "regions": [
    "region:Niagara"
@@ -237,12 +238,12 @@
   "housing": [
    "owner"
   ],
-  "amount": "Conditional forgivable loan or accessibility assistance; project-dependent",
-  "requirements": "Homeownership, income, asset, home-value, title, repair type and funding availability restrictions.",
-  "action": "Check current intake before beginning work.",
-  "url": "https://www.niagararegion.ca/",
-  "phone": "",
-  "status": "Intake must be checked — may be closed",
+  "amount": "Forgivable loan for repairs (written off over 10 years); up to $5,000 accessibility grant.",
+  "requirements": "Household income up to $56,000–$83,500 by bedrooms; home below local average price (e.g. St. Catharines $639,258, Niagara Falls $679,086); assets under $40,000.",
+  "action": "Call 905-980-6000 ext. 3954 to check if 2026 intake has reopened.",
+  "url": "https://www.niagararegion.ca/government/incentive-programs/affordable-housing/renovations.aspx",
+  "phone": "905-980-6000 ext. 3954",
+  "status": "2026 reopening was pending budget — confirm before offering.",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -250,8 +251,9 @@
    "type": "financing",
    "note": "Illustrative forgivable repair financing; not unrestricted cash"
   },
-  "source": "https://www.niagararegion.ca/",
-  "verified": "Starter reference; not live-verified — Not re-checked in Oct 2026 review."
+  "source": "https://www.niagararegion.ca/government/incentive-programs/affordable-housing/renovations.aspx",
+  "verified": "Official Region page and directory (June 2025) checked Oct 22, 2026.",
+  "checked": "2026-10-22"
  },
  {
   "id": "access",
@@ -509,8 +511,8 @@
  },
  {
   "id": "import-17",
-  "name": "Basement Flooding Protection Subsidy",
-  "level": "Municipal / regional",
+  "name": "Toronto — Basement Flooding Protection Subsidy",
+  "level": "Municipal",
   "regions": [
    "city:Toronto"
   ],
@@ -518,25 +520,24 @@
    "repairs"
   ],
   "housing": [
-   "owner",
-   "renter",
-   "other"
+   "owner"
   ],
-  "amount": "Up to $6,650",
-  "requirements": "Eligible owner and approved work",
-  "action": "Check criteria and documents for Basement Flooding Protection Subsidy.",
-  "url": "https://www.toronto.ca/",
-  "phone": "",
-  "status": "Needs live confirmation",
+  "amount": "Up to 80% of costs, up to $6,650 per property: backwater valves up to $1,600 each (max 2), sump pump up to $2,250, battery backup $300, weeping tile severance $400, plumbing assessment $500.",
+  "requirements": "Registered owner of a single-family home to fourplex; downspouts disconnected; City-licensed contractor; no City taxes owing; apply within 2 years of work.",
+  "action": "Get a building permit for backwater valves; apply online with paid invoices.",
+  "url": "https://www.toronto.ca/services-payments/water-environment/basement-flooding-protection-subsidy-program/",
+  "phone": "416-338-7668",
+  "status": "Open; expanded May 1, 2026; first come first served.",
   "value": {
    "monthly": 0,
    "annual": 0,
    "once": 3000,
    "type": "project",
-   "note": "Illustrative basement flooding subsidy; geography and expenses apply"
+   "note": "Illustrative; up to $6,650"
   },
-  "source": "https://www.toronto.ca/",
-  "verified": "Imported from OHA research workbook; NOT independently verified — Not re-checked in Oct 2026 review."
+  "source": "https://www.toronto.ca/services-payments/water-environment/basement-flooding-protection-subsidy-program/",
+  "verified": "Official City page checked Oct 22, 2026.",
+  "checked": "2026-10-22"
  },
  {
   "id": "import-18",
@@ -2689,5 +2690,1194 @@
   "checked": "2026-10-21",
   "source": "https://guelph.ca/living/getting-around/bus/fares-and-passes/affordable-bus-pass/",
   "verified": "Official City page checked Oct 21, 2026."
+ },
+ {
+  "id": "toronto-tax-relief",
+  "housing": [
+   "owner"
+  ],
+  "phone": "311",
+  "checked": "2026-10-22",
+  "name": "Toronto — Property Tax, Water and Solid Waste Relief (seniors and disability)",
+  "level": "Municipal",
+  "regions": [
+   "city:Toronto"
+  ],
+  "categories": [
+   "tax",
+   "utility"
+  ],
+  "amount": "Cancellation or deferral of the yearly property tax increase, plus water and garbage bin rebates.",
+  "requirements": "Owner-occupant 1+ year; combined owner income $62,000 or less; 65+, or 60–64 on GIS, or receiving a disability benefit (deferral also open to 50+ with a pension). Cancellation needs assessment under $975,000. Water rebate needs use under 400 m³/yr.",
+  "action": "DEADLINE Nov 2, 2026. Apply online or mail the form to Revenue Services, 5100 Yonge St. Reapply every year.",
+  "url": "https://www.toronto.ca/services-payments/property-taxes-utilities/property-tax/property-tax-water-solid-waste-relief-and-rebate-programs/property-tax-and-utility-relief-program/",
+  "status": "Open; 2026 deadline Nov 2.",
+  "verified": "Official City page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 300,
+   "once": 0,
+   "type": "tax",
+   "note": "Illustrative; depends on tax increase and water use"
+  },
+  "source": "https://www.toronto.ca/services-payments/property-taxes-utilities/property-tax/property-tax-water-solid-waste-relief-and-rebate-programs/property-tax-and-utility-relief-program/"
+ },
+ {
+  "id": "toronto-hardship",
+  "housing": [
+   "owner"
+  ],
+  "phone": "311",
+  "checked": "2026-10-22",
+  "name": "Toronto — Tax Appeal for Sickness or Extreme Poverty",
+  "level": "Municipal",
+  "regions": [
+   "city:Toronto"
+  ],
+  "categories": [
+   "tax",
+   "debt"
+  ],
+  "amount": "Cancellation, reduction or refund of property taxes for owners unable to pay because of sickness or extreme poverty.",
+  "requirements": "Owner who cannot pay because of sickness or extreme poverty; reviewed case by case.",
+  "action": "Apply through the City's property tax appeal page; check the deadline on the page.",
+  "url": "https://www.toronto.ca/services-payments/property-taxes-utilities/property-tax/property-tax-water-solid-waste-relief-and-rebate-programs/property-tax-appeal-sickness-or-extreme-poverty/",
+  "status": "Ongoing.",
+  "verified": "Listed on official City relief page Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 0,
+   "type": "tax",
+   "note": "Amount decided by the City; no illustration set"
+  },
+  "source": "https://www.toronto.ca/services-payments/property-taxes-utilities/property-tax/property-tax-water-solid-waste-relief-and-rebate-programs/property-tax-appeal-sickness-or-extreme-poverty/"
+ },
+ {
+  "id": "toronto-help",
+  "housing": [
+   "owner"
+  ],
+  "phone": "",
+  "checked": "2026-10-22",
+  "name": "Toronto — Home Energy Loan Program (HELP)",
+  "level": "Municipal",
+  "regions": [
+   "city:Toronto"
+  ],
+  "categories": [
+   "repairs",
+   "utility"
+  ],
+  "amount": "Low-rate loans up to $125,000 for energy upgrades, repaid on the property tax bill (3.95% for 5 years to 5.20% for 20 years).",
+  "requirements": "Owner of a low-rise home in Toronto; all owners and mortgage lender consent; tax and utility accounts in good standing.",
+  "action": "Apply online; book an energy assessment if required.",
+  "url": "https://www.toronto.ca/services-payments/water-environment/net-zero-homes-buildings/homeowner-financing/home-energy-loan-program-help/",
+  "status": "Open; rates fixed to Dec 31, 2026.",
+  "verified": "Official City page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 20000,
+   "type": "financing",
+   "note": "Illustrative loan; repaid with interest"
+  },
+  "source": "https://www.toronto.ca/services-payments/water-environment/net-zero-homes-buildings/homeowner-financing/home-energy-loan-program-help/"
+ },
+ {
+  "id": "toronto-renovates",
+  "housing": [
+   "owner"
+  ],
+  "phone": "416-392-7620",
+  "checked": "2026-10-22",
+  "name": "Toronto Renovates — Homeowner Repairs and Accessibility",
+  "level": "Municipal",
+  "regions": [
+   "city:Toronto"
+  ],
+  "categories": [
+   "repairs",
+   "access"
+  ],
+  "amount": "Funding for essential repairs and accessibility changes for low-income senior and disabled homeowners.",
+  "requirements": "Low-income homeowner; seniors and people with disabilities prioritised; no other property.",
+  "action": "Call 416-392-7620 or email torontorenovates@toronto.ca to confirm intake before applying.",
+  "url": "https://www.toronto.ca/wp-content/uploads/2021/11/98ea-Toronto-Renovates-Assessment-Request-Form.pdf",
+  "status": "Current intake not confirmed — check before offering.",
+  "verified": "Program form (2021) found; current status not confirmed Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 10000,
+   "type": "financing",
+   "note": "Illustrative; amount not published"
+  },
+  "source": "https://www.toronto.ca/wp-content/uploads/2021/11/98ea-Toronto-Renovates-Assessment-Request-Form.pdf"
+ },
+ {
+  "id": "toronto-eef",
+  "housing": [
+   "owner",
+   "renter",
+   "other"
+  ],
+  "phone": "647-727-8988",
+  "checked": "2026-10-22",
+  "name": "Toronto — Emergency Energy Fund",
+  "level": "Municipal",
+  "regions": [
+   "city:Toronto"
+  ],
+  "categories": [
+   "utility",
+   "community"
+  ],
+  "amount": "Help to prevent disconnection, reconnect, or pay hydro, gas or oil arrears.",
+  "requirements": "Low-income Toronto resident not on OW/ODSP (OW/ODSP clients ask their caseworker).",
+  "action": "Call the Neighbourhood Information Post at 647-727-8988, weekdays 9–4:30.",
+  "url": "https://www.toronto.ca/community-people/employment-social-support/support-for-people-in-financial-need/assistance-through-ontario-works/policies-and-procedures/emergency-energy-fund-eef/",
+  "status": "Open.",
+  "verified": "Official City page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 650,
+   "type": "cash",
+   "note": "Illustrative; overlaps LEAP — do not add both"
+  },
+  "source": "https://www.toronto.ca/community-people/employment-social-support/support-for-people-in-financial-need/assistance-through-ontario-works/policies-and-procedures/emergency-energy-fund-eef/"
+ },
+ {
+  "id": "toronto-leap",
+  "housing": [
+   "owner",
+   "renter",
+   "other"
+  ],
+  "phone": "416-924-2543",
+  "checked": "2026-10-22",
+  "name": "LEAP intake — Toronto agencies",
+  "level": "Community",
+  "regions": [
+   "city:Toronto"
+  ],
+  "categories": [
+   "utility"
+  ],
+  "amount": "Up to $650 toward electricity or gas arrears ($780 for electric heat).",
+  "requirements": "Behind on bills and at risk of disconnection; after-tax income under LEAP limits.",
+  "action": "Book with the nearest agency, e.g. Neighbourhood Information Post 416-924-2543, Housing Help Centre (Scarborough) 416-285-8070, Albion (Etobicoke) 416-252-5990.",
+  "url": "https://www.torontohydro.com/for-home/financial-assistance",
+  "status": "Open.",
+  "verified": "Toronto Hydro agency list checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 650,
+   "type": "cash",
+   "note": "Same grant as provincial LEAP — do not add both"
+  },
+  "source": "https://www.torontohydro.com/for-home/financial-assistance"
+ },
+ {
+  "id": "toronto-rent-bank",
+  "housing": [
+   "renter"
+  ],
+  "phone": "311",
+  "checked": "2026-10-22",
+  "name": "Toronto Rent Bank",
+  "level": "Municipal",
+  "regions": [
+   "city:Toronto"
+  ],
+  "categories": [
+   "housing",
+   "debt"
+  ],
+  "amount": "Grant up to $5,000 for rent arrears, or $2,000–$3,500 for a rental deposit.",
+  "requirements": "Market-rent tenant; not on OW/ODSP; income up to $46,500 (1 person) to $66,500 (4); rent no more than 85% of income; asset limits.",
+  "action": "Apply online through Neighbourhood Information Post (nipost.org) or a Local Access Centre.",
+  "url": "https://www.toronto.ca/rentbank",
+  "status": "Open.",
+  "verified": "Official City page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 2500,
+   "type": "cash",
+   "note": "Illustrative; paid to landlord"
+  },
+  "source": "https://www.toronto.ca/rentbank"
+ },
+ {
+  "id": "toronto-fair-pass",
+  "housing": [
+   "owner",
+   "renter",
+   "other"
+  ],
+  "phone": "416-338-8888",
+  "checked": "2026-10-22",
+  "name": "TTC Fair Pass — Transit Discount",
+  "level": "Municipal",
+  "regions": [
+   "city:Toronto"
+  ],
+  "categories": [
+   "transport"
+  ],
+  "amount": "36% off adult TTC fares ($2.10 instead of $3.30), monthly cap $98.70.",
+  "requirements": "Age 20–64, Toronto resident, after-tax family income below 75% of LIM-AT (e.g. $23,488 for 1 person); OW/ODSP qualify.",
+  "action": "Apply online with a PRESTO card number or call 416-338-8888.",
+  "url": "https://www.toronto.ca/community-people/employment-social-support/support-for-people-in-financial-need/assistance-through-ontario-works/fair-pass-transit-discount-program/",
+  "status": "Open.",
+  "verified": "Official City page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 500,
+   "once": 0,
+   "type": "bill",
+   "note": "Illustrative yearly fare savings"
+  },
+  "source": "https://www.toronto.ca/community-people/employment-social-support/support-for-people-in-financial-need/assistance-through-ontario-works/fair-pass-transit-discount-program/"
+ },
+ {
+  "id": "peel-tax-rebate",
+  "housing": [
+   "owner"
+  ],
+  "phone": "",
+  "checked": "2026-10-22",
+  "name": "Peel — Property Tax Rebate for Low-income Seniors and Persons with Disabilities",
+  "level": "Regional",
+  "regions": [
+   "region:Peel"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "Yearly property tax rebate: Brampton $590 (2026); Mississauga $571 (2025, rises yearly).",
+  "requirements": "Owner 65+ receiving GIS, or receiving ODSP; principal residence owned 1+ year; apply every year.",
+  "action": "DEADLINE Dec 31, 2026. Apply to your city (Mississauga, Brampton or Caledon).",
+  "url": "https://peelregion.ca/finance/tax-rebate-seniors-and-disabilities.asp",
+  "links": {
+   "Brampton": "https://brampton.ca/en/residents/Taxes-Assessment/taxation/Pages/tax-adjustments-rebates.aspx"
+  },
+  "status": "Open; deadline Dec 31.",
+  "verified": "Peel Region and City of Brampton pages and Mississauga 2025 guide checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 590,
+   "once": 0,
+   "type": "cash",
+   "note": "2026 Brampton amount"
+  },
+  "source": "https://peelregion.ca/finance/tax-rebate-seniors-and-disabilities.asp"
+ },
+ {
+  "id": "mississauga-older-adult-subsidies",
+  "housing": [
+   "owner"
+  ],
+  "phone": "",
+  "checked": "2026-10-22",
+  "name": "Mississauga — Stormwater Subsidy and Outdoor Maintenance Subsidy",
+  "level": "Municipal",
+  "regions": [
+   "city:Mississauga"
+  ],
+  "categories": [
+   "utility",
+   "access"
+  ],
+  "amount": "100% of the yearly stormwater charge (automatic with the tax rebate), plus up to $400 a year back for paid yard care and snow removal.",
+  "requirements": "Tax rebate recipient (65+ on GIS or ODSP). Maintenance subsidy: no able-bodied person in the home; proof of payment.",
+  "action": "Stormwater: automatic. Maintenance: apply by Mar 31 of the next year; email tax@mississauga.ca.",
+  "url": "https://www.mississauga.ca/wp-content/uploads/2025/09/25151346/Financial-Assistance-for-Older-Adults-September-2025.pdf",
+  "status": "Open (per Sept 2025 City guide).",
+  "verified": "City of Mississauga guide (Sept 2025) checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 400,
+   "once": 0,
+   "type": "cash",
+   "note": "Published maintenance maximum"
+  },
+  "source": "https://www.mississauga.ca/wp-content/uploads/2025/09/25151346/Financial-Assistance-for-Older-Adults-September-2025.pdf"
+ },
+ {
+  "id": "peel-backwater",
+  "housing": [
+   "owner"
+  ],
+  "phone": "",
+  "checked": "2026-10-22",
+  "name": "Peel — Backwater Valve Rebate",
+  "level": "Regional",
+  "regions": [
+   "region:Peel"
+  ],
+  "categories": [
+   "repairs"
+  ],
+  "amount": "60% of the invoice, up to $1,500.",
+  "requirements": "Valve on the sanitary line; building permit and passed inspection.",
+  "action": "Apply after installation and inspection; cheque in 4–6 weeks.",
+  "url": "https://peelregion.ca/water/pipes-downspouts/backwater-valve-rebate",
+  "source": "https://peelregion.ca/wastewater/backwater-valve-rebate.asp",
+  "status": "Open (forms updated Dec 2025).",
+  "verified": "Peel Region page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 1500,
+   "type": "project",
+   "note": "Published maximum"
+  }
+ },
+ {
+  "id": "peel-water-relief",
+  "housing": [
+   "owner",
+   "renter",
+   "other"
+  ],
+  "phone": "905-791-8711",
+  "checked": "2026-10-22",
+  "name": "Peel — Water Bill Relief Program",
+  "level": "Regional",
+  "regions": [
+   "region:Peel"
+  ],
+  "categories": [
+   "utility"
+  ],
+  "amount": "Credit on the water bill: 20% of the rate-change increase for bills Apr 2026–Mar 2027.",
+  "requirements": "Peel water bill in your name and 65+, or low income ($35,000 for 1 to $52,500 for 5), or very low water use.",
+  "action": "Apply online through the Region's resident portal or call 905-791-8711.",
+  "url": "https://peelregion.ca/services/water-bill-relief-program",
+  "status": "Open; credit shrinks each year.",
+  "verified": "Official Region page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 40,
+   "once": 0,
+   "type": "bill",
+   "note": "Illustrative"
+  },
+  "source": "https://peelregion.ca/services/water-bill-relief-program"
+ },
+ {
+  "id": "peel-past-due",
+  "housing": [
+   "owner",
+   "renter",
+   "other"
+  ],
+  "phone": "",
+  "checked": "2026-10-22",
+  "name": "Peel — Emergency Help with Past-due Rent or Utility Bills",
+  "level": "Regional",
+  "regions": [
+   "region:Peel"
+  ],
+  "categories": [
+   "housing",
+   "utility",
+   "debt",
+   "community"
+  ],
+  "amount": "One-time financial help with overdue utility bills or rent; based on need.",
+  "requirements": "Peel resident behind on utilities or rent; proof of income and expenses.",
+  "action": "Apply online through a Peel Region account.",
+  "url": "https://peelregion.ca/help/past-due-bills/",
+  "status": "Open.",
+  "verified": "Official Region page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 650,
+   "type": "cash",
+   "note": "Illustrative; overlaps LEAP — do not add both"
+  },
+  "source": "https://peelregion.ca/help/past-due-bills/"
+ },
+ {
+  "id": "peel-transit",
+  "housing": [
+   "owner",
+   "renter",
+   "other"
+  ],
+  "phone": "905-793-9200",
+  "checked": "2026-10-22",
+  "name": "Peel — Affordable Transit Program (MiWay, Brampton Transit, Caledon)",
+  "level": "Regional",
+  "regions": [
+   "region:Peel"
+  ],
+  "categories": [
+   "transport"
+  ],
+  "amount": "50% off monthly passes and single fares for 12 months.",
+  "requirements": "Age 20+; net household income up to $30,255 (1 person) to $60,510 (4); PRESTO card.",
+  "action": "Apply online or call 905-793-9200.",
+  "url": "https://peelregion.ca/services/bus-fare-discounts",
+  "status": "Open.",
+  "verified": "Official Region page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 700,
+   "once": 0,
+   "type": "bill",
+   "note": "Illustrative yearly savings"
+  },
+  "source": "https://peelregion.ca/services/bus-fare-discounts"
+ },
+ {
+  "id": "halton-increase-deferral",
+  "housing": [
+   "owner"
+  ],
+  "phone": "311",
+  "checked": "2026-10-22",
+  "name": "Halton — Property Tax Increase Deferral (seniors and disability)",
+  "level": "Regional",
+  "regions": [
+   "region:Halton"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "Defers the yearly property tax increase until the home is sold.",
+  "requirements": "65+ or receiving disability benefits (ODSP, CPP-D or private); combined income $69,500 or less; principal residence.",
+  "action": "Apply to your town/city within 45 days of the final tax bill (usually early June). Renew yearly.",
+  "url": "https://www.halton.ca/repository/property-tax-increase-deferral-program-application",
+  "source": "https://www.halton.ca/getmedia/9c09f93b-365f-40f2-a8e6-d946618e95ed/fn-by-law-no-21-26-amended-09-25-tax-increase-deferral-program-apr-2026.pdf",
+  "status": "Annual; 2026 window has passed.",
+  "verified": "Halton by-law 21-26 (Apr 2026) checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 300,
+   "once": 0,
+   "type": "financing",
+   "note": "Illustrative tax deferred"
+  }
+ },
+ {
+  "id": "halton-older-adult-deferral",
+  "housing": [
+   "owner"
+  ],
+  "phone": "311",
+  "checked": "2026-10-22",
+  "name": "Halton — Older Adults Full Property Tax Deferral",
+  "level": "Regional",
+  "regions": [
+   "region:Halton"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "Defers ALL yearly property taxes as an interest-free loan, repaid on sale ($200 one-time fee).",
+  "requirements": "65+; principal residence for the last 4 years; combined income under $69,500; one property only.",
+  "action": "2026 intake closed; new applications expected spring 2027. Renewals due Sept 30.",
+  "url": "https://www.halton.ca/the-region/finance-and-transparency/property-taxes/older-adults-property-tax-deferral-program",
+  "status": "Closed for 2026 — reopens spring 2027.",
+  "verified": "Official Region page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 5000,
+   "once": 0,
+   "type": "financing",
+   "note": "Illustrative full tax deferred; repaid on sale"
+  },
+  "source": "https://www.halton.ca/the-region/finance-and-transparency/property-taxes/older-adults-property-tax-deferral-program"
+ },
+ {
+  "id": "oakville-seniors-rebate",
+  "housing": [
+   "owner"
+  ],
+  "phone": "905-845-6601",
+  "checked": "2026-10-22",
+  "name": "Oakville — Seniors Property Tax Rebate",
+  "level": "Municipal",
+  "regions": [
+   "city:Oakville"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "$500 per year.",
+  "requirements": "Owner 65+ where owner or spouse receives GIS; only owners/spouse live there. Can't combine with the deferral.",
+  "action": "Apply to ServiceOakville; email tax@oakville.ca.",
+  "url": "https://www.oakville.ca/home-environment/property-tax-assessments/tax-rebates-assistance/",
+  "source": "https://www.mississaugahaltonhealthline.ca/printService.aspx?id=111097",
+  "status": "Open.",
+  "verified": "Health directory listing (updated May 2026) checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 500,
+   "once": 0,
+   "type": "cash",
+   "note": "Published amount"
+  }
+ },
+ {
+  "id": "burlington-tax-reduction",
+  "housing": [
+   "owner"
+  ],
+  "phone": "905-335-7750",
+  "checked": "2026-10-22",
+  "name": "Burlington — Property Tax Reduction for Low-income Seniors and Persons with Disabilities",
+  "level": "Municipal",
+  "regions": [
+   "city:Burlington"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "$575 property tax reduction.",
+  "requirements": "Low-income senior or person with a disability (check City criteria). Can't combine with a deferral.",
+  "action": "DEADLINE Dec 31 each year. Contact the City tax office.",
+  "url": "https://www.burlington.ca/en/property-taxes/rebates-and-deferrals.aspx",
+  "source": "https://halton.cioc.ca/record/BTN4799",
+  "status": "Open; deadline Dec 31.",
+  "verified": "Community directory (updated Oct 19, 2026) checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 575,
+   "once": 0,
+   "type": "cash",
+   "note": "Published amount"
+  }
+ },
+ {
+  "id": "halton-hsf",
+  "housing": [
+   "owner",
+   "renter",
+   "other"
+  ],
+  "phone": "905-825-6000",
+  "checked": "2026-10-22",
+  "name": "Halton — Housing Stability Fund",
+  "level": "Regional",
+  "regions": [
+   "region:Halton"
+  ],
+  "categories": [
+   "housing",
+   "utility",
+   "debt"
+  ],
+  "amount": "One-time payments for unpaid rent, last month's rent, moving, and hydro/gas arrears (after applying to LEAP).",
+  "requirements": "Halton resident at risk of losing housing; assets under $5,000 (single/couple) or $10,000 (family).",
+  "action": "Apply online through a Halton 311 account or call 311 / 905-825-6000.",
+  "url": "https://halton.ca/For-Residents/Housing-Supports-and-Services/Housing/Housing-Stability-Fund",
+  "status": "Open.",
+  "verified": "Official Region page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 1000,
+   "type": "cash",
+   "note": "Illustrative; maximum not published"
+  },
+  "source": "https://halton.ca/For-Residents/Housing-Supports-and-Services/Housing/Housing-Stability-Fund"
+ },
+ {
+  "id": "halton-backwater",
+  "housing": [
+   "owner"
+  ],
+  "phone": "905-825-6000",
+  "checked": "2026-10-22",
+  "name": "Halton — Basement Flooding Prevention Subsidy (backwater valve)",
+  "level": "Regional",
+  "regions": [
+   "region:Halton"
+  ],
+  "categories": [
+   "repairs"
+  ],
+  "amount": "50% of cost up to $1,600 for a backwater valve; other subsidies for sump pumps and downspouts.",
+  "requirements": "On municipal sewer; building permit; weeping tile disconnected; apply within 1 year.",
+  "action": "Email basementfloodingsubsidy@halton.ca with invoice and permit sign-off.",
+  "url": "https://www.halton.ca/for-residents/water-and-wastewater-services/basement-flooding/flood-preparedness-and-reducing-your-risk/backwater-valve-installation-subsidy",
+  "status": "Open (amounts updated Sept 2025).",
+  "verified": "Official Region page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 1600,
+   "type": "project",
+   "note": "Published maximum"
+  },
+  "source": "https://www.halton.ca/for-residents/water-and-wastewater-services/basement-flooding/flood-preparedness-and-reducing-your-risk/backwater-valve-installation-subsidy"
+ },
+ {
+  "id": "hamilton-seniors-rebate",
+  "housing": [
+   "owner"
+  ],
+  "phone": "905-546-2489",
+  "checked": "2026-10-22",
+  "name": "Hamilton — Seniors Tax Rebate",
+  "level": "Municipal",
+  "regions": [
+   "city:Hamilton"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "Yearly credit on the property tax account.",
+  "requirements": "Owner or spouse 65+; household income $44,568 or less; home assessed $505,694 or less; owned 1+ year; prior taxes paid.",
+  "action": "Apply any time up to the last day of February of the following year.",
+  "url": "https://www.hamilton.ca/home-neighbourhood/property-taxes/property-tax-billing/tax-assistance-programs",
+  "source": "https://redbook.hpl.ca/node/11781",
+  "status": "Open.",
+  "verified": "Hamilton Public Library directory (updated July 2026) checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 200,
+   "once": 0,
+   "type": "cash",
+   "note": "Illustrative; amount not published"
+  }
+ },
+ {
+  "id": "hamilton-tax-deferral",
+  "housing": [
+   "owner"
+  ],
+  "phone": "905-546-2489",
+  "checked": "2026-10-22",
+  "name": "Hamilton — Tax Increase Deferral (seniors and disability)",
+  "level": "Municipal",
+  "regions": [
+   "city:Hamilton"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "Defers the yearly tax increase, interest-free while eligible.",
+  "requirements": "65+, or receiving ODSP, GIS disability or CPP disability; income limit applies; owned 1+ year.",
+  "action": "Apply by the last day of February of the following year.",
+  "url": "https://hamilton.ca/sites/default/files/2024-06/taxes-full-deferral-tax-application-jun2024.pdf",
+  "status": "Open; renew yearly.",
+  "verified": "City application form (2024) checked Oct 22, 2026; confirm current income limit.",
+  "value": {
+   "monthly": 0,
+   "annual": 300,
+   "once": 0,
+   "type": "financing",
+   "note": "Illustrative tax deferred"
+  },
+  "source": "https://hamilton.ca/sites/default/files/2024-06/taxes-full-deferral-tax-application-jun2024.pdf"
+ },
+ {
+  "id": "hamilton-renovates",
+  "housing": [
+   "owner"
+  ],
+  "phone": "905-546-2424 ext. 2758",
+  "checked": "2026-10-22",
+  "name": "Hamilton — Ontario Renovates (repairs and accessibility)",
+  "level": "Municipal",
+  "regions": [
+   "city:Hamilton"
+  ],
+  "categories": [
+   "repairs",
+   "access"
+  ],
+  "amount": "Help with basic repairs (roof, plumbing, electrical, furnace) or accessibility changes; limited funding.",
+  "requirements": "Owner-occupant; household income up to $60,000; home assessed $300,000 or less; mortgage, taxes and insurance current.",
+  "action": "Call 905-546-2424 ext. 2758.",
+  "url": "https://www.hamilton.ca/people-programs/housing-shelter/supported-housing/ontario-renovates-programs",
+  "source": "https://centraleast.rehabcareontario.ca/Services/PrintServiceDetailsNoTracking/180572",
+  "status": "Open; limited funding.",
+  "verified": "Health directory listing (updated June 2026) checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 10000,
+   "type": "financing",
+   "note": "Illustrative; amount not published"
+  }
+ },
+ {
+  "id": "hamilton-3p",
+  "housing": [
+   "owner"
+  ],
+  "phone": "905-546-2489",
+  "checked": "2026-10-22",
+  "name": "Hamilton — Protective Plumbing Program (3P)",
+  "level": "Municipal",
+  "regions": [
+   "city:Hamilton"
+  ],
+  "categories": [
+   "repairs"
+  ],
+  "amount": "Grant up to $2,000 for a backwater valve, sump pump or downspout disconnection, plus a loan for costs above the grant.",
+  "requirements": "Single-family home with a basement on City sewer, built before 2012; no tax arrears.",
+  "action": "Email waterstorefront@hamilton.ca or call 905-546-2489.",
+  "url": "https://hamilton.ca/home-neighbourhood/house-home/basement-flooding/protective-plumbing-program",
+  "source": "https://hellodarwin.com/business-aid/programs/protective-plumbing-program",
+  "status": "Open, continuous intake.",
+  "verified": "Program summary (verified July 2026) checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 2000,
+   "type": "project",
+   "note": "Published maximum"
+  }
+ },
+ {
+  "id": "hamilton-hef",
+  "housing": [
+   "owner",
+   "renter",
+   "other"
+  ],
+  "phone": "",
+  "checked": "2026-10-22",
+  "name": "Hamilton — Housing Emergency Fund",
+  "level": "Municipal",
+  "regions": [
+   "city:Hamilton"
+  ],
+  "categories": [
+   "housing",
+   "utility",
+   "debt"
+  ],
+  "amount": "Help with rent arrears, utility arrears and last month's rent; capped by household size over 24 months.",
+  "requirements": "Low-income Hamilton resident; housing costs no more than 95% of income; eviction or disconnection notice.",
+  "action": "Low-income/ODSP: apply through the Hamilton Housing Help Centre. Email hef@hamilton.ca.",
+  "url": "https://www.hamilton.ca/people-programs/housing-shelter/housing-supports/housing-emergency-fund",
+  "source": "https://redbook.hpl.ca/node/26161",
+  "status": "Open.",
+  "verified": "Library directory (updated Jan 2026) checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 1000,
+   "type": "cash",
+   "note": "Illustrative"
+  }
+ },
+ {
+  "id": "york-tax-deferral",
+  "housing": [
+   "owner"
+  ],
+  "phone": "",
+  "checked": "2026-10-22",
+  "name": "York Region — Tax Deferral for Seniors and Low-income Persons with Disabilities",
+  "level": "Regional",
+  "regions": [
+   "region:York"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "Defers the yearly tax increase (for low-income 55–64: the part over $300), repaid on sale.",
+  "requirements": "65+; or 55–64 with income up to $23,000 (single) / $40,000 (family); or on ODSP/GAINS-D. Principal residence.",
+  "action": "Apply to your city/town by Sept 30 each year (2026 window passed — plan for 2027).",
+  "url": "https://www.Vaughan.ca/sites/default/files/Property%20Tax%20Deferral%20for%20Seniors%20and%20Disabled%20Persons.pdf",
+  "links": {
+   "King": "https://www.king.ca/sites/default/files/docs/Low%20Income%20Seniors%20Deferral%20application.pdf",
+   "Aurora": "https://www.aurora.ca/media/n22nfhli/property-tax-deferral-program-form.pdf"
+  },
+  "status": "Annual; deadline Sept 30.",
+  "verified": "Vaughan form under York By-law A-0399-2004-026 checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 300,
+   "once": 0,
+   "type": "financing",
+   "note": "Illustrative tax deferred"
+  },
+  "source": "https://www.Vaughan.ca/sites/default/files/Property%20Tax%20Deferral%20for%20Seniors%20and%20Disabled%20Persons.pdf"
+ },
+ {
+  "id": "richmondhill-senior-grant",
+  "housing": [
+   "owner"
+  ],
+  "phone": "",
+  "checked": "2026-10-22",
+  "name": "Richmond Hill — Senior Tax Assistance Grant",
+  "level": "Municipal",
+  "regions": [
+   "city:Richmond Hill"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "Yearly grant on the tax bill (amount set in the annual budget).",
+  "requirements": "Owner 65+ receiving GIS; principal residence owned 1+ year; one per household.",
+  "action": "Apply by Sept 30 each year (by Mar 31 to apply to that year's final bill).",
+  "url": "https://richmondhill.ca/en/online-services/Tax-Assistance-Programs.aspx",
+  "source": "https://www.richmondhill.ca/en/shared-content/resources/documents/Senior-Tax-Grant-2026.pdf",
+  "status": "Annual; deadline Sept 30.",
+  "verified": "Official 2026 grant document checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 300,
+   "once": 0,
+   "type": "cash",
+   "note": "Illustrative; amount set yearly"
+  }
+ },
+ {
+  "id": "york-homelessness-prevention",
+  "housing": [
+   "owner",
+   "renter",
+   "other"
+  ],
+  "phone": "1-877-464-9675",
+  "checked": "2026-10-22",
+  "name": "York Region — Homelessness Prevention Program (incl. mortgage arrears)",
+  "level": "Regional",
+  "regions": [
+   "region:York"
+  ],
+  "categories": [
+   "housing",
+   "utility",
+   "debt",
+   "community"
+  ],
+  "amount": "Help with rent, utility or MORTGAGE arrears, utility deposits/reconnection, moving costs.",
+  "requirements": "York resident not on OW/ODSP; at risk of losing housing or utilities; household income up to $47,952 (1) to $126,870 (7+).",
+  "action": "Call Access York 1-877-464-9675. OW/ODSP clients: Housing Stability Program 1-888-256-1112.",
+  "url": "https://www.york.ca/node/44101",
+  "status": "Open.",
+  "verified": "Official Region page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 1500,
+   "type": "cash",
+   "note": "Illustrative; amount not published"
+  },
+  "source": "https://www.york.ca/node/44101"
+ },
+ {
+  "id": "durham-reassessment-deferral",
+  "housing": [
+   "owner"
+  ],
+  "phone": "",
+  "checked": "2026-10-22",
+  "name": "Durham — Reassessment Tax Increase Deferral (seniors and ODSP)",
+  "level": "Regional",
+  "regions": [
+   "region:Durham"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "Defers reassessment-related increases over 5% or $100.",
+  "requirements": "65+ on GIS, or ODSP-eligible.",
+  "action": "Currently closed; reopens with the next province-wide MPAC reassessment.",
+  "url": "https://www.durham.ca/regional-government/property-taxes/",
+  "status": "CLOSED until next reassessment.",
+  "verified": "Durham Region and Whitby pages checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 0,
+   "type": "financing",
+   "note": "Program closed"
+  },
+  "source": "https://www.durham.ca/regional-government/property-taxes/"
+ },
+ {
+  "id": "pickering-tax-grant",
+  "housing": [
+   "owner"
+  ],
+  "phone": "905-420-4614",
+  "checked": "2026-10-22",
+  "name": "Pickering — Tax Grant for Low-income Seniors and Persons with Disabilities",
+  "level": "Municipal",
+  "regions": [
+   "city:Pickering"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "$620 (2026).",
+  "requirements": "65+ on GIS, or ODSP; owned and occupied 1+ year.",
+  "action": "Apply by Aug 19 each year (2026 window passed — plan for 2027).",
+  "url": "https://pickering.ca/en/city-hall/grants-and-deferrals.aspx",
+  "status": "Annual; deadline Aug 19.",
+  "verified": "Official City page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 620,
+   "once": 0,
+   "type": "cash",
+   "note": "2026 amount"
+  },
+  "source": "https://pickering.ca/en/city-hall/grants-and-deferrals.aspx"
+ },
+ {
+  "id": "oshawa-tax-grant",
+  "housing": [
+   "owner"
+  ],
+  "phone": "",
+  "checked": "2026-10-22",
+  "name": "Oshawa — Tax Grant for Low-income Seniors and Persons with Disabilities",
+  "level": "Municipal",
+  "regions": [
+   "city:Oshawa"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "Grant applied to the property tax account.",
+  "requirements": "Low-income senior or person with a disability; occupied 1+ year before Dec 31; one per household.",
+  "action": "Apply Jan 1–Apr 30 each year, online or at Service Oshawa.",
+  "url": "https://www.oshawa.ca/en/home-property/tax-rebates-and-reductions.aspx",
+  "status": "Annual; Jan 1–Apr 30.",
+  "verified": "Official City page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 300,
+   "once": 0,
+   "type": "cash",
+   "note": "Illustrative; amount not published"
+  },
+  "source": "https://www.oshawa.ca/en/home-property/tax-rebates-and-reductions.aspx"
+ },
+ {
+  "id": "whitby-seniors-rebate",
+  "housing": [
+   "owner"
+  ],
+  "phone": "",
+  "checked": "2026-10-22",
+  "name": "Whitby — Low-income Seniors and Disability Tax Rebate",
+  "level": "Municipal",
+  "regions": [
+   "city:Whitby"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "Yearly property tax rebate (one per roll number).",
+  "requirements": "65+ qualifying for GIS (separate program for low-income homeowners with disabilities); principal residence.",
+  "action": "Apply by Dec 31 each year.",
+  "url": "https://www.whitby.ca/services-and-payments/property-taxes/tax-rebate-and-relief-programs/low-income-seniors/",
+  "links": {},
+  "status": "Open; deadline Dec 31.",
+  "verified": "Official Town page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 300,
+   "once": 0,
+   "type": "cash",
+   "note": "Illustrative; amount not published"
+  },
+  "source": "https://www.whitby.ca/services-and-payments/property-taxes/tax-rebate-and-relief-programs/low-income-seniors/"
+ },
+ {
+  "id": "durham-hsp",
+  "housing": [
+   "owner",
+   "renter",
+   "other"
+  ],
+  "phone": "905-666-6239 ext. 1803",
+  "checked": "2026-10-22",
+  "name": "Durham — Housing Stability Program",
+  "level": "Regional",
+  "regions": [
+   "region:Durham"
+  ],
+  "categories": [
+   "housing",
+   "utility",
+   "debt"
+  ],
+  "amount": "Up to 2 months of rent or utility arrears, deposits, reconnection fees and moving costs.",
+  "requirements": "Low-income Durham resident behind on rent/utilities or homeless.",
+  "action": "Apply online at forms.durham.ca or call 905-666-6239 ext. 1803.",
+  "url": "https://www.durham.ca/living-here/living-with-low-income/housing-outreach-eviction-prevention-and-utility-and-rent-arrears-resources/",
+  "status": "Open.",
+  "verified": "Official Region page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 1000,
+   "type": "cash",
+   "note": "Illustrative"
+  },
+  "source": "https://www.durham.ca/living-here/living-with-low-income/housing-outreach-eviction-prevention-and-utility-and-rent-arrears-resources/"
+ },
+ {
+  "id": "niagara-region-deferral",
+  "housing": [
+   "owner"
+  ],
+  "phone": "",
+  "checked": "2026-10-22",
+  "name": "Niagara Region — Tax Increase Deferral (seniors and ODSP)",
+  "level": "Regional",
+  "regions": [
+   "region:Niagara"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "Defers part of a yearly tax increase above $200.",
+  "requirements": "65+ on GIS, or ODSP; owner-occupant 1+ year; taxes up to date.",
+  "action": "Apply to your local municipality by Feb 28 of the following year.",
+  "url": "https://niagarafalls.ca/property-home-and-environment/property-tax-and-assessment/water-and-property-tax-relief-programs/",
+  "status": "Open; deadline Feb 28 following year.",
+  "verified": "City of Niagara Falls page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 200,
+   "once": 0,
+   "type": "financing",
+   "note": "Illustrative"
+  },
+  "source": "https://niagarafalls.ca/property-home-and-environment/property-tax-and-assessment/water-and-property-tax-relief-programs/"
+ },
+ {
+  "id": "niagarafalls-deferral",
+  "housing": [
+   "owner"
+  ],
+  "phone": "905-356-7521 ext. 4214",
+  "checked": "2026-10-22",
+  "name": "Niagara Falls — Senior/ODSP Property Tax Deferral ($500/yr)",
+  "level": "Municipal",
+  "regions": [
+   "city:Niagara Falls"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "Defers $500 a year for up to 10 years (max $5,000); $150 fee at discharge.",
+  "requirements": "65+ on GIS, or ODSP; principal residence 1+ year; pre-authorized payment plan required.",
+  "action": "Apply Aug 1–Oct 31 each year (2026: by Oct 31).",
+  "url": "https://niagarafalls.ca/property-home-and-environment/property-tax-and-assessment/water-and-property-tax-relief-programs/",
+  "status": "Open; deadline Oct 31, 2026.",
+  "verified": "Official City page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 500,
+   "once": 0,
+   "type": "financing",
+   "note": "Published deferral amount"
+  },
+  "source": "https://niagarafalls.ca/property-home-and-environment/property-tax-and-assessment/water-and-property-tax-relief-programs/"
+ },
+ {
+  "id": "niagarafalls-tenant-water",
+  "housing": [
+   "renter"
+  ],
+  "phone": "905-356-7521",
+  "checked": "2026-10-22",
+  "name": "Niagara Falls — Tenant Water Rebate (GIS/ODSP)",
+  "level": "Municipal",
+  "regions": [
+   "city:Niagara Falls"
+  ],
+  "categories": [
+   "utility"
+  ],
+  "amount": "$102 water account credit.",
+  "requirements": "Tenant with water account, on GIS or ODSP.",
+  "action": "Apply Aug 1–Oct 31, 2026.",
+  "url": "https://niagarafalls.ca/property-home-and-environment/property-tax-and-assessment/water-and-property-tax-relief-programs/",
+  "status": "Open; deadline Oct 31, 2026.",
+  "verified": "Official City page checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 102,
+   "type": "bill",
+   "note": "Published credit"
+  },
+  "source": "https://niagarafalls.ca/property-home-and-environment/property-tax-and-assessment/water-and-property-tax-relief-programs/"
+ },
+ {
+  "id": "dufferin-renovates",
+  "housing": [
+   "owner"
+  ],
+  "phone": "519-941-6991 ext. 2110",
+  "checked": "2026-10-22",
+  "name": "Dufferin County — Ontario Renovates",
+  "level": "Regional",
+  "regions": [
+   "region:Dufferin"
+  ],
+  "categories": [
+   "repairs",
+   "access"
+  ],
+  "amount": "Interest-free loan for necessary repairs and accessibility work.",
+  "requirements": "Moderate-income owner; sole residence in Dufferin; taxes, mortgage and insurance current.",
+  "action": "Call 519-941-6991 ext. 2110 to confirm funding before applying.",
+  "url": "https://www.dufferincounty.ca/housing-services/ontario-renovates-program",
+  "source": "https://dufferincounty.cioc.ca/record/DUF0023?PrintMd=on",
+  "status": "Subject to funding — confirm.",
+  "verified": "Community directory (2024) checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 10000,
+   "type": "financing",
+   "note": "Illustrative; amount not published"
+  }
+ },
+ {
+  "id": "dufferin-tax-relief",
+  "housing": [
+   "owner"
+  ],
+  "phone": "",
+  "checked": "2026-10-22",
+  "name": "Dufferin County — Tax Relief for Low-income Seniors and Persons with Disabilities",
+  "level": "Regional",
+  "regions": [
+   "region:Dufferin"
+  ],
+  "categories": [
+   "tax"
+  ],
+  "amount": "Rebate of the yearly tax increase (less $50).",
+  "requirements": "65+ eligible for GIS, or on ODSP; owned in Dufferin 1+ year.",
+  "action": "Apply to your town with the final tax bill by Nov 30, 2026.",
+  "url": "https://townofgrandvalley.ca/media/1sjkv1k3/tax-relief-application.pdf",
+  "status": "Open; deadline Nov 30.",
+  "verified": "County by-law application form checked Oct 22, 2026.",
+  "value": {
+   "monthly": 0,
+   "annual": 100,
+   "once": 0,
+   "type": "cash",
+   "note": "Illustrative"
+  },
+  "source": "https://townofgrandvalley.ca/media/1sjkv1k3/tax-relief-application.pdf"
  }
 ]
