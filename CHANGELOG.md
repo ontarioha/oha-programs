@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-22: Building fee and ARU incentives
+- Added 7 programs that cut building permit fees or development charges, or give grants, for adding a unit: Ontario-wide development charge exemption for 2nd/3rd units; Barrie 2026 ARU incentives (permit fees cut 50% then fully rebated); Mississauga permit fee refund; Toronto garden/laneway suite charge deferral; Hamilton ADU grant (up to $40,000/unit); Brampton garden suite fee grant; St. Catharines ADU grant (up to $40,000/$80,000).
+- Already in the list: Kitchener ADU grant, City of Waterloo ARU grant, Barrie Bonus, Simcoe and Waterloo secondary suite funding.
+- Checked and not added: Guelph multi-unit grant (5+ units, closed July 2026); Peel second unit program (on hold); Burlington affordable ARU grant (closed); Oshawa and Clarington (no incentive found).
+
 ## 2026-10-22: Ring 2 added
 - Added local programs for Toronto, Peel (Mississauga, Brampton, Caledon), Halton, Hamilton, York Region, Durham, Niagara and Dufferin: 38 new programs, 2 rewritten (Toronto basement flooding, Niagara Renovates), 1 updated (Niagara Emergency Energy Fund).
 - 123 programs in total; 113 checked against official or official-directory sources.
