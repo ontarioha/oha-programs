@@ -1,5 +1,41 @@
 # Changelog
 
+## 2026-11-01: Weekly check
+- 132 programs reviewed: 127 confirmed against official pages (checked dates set to 2026-11-01), 32 changed, 0 added, 5 couldn't be checked. 132 programs in total.
+
+Changes:
+- Oakville Seniors Property Tax Rebate: Open (deadline Oct 31) → CLOSED for 2026; watch for 2027 form
+- Niagara Falls Senior/ODSP Tax Deferral: Open, deadline Oct 31 → closed for 2026; next intake Aug 1–Oct 31, 2027
+- Niagara Falls Tenant Water Rebate: Open, deadline Oct 31 → closed for 2026; watch for 2027 dates
+- Fort Erie Seniors Utility Relief Fund: open window → 2026 window closed Oct 31; credit applied in November; next window May 1, 2027
+- Cambridge, Kitchener and Waterloo townships tax deferrals: "Open; deadline Nov 1" → 2026 deadline passed Nov 1 (Sunday); call Monday about late applications; next deadline Nov 1, 2027
+- City of Waterloo tax deferral: "Open; deadline Nov 1" → deadline today; email revenue@waterloo.ca, otherwise next deadline Nov 1, 2027
+- Wellington County Tax Relief: Open, deadline Nov 1 → 2026 deadline passed; next deadline Nov 1, 2027
+- Toronto Property Tax/Water/Solid Waste Relief: "Open; deadline Nov 2" → deadline is tomorrow (Mon Nov 2); closed after that
+- York Region Tax Deferral: "deadline Sept 30" → 2026 window closed; next Sept 30, 2027; Aurora form link → new address
+- Richmond Hill Senior Tax Grant: "deadline Sept 30" → 2026 window closed; reapply 2027
+- Pickering Tax Grant: "deadline Aug 19" → 2026 window closed; next Aug 19, 2027; link → new City page
+- Oshawa Tax Grant: "Jan 1–Apr 30" → 2026 window closed, reopens Jan 1, 2027; link → new City page; phone (blank) → 905-436-3311
+- Guelph Greener Homes: "PAUSED to new registrations" → loans closed (waitlist only), low-income heat pump grants available but limited; 2-person income limit $66,595 → $68,193
+- Guelph Affordable Bus Pass: 1-person income limit $26,926 → $27,478
+- Wellington-Guelph Housing Stability Programme: phone 519-837-2670 x3712 → 519-837-6274 x3712
+- Wellington-Guelph Emergency Energy/LEAP: phone 519-837-2670 x3712 → 519-837-6274 x3712 (County: 519-843-7000); LEAP noted as for Guelph Hydro customers
+- Wellington-Guelph Housing Allowance: phone 519-824-7822 x4060 → 519-837-6274 x4060
+- Hamilton Housing Emergency Fund: phone (blank) → 905-546-2424 ext. 6555; caps added ($3,000 single to $7,000 for 5+ over 24 months); source library directory → City info sheet
+- Hamilton Protective Plumbing (3P): link → corrected City page; source business-aid site → City Jan 2026 form; loan described as up to $2,000 at 4% over 10 years
+- Hamilton Ontario Renovates: link → new City page address; source health directory → City application form
+- St. Catharines ADU Grant: "$80,000 detached" → "$80,000 exterior" (City wording); phone (blank) → 905-688-5600
+- Fort Erie Community Improvement Plan: vague amount → itemized Downtown Core/Brownfield/Gateway incentives; noted as business/redevelopment only, not general homeowner repairs; phone (blank) → 905-871-1332
+- Kitchener Stormwater Credit: email stormwater@kitchener.ca → stormwaterutility@kitchener.ca; link → current page address
+- Niagara Emergency Energy Fund: link → new Niagara Region page
+- OESP: source oeb.ca/node/121 → full OEB OESP page
+- LEAP (United Way Simcoe Muskoka): source health directory → United Way LEAP FAQ
+- Simcoe towns tax relief: Innisfil and Wasaga Beach links → towns' new web pages
+- Barrie Bonus, Barrie 2026 ARU Incentives, Barrie Water/Wastewater Relief: short node links → full City page addresses
+
+Needs a decision: Oakville, Niagara Falls (2) and other closed-for-2026 listings could be hidden until 2027; Guelph Greener Homes grants are open again; Fort Erie CIP is business-only (consider removing "repairs"/owner match); Hamilton duplicate (import-18) still listed; Toronto Renovates still unconfirmed.
+Couldn't check: City of Waterloo ARU Grant, Fort Erie Salvation Army utility help (211), Fort Erie Tax Deferral, Toronto Renovates, Dufferin Ontario Renovates.
+
 ## 2026-10-25: Weekly check
 - 130 programs reviewed: 125 confirmed against official pages (checked dates set to 2026-10-25), 23 changed, 2 added, 5 couldn't be checked. 132 programs in total.
 
