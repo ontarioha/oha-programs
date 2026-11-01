@@ -230,7 +230,21 @@
   "Vineland": "Lincoln",
   "Fonthill": "Pelham",
   "Smithville": "West Lincoln",
-  "Virgil": "Niagara-on-the-Lake"
+  "Virgil": "Niagara-on-the-Lake",
+  "Orono": "Clarington",
+  "Brooklin": "Whitby",
+  "Ashburn": "Whitby",
+  "Port Whitby": "Whitby",
+  "Claremont": "Pickering",
+  "Pickering Village": "Ajax",
+  "Sunderland": "Brock",
+  "Blackstock": "Scugog",
+  "Greenbank": "Scugog",
+  "Port Bolster": "Brock",
+  "Hampton": "Clarington",
+  "Enniskillen": "Clarington",
+  "Newtonville": "Clarington",
+  "Port Darlington": "Clarington"
  },
  "coverage": {
   "Waterloo": "researched",

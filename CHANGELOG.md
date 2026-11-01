@@ -1,5 +1,30 @@
 # Changelog
 
+## 2026-11-01: Durham Region deep-dive (Oshawa and surrounding)
+- 14 programs added, 1 updated. 146 programs in total. Durham now has 19 local listings (was 5).
+
+Added:
+- Durham Greener Homes Loan: 2% loan up to $125,000 over 15 years for energy/renovation work (all Durham except Pickering)
+- Durham Greener Homes: free renovation coach + free Weather-ready Home Assessment (all Durham)
+- Durham LEAP intake: Community Development Council Durham, 905-686-2661 (Elexicon and Oshawa Power customers)
+- Oshawa Power: Arrears Management, Compassion Fund, Rainy Day Fund
+- Durham water bill payment help (60+ due-date extension)
+- Durham Region Transit Assistance Program: $53.76/month unlimited for OW/ODSP
+- Oshawa Tax Relief for sickness or extreme poverty (Section 357)
+- Clarington property tax cancellation/reduction (hardship)
+- Brock Low-income Seniors Tax Rebate: $355 (deadline Sept 30)
+- Scugog Tax Grant for low-income seniors/ODSP: $375 (deadline Aug 31)
+- Oshawa Snow Clearing Help for seniors/disabled (open to Dec 18)
+- Whitby free windrow clearing (2026 registration closed Nov 1)
+- Clarington snow clearing for seniors/disabled, $107.69 (closed Oct 31)
+- Whitby ADU fee reimbursement (closed to new permits Dec 31, 2025)
+
+Updated:
+- Durham Housing Stability Program: added arrears caps ($3,000–$4,000), income limits ($50,000 for 1 to $78,000 for 7+), phone 905-668-4113 ext. 3474, area outreach workers
+
+Not found: no Ontario Renovates / home repair program currently offered by Durham Region; no seniors tax rebate published by Ajax or Uxbridge.
+Search: added community names Orono, Brooklin, Ashburn, Claremont, Sunderland, Blackstock, Greenbank, Hampton and others.
+
 ## 2026-11-01: Weekly check
 - 132 programs reviewed: 127 confirmed against official pages (checked dates set to 2026-11-01), 32 changed, 0 added, 5 couldn't be checked. 132 programs in total.
 
