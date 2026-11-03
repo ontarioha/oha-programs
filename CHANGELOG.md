@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-03: Age and income eligibility tags
+- Added an `eligibility` field to 85 of 146 programs (age limits, GIS requirement, disability route, household income limits by size). Built by `tools/add_eligibility.py`.
+- The search page uses these tags to hide programs a client clearly can't qualify for. Net and after-tax limits are compared with 30% headroom because the form asks for gross income; "low income" programs with no published figure are hidden only at $100,000+.
+- Programs without the field are never filtered by age or income.
+
 ## 2026-11-01: Durham Region deep-dive (Oshawa and surrounding)
 - 14 programs added, 1 updated. 146 programs in total. Durham now has 19 local listings (was 5).
 
