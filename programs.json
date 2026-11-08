@@ -27,9 +27,9 @@
    "type": "bill",
    "note": "Monthly on-bill credit; household and after-tax income determine actual rate"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.oeb.ca/consumer-information-and-protection/bill-assistance-programs/ontario-electricity-support-program",
-  "verified": "OEB OESP page checked Nov 1, 2026: standard monthly credits by household size and income (1–2 people $45 at ≤$38,000; up to $71,000 for 5+), enhanced $52–$113 (electric heat, medical devices, Indigenous); 1-855-831-8151; no closure notice.",
+  "verified": "OEB OESP page checked Nov 8, 2026: credit table unchanged (1-2 people $45 at <=$38,000; top bracket $65,001-$71,000 for 5+), enhanced $52-$113 (electric heat, medical devices, Indigenous), 1-855-831-8151, no closure notice; ontarioelectricitysupport.ca could not be opened this week.",
   "eligibility": {
    "maxIncome": 71000,
    "incomeBasis": "after-tax"
@@ -63,9 +63,9 @@
    "type": "cash",
    "note": "Published maximum; capped at amount owed. May overlap other local emergency energy funds"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.oeb.ca/consumer-information-and-protection/bill-assistance-programs/low-income-energy-assistance-program",
-  "verified": "OEB LEAP page checked Nov 1, 2026: up to $650 electricity or gas ($780 electrically heated), paid to utility; income limits $38,000 (1) to $71,000 (5–7); apply through intake agency; no closure notice.",
+  "verified": "OEB LEAP page checked Nov 8, 2026: up to $650 electricity or gas ($780 electrically heated), capped at amount owed, paid to utility; income limits under $38,000 (1) to $71,000 (5-7); apply through intake agency; no closure notice.",
   "eligibility": {
    "maxIncome": [
     38000,
@@ -106,9 +106,9 @@
    "type": "cash",
    "note": "Illustrative; up to $2,000; overlaps LEAP"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.niagararegion.ca/housing-and-social-services/benefits-to-support-health-and-housing-needs/#utilities",
-  "verified": "Niagara Region 'Benefits to support health and housing needs' page checked Nov 1, 2026: Niagara Emergency Energy Fund up to $2,000 per utility once every 24 months; OW/ODSP or low income; bill and disconnection notice in your name; owbenefits.niagararegion.ca or 905-641-9960 ext. 6072.",
+  "verified": "Niagara Region Utility Benefits page (niagararegion.ca/social-services/discretionary-benefits/utilities.aspx) checked Nov 8, 2026: Niagara Emergency Energy Fund pays up to $2,000 per utility (electricity or gas) once every 24 months; OW/ODSP or low income; bill and disconnection notice in your name; apply via Discretionary Benefits Portal or 905-641-9960 ext. 6072; NOTL Hydro NEEF page matches the amount. The record's own benefits-page URL could not be fetched this week (permission timeout), so it is unchanged.",
   "eligibility": {
    "lowIncome": true
   }
@@ -140,9 +140,9 @@
    "type": "cash",
    "note": "Illustration at published maximum for qualifying low-income senior owner"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.ontario.ca/page/senior-homeowners-property-tax-grant",
-  "verified": "Ontario.ca grant page (updated Jan 2, 2026) checked Nov 1, 2026: up to $500/yr, age 64+, full grant at ≤$35,000 single / ≤$45,000 couple, none at $50,000/$60,000; ON-BEN line 61120.",
+  "verified": "Ontario.ca grant page (updated Jan 2, 2026) checked Nov 8, 2026: up to $500/yr, age 64+, full grant at <=$35,000 single / <=$45,000 couple, ends at $50,000/$60,000; ON-BEN, line 61120.",
   "eligibility": {
    "minAge": 64,
    "maxIncome": [
@@ -183,9 +183,9 @@
    "type": "cash",
    "note": "Hypothetical incremental GIS; can be $0 depending on OAS and other income"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.canada.ca/en/services/benefits/publicpensions/old-age-security/guaranteed-income-supplement/benefit-amount.html",
-  "verified": "Canada.ca GIS amounts page checked Nov 1, 2026: Oct–Dec 2026 up to $1,138.90/month single with income under $23,112. Rates change quarterly.",
+  "verified": "Canada.ca GIS amount page (modified Oct 13, 2026) checked Nov 8, 2026: up to $1,138.90/month single with income under $23,112; overview page (modified Oct 28, 2026) live; rates next change in January.",
   "eligibility": {
    "minAge": 65,
    "maxIncome": [
@@ -226,9 +226,9 @@
    "type": "cash",
    "note": "Illustrative supplement; depends on GIS and other income"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.ontario.ca/page/guaranteed-annual-income-system-payments-seniors",
-  "verified": "Ontario.ca GAINS page (updated Jul 2, 2026) checked Nov 1, 2026: up to $92/month (Jul 2026–Jun 2027); private income ≤$4,416 single / ≤$8,832 couple; must receive OAS and GIS.",
+  "verified": "Ontario.ca GAINS page (updated Jul 2, 2026) checked Nov 8, 2026: up to $92/month for Jul 1, 2026-Jun 30, 2027; private income up to $4,416 single / $8,832 couple; must receive OAS and GIS; file taxes by April 30.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -271,9 +271,9 @@
    "type": "cash",
    "note": "Illustrative tax credit; avoid separately counting same OEPTC"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.ontario.ca/page/ontario-trillium-benefit",
-  "verified": "Ontario.ca Trillium Benefit page (updated Apr 27, 2026) checked Nov 1, 2026: OEPTC max $1,307 (18–64) / $1,488 (65+) for 2026 benefit year; file ON-BEN by Apr 30."
+  "verified": "Ontario.ca Trillium Benefit page (updated Apr 27, 2026) checked Nov 8, 2026: OEPTC up to $1,307 (18-64) / $1,488 (65+) for 2026 benefit year; file return with ON-BEN by April 30."
  },
  {
   "id": "niagrenov",
@@ -302,9 +302,9 @@
    "type": "financing",
    "note": "Illustrative forgivable repair financing; not unrestricted cash"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.niagararegion.ca/government/incentive-programs/affordable-housing/renovations.aspx",
-  "verified": "Niagara Renovates homeowner page checked Nov 1, 2026: forgivable loan over 10 years, up to $5,000 accessibility grant, income and price limits unchanged; 905-980-6000 ext. 3954. Page still shows no 2026 intake or waitlist notice.",
+  "verified": "Niagara Renovates homeowner page checked Nov 8, 2026: forgivable loan written off over 10 years, up to $5,000 accessibility grant, income limits $56,000-$83,500 by bedrooms, St. Catharines $639,258 / Niagara Falls $679,086 price limits, assets under $40,000, 905-980-6000 ext. 3954; the page still has no 2026 intake, waitlist or closure notice, so the 'confirm before offering' status stands.",
   "eligibility": {
    "maxIncome": 83500
   }
@@ -338,9 +338,9 @@
    "type": "tax",
    "note": "Illustrative nonrefundable tax savings; requires eligible expense and tax payable"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-31285-home-accessibility-expenses.html",
-  "verified": "CRA line 31285 page checked Nov 1, 2026: up to $20,000/yr eligible expenses, non-refundable; qualifying individual 65+ or DTC-eligible. CRA page states no rate.",
+  "verified": "CRA line 31285 page (modified Jul 24, 2026) checked Nov 8, 2026: up to $20,000/yr eligible expenses per qualifying individual (65+ or DTC-eligible); page still states no rate.",
   "eligibility": {
    "minAge": 65,
    "altDisability": true
@@ -375,9 +375,9 @@
    "type": "inkind",
    "note": "Program overview only; itemized upgrade values appear in separate rows"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://saveonenergy.ca/EAP",
-  "verified": "Save on Energy EAP page (/en/ address) checked Nov 1, 2026: Apply now live, 1-844-770-3148, Comprehensive Support limits $48,220/$68,193/$83,518/$96,439 (1–4); kit limits from $71,437; fridge/freezer, window A/C, dehumidifier, insulation, heat pumps listed; no end date.",
+  "verified": "Save on Energy EAP page (saveonenergy.ca/en/For-Your-Home/Energy-Affordability-Program) checked Nov 8, 2026: Apply now live, 1-844-770-3148, provider calls within 3 business days, Comprehensive Support limits $48,220/$68,193/$83,518/$96,439 (1-4) or OESP/LEAP/GIS/OW/ODSP in past 12 months; kit limits from $71,437; no end date or pause notice; fridge/freezer, window A/C, dehumidifier, insulation/draft-proofing and cold-climate heat pumps (electric/oil-heated homes) all still listed.",
   "eligibility": {
    "maxIncome": [
     48220,
@@ -417,9 +417,9 @@
    "type": "inkind",
    "note": "Illustrative covered dental service value; not cash"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.canada.ca/en/services/benefits/dental/dental-care-plan/qualify.html",
-  "verified": "Canada.ca CDCP pages checked Nov 1, 2026: AFNI under $90,000, no private dental coverage, taxes filed; applications open for 2026–2027; 1-833-537-4342.",
+  "verified": "Canada.ca CDCP main page (modified Oct 19, 2026) and qualify page (modified Sep 22, 2026) checked Nov 8, 2026: 2026-2027 applications open; AFNI under $90,000, no access to private dental coverage, prior-year return filed; renewal period closed (lapsed members can re-apply with a coverage gap).",
   "eligibility": {
    "maxIncome": 90000,
    "incomeBasis": "net"
@@ -453,9 +453,9 @@
    "type": "cash",
    "note": "Illustrative OAS amount; often already received, not necessarily new assistance"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.canada.ca/en/services/benefits/publicpensions/old-age-security/payments.html",
-  "verified": "Canada.ca OAS payments page checked Nov 1, 2026: Oct–Dec 2026 max $762.50 (65–74), $838.75 (75+).",
+  "verified": "Canada.ca OAS payments page (modified Sep 29, 2026) checked Nov 8, 2026: Oct-Dec 2026 max $762.50 (65-74), $838.75 (75+); OAS overview page live (modified Oct 28, 2026).",
   "eligibility": {
    "minAge": 65
   }
@@ -478,7 +478,7 @@
   "action": "Review rebates and register at homerenovationsavings.ca.",
   "url": "https://www.homerenovationsavings.ca/",
   "phone": "",
-  "status": "Open. Official site lists no end date; a 2025 report said it was extended through Nov 2026 — confirm before promising.",
+  "status": "Open, but key streams have 2026 cut-offs in the official terms: standalone attic insulation must be completed by Nov 30, 2026; assessment-based upgrades need the follow-up assessment booked by Nov 30, 2026 and done by Dec 31, 2026; smart thermostat offer ends Dec 31, 2026. No overall end date posted for heat pump, solar/battery or appliance rebates. Support line 1-866-449-8510; confirm before promising.",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -486,9 +486,9 @@
    "type": "inkind",
    "note": "Program overview only; itemized upgrade values appear in separate rows"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.homerenovationsavings.ca/",
-  "verified": "homerenovationsavings.ca checked Nov 1, 2026: rebates available; heat pumps up to $12,000, solar+battery up to $10,000, insulation up to $7,700, attic $1,250, thermostat $125, appliances up to $200; no end date posted."
+  "verified": "homerenovationsavings.ca home, with-assessment, without-assessment and help-and-support pages plus official attic (Dec 2025), Assessment (Nov 2025) and Smart Thermostat (Jan 2026) terms PDFs checked Nov 8, 2026: rebates live (heat pumps up to $12,000, solar+battery up to $10,000, insulation up to $7,700, attic $1,250, thermostat $125, appliances up to $200); attic work due Nov 30, 2026, follow-up assessments booked by Nov 30 and done by Dec 31, 2026, thermostat offer ends Dec 31, 2026."
  },
  {
   "id": "import-10",
@@ -518,9 +518,9 @@
    "type": "inkind",
    "note": "Program overview only; itemized upgrade values appear in separate rows"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.enbridgegas.com/ontario/rebates-energy-conservation/home-winterproofing-program",
-  "verified": "Enbridge Home Winterproofing page checked Nov 1, 2026: Apply now live, 1-844-770-3148, income limits $48,220–$96,439 (1–4) or qualifying benefits; insulation, draft-proofing, smart thermostat; gas-heated homes; no deadline.",
+  "verified": "Enbridge Home Winterproofing page checked Nov 8, 2026: 1-844-770-3148, before-tax income limits $48,220/$68,193/$83,518/$96,439 (1-4) or OW/ODSP/LEAP/GIS/OESP/EAP etc.; Enbridge account in own name, natural-gas-heated home, renters need written landlord permission, apartments/condos excluded; no deadline, end date or pause notice; wall/attic/basement insulation, draft-proofing, smart thermostat and EAP add-on upgrades listed.",
   "eligibility": {
    "maxIncome": [
     48220,
@@ -556,11 +556,11 @@
    "annual": 0,
    "once": 2500,
    "type": "tax",
-   "note": "Illustrative nonrefundable renovation tax credit; eligible costs required"
+   "note": "Illustrative refundable renovation tax credit; eligible costs required"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-45355-mhrtc.html",
-  "verified": "CRA 'How to claim MHRTC' page (modified Jan 20, 2026) checked Nov 1, 2026: max $50,000 eligible expenses, line 45355, senior 65+ or DTC-eligible adult. canada.ca/cra-mhrtc could not be opened this week; rate not re-confirmed."
+  "verified": "CRA line 45355 MHRTC page (modified Jan 20, 2026) checked Nov 8, 2026: refundable credit of 14.5% on up to $50,000 per qualifying renovation (max $7,250), secondary unit for a senior or DTC-eligible adult living with a relative; canada.ca/cra-mhrtc shortcut still not confirmed."
  },
  {
   "id": "import-13",
@@ -590,9 +590,9 @@
    "type": "project",
    "note": "Illustrative mobility modification support; disability criteria apply"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.ontario.ca/page/home-and-vehicle-modification-program",
-  "verified": "Ontario.ca HVMP page (updated Sep 1, 2026) checked Nov 1, 2026: open, apply through March of Dimes; households over $38,000 may contribute. March of Dimes pages not readable this week.",
+  "verified": "Ontario.ca HVMP page (updated Sep 1, 2026) checked Nov 8, 2026: apply through March of Dimes (links to the HVMP How-to-Apply page in the record), households over $38,000 may contribute, no closure notice; March of Dimes HVMP page returned no readable content again this week, so phone not re-confirmed.",
   "eligibility": {
    "requiresDisability": true
   }
@@ -623,9 +623,9 @@
    "type": "project",
    "note": "Illustrative; up to $6,650"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.toronto.ca/services-payments/water-environment/managing-rain-melted-snow/basement-flooding/basement-flooding-protection-subsidy-program/",
-  "verified": "City of Toronto subsidy page (modified Jun 18, 2026) checked Nov 1, 2026: open, first come first served; 80% up to $6,650/property; item caps unchanged; 416-338-7668."
+  "verified": "City of Toronto Basement Flooding Protection Subsidy page (modified Nov 6, 2026) checked Nov 8, 2026: Apply Now live, first come first served; 80% up to $6,650/property; backwater valves $1,600 each (max 2), sump pump $2,250, battery backup $300, weeping tile $400, assessment $500; apply within 2 years; 416-338-7668."
  },
  {
   "id": "import-18",
@@ -653,9 +653,9 @@
    "type": "project",
    "note": "Historical/illustrative ADU incentive; availability not confirmed"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.hamilton.ca/sites/default/files/2026-03/housing-secretariat-ADU-Multiplex-Housing-Incentive-Program-feb2026.pdf",
-  "verified": "Hamilton ADU & Multi-Plex guidelines PDF (Feb 2026) checked Nov 1, 2026: 70% up to $40,000/unit, $240,000/site; permit on/after Oct 9, 2025; occupancy by Aug 4, 2027; subject to funds. Duplicate of hamilton-adu-grant."
+  "verified": "City of Hamilton ADU & Multi-Plex Housing Incentive Program guidelines PDF (Feb 2026) re-checked Nov 8, 2026: 70% of eligible costs up to $40,000/unit and $240,000/site; Housing for Hamilton CIP area excluding Roxborough; permit on/after Oct 9, 2025; occupancy within 18 months or by Aug 4, 2027; subject to funds. Still a duplicate of hamilton-adu-grant (program web page body not readable via fetch)."
  },
  {
   "id": "import-19",
@@ -683,9 +683,9 @@
    "type": "project",
    "note": "Published maximum; requires construction and affordability terms"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://simcoe.ca/",
-  "verified": "County of Simcoe Affordable Housing Programs page checked Nov 1, 2026: Secondary Suites up to $50,000/unit, year-round, limited funding, first come first served."
+  "verified": "County of Simcoe Affordable Housing Programs page and City of Barrie Barrie Bonus page checked Nov 8, 2026: Secondary Suites up to $50,000 per unit, year-round intake, limited funding, first come first served; 2025-26 max rents/income schedule still posted; County contact IAH@simcoe.ca, 705-735-6901 x1360."
  },
  {
   "id": "import-20",
@@ -713,9 +713,9 @@
    "type": "project",
    "note": "Published maximum for interior unit; requires construction spending"
   },
-  "checked": "2026-10-25",
+  "checked": "2026-11-08",
   "source": "https://www.waterloo.ca/",
-  "verified": "City of Waterloo 'Apply for the ARU Grant' page checked Oct 25, 2026: open while funds available (first-come); up to 50% of costs, max $30,000 detached / $20,000 interior; 2026 max rents 1-bed $1,236, 2-bed $1,466; 5-year affordability; construction not started; apply at forms.waterloo.ca; ARU@waterloo.ca."
+  "verified": "City of Waterloo 'Apply for the ARU Grant' page checked Nov 8, 2026: still accepting applications while funds are available (first-come); up to 50% of costs, max $30,000 detached / $20,000 interior; 2026 max rents 1-bed $1,236, 2-bed $1,466; at least 5-year affordability at 80% of CMHC AMR; apply at forms.waterloo.ca; ARU@waterloo.ca."
  },
  {
   "id": "fort211salvation",
@@ -783,9 +783,9 @@
    "type": "inkind",
    "note": "Illustrative annual food basket value; not cash"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://211ontario.ca/service/67284905/salvation-army-the-fort-erie-food-bank/",
-  "verified": "Town of Fort Erie Support and Services page checked Nov 1, 2026 (211 page blocked): Salvation Army food bank, 255 Gilmore Rd, 905-871-1592, Mon/Wed/Fri 1–4 pm by appointment.",
+  "verified": "Town of Fort Erie Support Services in Fort Erie page checked Nov 8, 2026 (211 page not used): Salvation Army food bank, 255 Gilmore Rd, 905-871-1592, Mon/Wed/Fri 1-4 pm by appointment only.",
   "eligibility": {
    "lowIncome": true
   }
@@ -821,9 +821,9 @@
    "type": "referral",
    "note": "Illustrative referral outcome; overlaps underlying programs"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://211ontario.ca/results/?latitude=42.9034539&longitude=-78.9991524&topicPath=65",
-  "verified": "HNHB Healthline listing (updated Jul 15, 2026) checked Nov 1, 2026 (211 page blocked): Community Services Office, 1264 Garrison Rd Unit 12, 905-354-3561, Mon–Fri 8:30–4:30; emergency help for people in crisis.",
+  "verified": "Niagara Region Social Services 'Offices, Centres and Facilities' page checked Nov 8, 2026: Fort Erie Community Service Office, 1264 Garrison Rd Unit 12, 905-354-3561, 8:30 am-4:30 pm. Ext. 6331 is not shown, and the Town's Support Services page still lists an older 469 Central Ave (Job Gym) address, so reps should rely on the Region address.",
   "eligibility": {
    "lowIncome": true
   }
@@ -855,9 +855,9 @@
    "type": "bill",
    "note": "Illustration at published annual water credit"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.forterie.ca/living-in-fort-erie/water-wastewater-stormwater/seniors-utility-relief-fund/",
-  "verified": "Town of Fort Erie SURF page checked Nov 1, 2026: $140/yr water credit; 65+ GIS recipients who own and live in Fort Erie; applications May 1–Oct 31 each year; credit applied in November; 905-871-1600.",
+  "verified": "Town of Fort Erie SURF page checked Nov 8, 2026: $140 annual water-account credit; 65+ by Dec 31 of prior year, GIS recipient, owner-occupant and Town water customer; applications May 1-Oct 31 each year with proof of age and GIS; credit applied in November; 905-871-1600.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true
@@ -889,9 +889,9 @@
    "type": "financing",
    "note": "Illustrative annual taxes deferred, still owed later"
   },
-  "checked": "2026-10-25",
+  "checked": "2026-11-08",
   "source": "https://www.forterie.ca/living-in-fort-erie/property-taxes/tax-deferral-programs/",
-  "verified": "Town of Fort Erie Tax Deferral Programs page checked Oct 25, 2026: seniors 65+ on GIS or ODSP; Niagara home owned and occupied 1+ year; defers the part of a year-over-year increase above $200; current taxes only; apply by Feb 28 of the following year to taxcollection@forterie.ca or Town Hall; 905-871-1600.",
+  "verified": "Town of Fort Erie Tax Deferral Programs page checked Nov 8, 2026: Region senior/ODSP deferral of the part of a year-over-year increase above $200 (a deferral, not a rebate); 65+ on GIS or ODSP; Niagara home owned and occupied 1+ year; taxes current; apply by Feb 28 of following year to taxcollection@forterie.ca or Town Hall; 905-871-1600.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -925,9 +925,9 @@
    "type": "project",
    "note": "Illustrative grant scenario; construction, rent and funding restrictions"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.forterie.ca/town-hall/plans-reports-and-studies/affordable-housing-initiatives/",
-  "verified": "Let's Talk Fort Erie AHCIP page (official Town) checked Nov 1, 2026: ADU grant toward a unit in an existing home or accessory building; up to $20,000 per property/project, max $500,000 per project; 905-871-1600. No intake status stated."
+  "verified": "Town of Fort Erie Affordable Housing Initiatives page checked Nov 8, 2026: AHCIP (adopted Feb 2025) includes a one-time ADU grant for a unit in an existing home or detached accessory structure; programs provide up to $20,000 per eligible property/project, max $500,000 per project; apply via forms.forterie.ca AHCIP form after reviewing the Guide; 905-871-1600; no intake or funding status stated."
  },
  {
   "id": "fortstudy",
@@ -956,9 +956,9 @@
    "type": "project",
    "note": "Illustrative feasibility study subsidy; verify program rules"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.forterie.ca/town-hall/plans-reports-and-studies/affordable-housing-initiatives/",
-  "verified": "Let's Talk Fort Erie AHCIP page (official Town) checked Nov 1, 2026: Study Grant toward feasibility studies; up to $20,000 per property/project, max $500,000. No intake status stated."
+  "verified": "Town of Fort Erie Affordable Housing Initiatives page checked Nov 8, 2026: Affordable Housing Study Grant helps cover studies on including affordable housing or cost-saving materials; up to $20,000 per property/project, max $500,000; no intake or funding status stated."
  },
  {
   "id": "fortperdoor",
@@ -987,9 +987,9 @@
    "type": "project",
    "note": "Illustrative per-door affordable housing incentive; verify current terms"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.forterie.ca/town-hall/plans-reports-and-studies/affordable-housing-initiatives/",
-  "verified": "Let's Talk Fort Erie AHCIP page (official Town) checked Nov 1, 2026: lump-sum per-unit grant for new affordable units; up to $20,000 per property/project, max $500,000. No intake status stated."
+  "verified": "Town of Fort Erie Affordable Housing Initiatives page checked Nov 8, 2026: Affordable Housing Per Door Grant gives a lump sum per unit or per project for new affordable rental or ownership units; up to $20,000 per property/project, max $500,000; no intake or funding status stated."
  },
  {
   "id": "fortcip",
@@ -1019,9 +1019,9 @@
    "type": "project",
    "note": "Illustrative location-dependent CIP incentive; verify eligibility"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.forterie.ca/town-hall/plans-reports-and-studies/community-improvement-plans/",
-  "verified": "First verification. Town of Fort Erie Programs & Incentives page (forterie.ca/ecdev/programs-and-incentives/) checked Nov 1, 2026 (CIP page blocked): Downtown Core, Brownfield and Gateway CIPs; business/redevelopment incentives tied to designated areas; EDTS 905-871-1332. No open/closed status stated."
+  "verified": "Town of Fort Erie Programs & Incentives page (forterie.ca/ecdev/programs-and-incentives/) checked Nov 8, 2026: Downtown Core facade grant up to $40,000, signage up to $2,000, residential creation grant (up to 4 units) in Bridgeburg/Ridgeway/Stevensville/Southend-Riverwalk; Brownfield ESA grant $13,000/study and $20,000/property, TAP up to 5 years, TIG 60-100% up to 10 years; Gateway tax reductions; EDTS 905-871-1332. Local news (Aug 27, 2026) reports Council approved a consolidated CIP adding Crystal Beach and Gateway core areas, but no official Town page reflects it yet, so nothing was changed. Recheck next week."
  },
  {
   "id": "eap-kit",
@@ -1051,9 +1051,9 @@
    "type": "inkind",
    "note": "Estimated retail value of kit, not a program-published award"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://saveonenergy.ca/EAP",
-  "verified": "Save on Energy EAP page (/en/ address) checked Nov 1, 2026: open, Apply now live, 1-844-770-3148; Energy Saving Kit (by mail) still listed; no end date."
+  "verified": "Save on Energy EAP page (saveonenergy.ca/en/For-Your-Home/Energy-Affordability-Program) checked Nov 8, 2026: Apply now live, 1-844-770-3148, provider calls within 3 business days, Comprehensive Support limits $48,220/$68,193/$83,518/$96,439 (1-4) or OESP/LEAP/GIS/OW/ODSP in past 12 months; kit limits from $71,437; no end date or pause notice; Energy Saving Kit by mail (3-6 weeks, no cost) still listed."
  },
  {
   "id": "eap-fridge",
@@ -1083,9 +1083,9 @@
    "type": "inkind",
    "note": "Estimated replacement appliance value"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://saveonenergy.ca/EAP",
-  "verified": "Save on Energy EAP page (/en/ address) checked Nov 1, 2026: open, Apply now live, 1-844-770-3148; refrigerator replacement still listed; no end date.",
+  "verified": "Save on Energy EAP page (saveonenergy.ca/en/For-Your-Home/Energy-Affordability-Program) checked Nov 8, 2026: Apply now live, 1-844-770-3148, provider calls within 3 business days, Comprehensive Support limits $48,220/$68,193/$83,518/$96,439 (1-4) or OESP/LEAP/GIS/OW/ODSP in past 12 months; kit limits from $71,437; no end date or pause notice; energy-efficient refrigerator replacement still listed.",
   "eligibility": {
    "maxIncome": [
     48220,
@@ -1125,9 +1125,9 @@
    "type": "inkind",
    "note": "Estimated replacement appliance value"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://saveonenergy.ca/EAP",
-  "verified": "Save on Energy EAP page (/en/ address) checked Nov 1, 2026: open, Apply now live, 1-844-770-3148; freezer replacement still listed; no end date.",
+  "verified": "Save on Energy EAP page (saveonenergy.ca/en/For-Your-Home/Energy-Affordability-Program) checked Nov 8, 2026: Apply now live, 1-844-770-3148, provider calls within 3 business days, Comprehensive Support limits $48,220/$68,193/$83,518/$96,439 (1-4) or OESP/LEAP/GIS/OW/ODSP in past 12 months; kit limits from $71,437; no end date or pause notice; energy-efficient freezer replacement still listed.",
   "eligibility": {
    "maxIncome": [
     48220,
@@ -1167,9 +1167,9 @@
    "type": "inkind",
    "note": "Estimated replacement appliance value"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://saveonenergy.ca/EAP",
-  "verified": "Save on Energy EAP page (/en/ address) checked Nov 1, 2026: open, Apply now live, 1-844-770-3148; window air conditioner still listed; no end date.",
+  "verified": "Save on Energy EAP page (saveonenergy.ca/en/For-Your-Home/Energy-Affordability-Program) checked Nov 8, 2026: Apply now live, 1-844-770-3148, provider calls within 3 business days, Comprehensive Support limits $48,220/$68,193/$83,518/$96,439 (1-4) or OESP/LEAP/GIS/OW/ODSP in past 12 months; kit limits from $71,437; no end date or pause notice; energy-efficient window air conditioner still listed.",
   "eligibility": {
    "maxIncome": [
     48220,
@@ -1209,9 +1209,9 @@
    "type": "inkind",
    "note": "Estimated replacement appliance value"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://saveonenergy.ca/EAP",
-  "verified": "Save on Energy EAP page (/en/ address) checked Nov 1, 2026: open, Apply now live, 1-844-770-3148; dehumidifier still listed; no end date.",
+  "verified": "Save on Energy EAP page (saveonenergy.ca/en/For-Your-Home/Energy-Affordability-Program) checked Nov 8, 2026: Apply now live, 1-844-770-3148, provider calls within 3 business days, Comprehensive Support limits $48,220/$68,193/$83,518/$96,439 (1-4) or OESP/LEAP/GIS/OW/ODSP in past 12 months; kit limits from $71,437; no end date or pause notice; energy-efficient dehumidifier still listed.",
   "eligibility": {
    "maxIncome": [
     48220,
@@ -1251,9 +1251,9 @@
    "type": "inkind",
    "note": "Illustrative installed value; electric heat and assessment requirements"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://saveonenergy.ca/EAP",
-  "verified": "Save on Energy EAP page (/en/ address) checked Nov 1, 2026: open, 1-844-770-3148, Comprehensive Support limits unchanged; attic/basement insulation and draft-proofing listed for electric/oil-heated homes.",
+  "verified": "Save on Energy EAP page (saveonenergy.ca/en/For-Your-Home/Energy-Affordability-Program) checked Nov 8, 2026: Apply now live, 1-844-770-3148, provider calls within 3 business days, Comprehensive Support limits $48,220/$68,193/$83,518/$96,439 (1-4) or OESP/LEAP/GIS/OW/ODSP in past 12 months; kit limits from $71,437; no end date or pause notice; attic/basement insulation and draft-proofing still listed for electric or oil-heated homes.",
   "eligibility": {
    "maxIncome": [
     48220,
@@ -1293,9 +1293,9 @@
    "type": "inkind",
    "note": "Illustrative installed equipment value; only for eligible heating systems"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://saveonenergy.ca/EAP",
-  "verified": "Save on Energy EAP page (/en/ address) checked Nov 1, 2026: open, 1-844-770-3148, Comprehensive Support limits unchanged; cold-climate air source heat pump listed for electric/oil-heated homes.",
+  "verified": "Save on Energy EAP page (saveonenergy.ca/en/For-Your-Home/Energy-Affordability-Program) checked Nov 8, 2026: Apply now live, 1-844-770-3148, provider calls within 3 business days, Comprehensive Support limits $48,220/$68,193/$83,518/$96,439 (1-4) or OESP/LEAP/GIS/OW/ODSP in past 12 months; kit limits from $71,437; no end date or pause notice; cold-climate air source heat pump still listed for electric or oil-heated homes.",
   "eligibility": {
    "maxIncome": [
     48220,
@@ -1335,9 +1335,9 @@
    "type": "inkind",
    "note": "Illustrative installed value; home energy assessment required"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.enbridgegas.com/ontario/rebates-energy-conservation/home-winterproofing-program",
-  "verified": "Enbridge Winterproofing page checked Nov 1, 2026: open, 1-844-770-3148, income limits unchanged; wall/attic/basement insulation listed; renters need landlord permission.",
+  "verified": "Enbridge Home Winterproofing page checked Nov 8, 2026: 1-844-770-3148, before-tax income limits $48,220/$68,193/$83,518/$96,439 (1-4) or OW/ODSP/LEAP/GIS/OESP/EAP etc.; Enbridge account in own name, natural-gas-heated home, renters need written landlord permission, apartments/condos excluded; no deadline, end date or pause notice; wall, attic or basement insulation listed.",
   "eligibility": {
    "maxIncome": [
     48220,
@@ -1377,9 +1377,9 @@
    "type": "inkind",
    "note": "Illustrative installed value"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.enbridgegas.com/ontario/rebates-energy-conservation/home-winterproofing-program",
-  "verified": "Enbridge Winterproofing page checked Nov 1, 2026: open, 1-844-770-3148, income limits unchanged; draft-proofing listed.",
+  "verified": "Enbridge Home Winterproofing page checked Nov 8, 2026: 1-844-770-3148, before-tax income limits $48,220/$68,193/$83,518/$96,439 (1-4) or OW/ODSP/LEAP/GIS/OESP/EAP etc.; Enbridge account in own name, natural-gas-heated home, renters need written landlord permission, apartments/condos excluded; no deadline, end date or pause notice; draft-proofing listed.",
   "eligibility": {
    "maxIncome": [
     48220,
@@ -1419,9 +1419,9 @@
    "type": "inkind",
    "note": "Illustrative installed value; linked to qualifying upgrades"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.enbridgegas.com/ontario/rebates-energy-conservation/home-winterproofing-program",
-  "verified": "Enbridge Winterproofing page checked Nov 1, 2026: open; smart thermostat offered only after insulation or draft-proofing.",
+  "verified": "Enbridge Home Winterproofing page checked Nov 8, 2026: 1-844-770-3148, before-tax income limits $48,220/$68,193/$83,518/$96,439 (1-4) or OW/ODSP/LEAP/GIS/OESP/EAP etc.; Enbridge account in own name, natural-gas-heated home, renters need written landlord permission, apartments/condos excluded; no deadline, end date or pause notice; smart thermostat offered to participants receiving insulation or draft-proofing.",
   "eligibility": {
    "maxIncome": [
     48220,
@@ -1459,9 +1459,9 @@
    "type": "project",
    "note": "Published up-to rebate, not an average; depends on heat pump and heating fuel"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.homerenovationsavings.ca/",
-  "verified": "HRS heat pump pages checked Nov 1, 2026: up to $12,000 (ground source, non-gas homes); air source $1,250/ton up to $7,500; gas-heated homes up to $2,000–$3,000; no end date."
+  "verified": "HRS heat pumps page checked Nov 8, 2026: ground source up to $12,000 ($2,000/ton, non-gas homes); air source $1,250/ton up to $7,500 (non-gas); gas-heated or renters $500/ton up to $2,000 air source, $3,000 ground source; pre-approval and registered contractor required; no end date posted."
  },
  {
   "id": "hrs-solar",
@@ -1489,9 +1489,9 @@
    "type": "project",
    "note": "Published up-to combined rebate; eligible equipment required"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.homerenovationsavings.ca/",
-  "verified": "HRS page checked Nov 1, 2026: solar up to $5,000 + battery up to $5,000 bundled (up to $10,000); no end date."
+  "verified": "HRS solar page checked Nov 8, 2026: solar up to $5,000 ($1,000/kW) + battery up to $5,000 ($300/kWh), each max 50% of cost; written pre-approval required before purchase; no end date posted."
  },
  {
   "id": "hrs-insulation",
@@ -1511,7 +1511,7 @@
   "action": "Check program details, confirm eligibility and required equipment before assigning a value.",
   "url": "https://www.homerenovationsavings.ca/",
   "phone": "",
-  "status": "Open; confirm amounts at homerenovationsavings.ca.",
+  "status": "Open for now, but time-limited: under the official Assessment stream terms (Nov 2025 version), the post-upgrade (follow-up) energy assessment must be booked by Nov 30, 2026 and completed by Dec 31, 2026 (or within 180 days of the first assessment, whichever is first). New customers starting now likely cannot finish in time; confirm at homerenovationsavings.ca or 1-866-449-8510 before promising.",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -1519,9 +1519,9 @@
    "type": "project",
    "note": "Published up-to bundled rebate; eligible upgrade costs required"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.homerenovationsavings.ca/",
-  "verified": "HRS with-assessment page checked Nov 1, 2026: insulation up to $7,700 (attic $1,500, foundation $2,300, wall $3,600, floor $300)."
+  "verified": "HRS with-assessment page and Assessment Program Stream Terms and Conditions (Nov 2025) checked Nov 8, 2026: insulation up to $7,700 (attic $1,500, foundation $2,300, wall $3,600, floor $300); post-audit booking deadline Nov 30, 2026, completion deadline Dec 31, 2026."
  },
  {
   "id": "hrs-attic",
@@ -1541,7 +1541,7 @@
   "action": "Check program details, confirm eligibility and required equipment before assigning a value.",
   "url": "https://www.homerenovationsavings.ca/",
   "phone": "",
-  "status": "Open; confirm amounts at homerenovationsavings.ca.",
+  "status": "Open, but official attic terms (Dec 2025 version) require the insulation work to be completed by Nov 30, 2026; rebate capped at 50% of cost. Confirm at homerenovationsavings.ca before promising.",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -1549,9 +1549,9 @@
    "type": "project",
    "note": "Published up-to standalone rebate; alternative to bundled attic pathway"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.homerenovationsavings.ca/",
-  "verified": "HRS page checked Nov 1, 2026: standalone attic insulation up to $1,250 (cathedral/flat roof up to $750)."
+  "verified": "HRS without-assessment page and Attic Insulation Terms and Conditions (Dec 2025) checked Nov 8, 2026: up to $1,250 attic / $750 cathedral or flat roof, max 50% of cost; work must be completed by Nov 30, 2026; attic contractor registration closed."
  },
  {
   "id": "hrs-thermostat",
@@ -1571,7 +1571,7 @@
   "action": "Check program details, confirm eligibility and required equipment before assigning a value.",
   "url": "https://www.homerenovationsavings.ca/",
   "phone": "",
-  "status": "Open; confirm amounts at homerenovationsavings.ca.",
+  "status": "Open until Dec 31, 2026 (official offer end date); thermostat must be bought, installed and activated by then and the rebate claimed within 60 days of purchase. Confirm amount at homerenovationsavings.ca.",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -1579,9 +1579,9 @@
    "type": "project",
    "note": "Published eligible rebate; cannot also count free thermostat for same device"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.homerenovationsavings.ca/",
-  "verified": "HRS smart-thermostat page checked Nov 1, 2026: $125; receipt within 60 days."
+  "verified": "HRS home and without-assessment pages ($125) and Smart Thermostat Instant and Post-Purchase terms PDFs checked Nov 8, 2026: offer ends Dec 31, 2026, apply within 60 days of purchase; note the post-purchase terms list $100 standard ($125 for EAP kit recipients), so the $125 figure was left unchanged but should be confirmed."
  },
  {
   "id": "hrs-appliances",
@@ -1609,9 +1609,9 @@
    "type": "project",
    "note": "Published up-to rebate; qualifying purchase required"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.homerenovationsavings.ca/",
-  "verified": "HRS appliances page checked Nov 1, 2026: up to $200 (dryer $200, induction $150, washer $75, fridge/freezer $50, dishwasher $25)."
+  "verified": "HRS appliances page checked Nov 8, 2026: heat pump dryer $200, induction $150, washer $75, fridge $50, freezer $50, dishwasher $25; apply within 60 days of purchase; no end date posted."
  },
  {
   "id": "hrs-airseal",
@@ -1631,7 +1631,7 @@
   "action": "Check program details, confirm eligibility and required equipment before assigning a value.",
   "url": "https://www.homerenovationsavings.ca/",
   "phone": "",
-  "status": "Open; confirm amounts at homerenovationsavings.ca.",
+  "status": "Open for now, but time-limited: under the official Assessment stream terms (Nov 2025 version), the post-upgrade (follow-up) energy assessment must be booked by Nov 30, 2026 and completed by Dec 31, 2026 (or within 180 days of the first assessment, whichever is first). New customers starting now likely cannot finish in time; confirm at homerenovationsavings.ca or 1-866-449-8510 before promising.",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -1639,9 +1639,9 @@
    "type": "project",
    "note": "Published up-to bundled rebate; assessment and eligible work required"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.homerenovationsavings.ca/",
-  "verified": "HRS with-assessment page checked Nov 1, 2026: air sealing up to $250."
+  "verified": "HRS with-assessment page and Assessment Program Stream Terms and Conditions (Nov 2025) checked Nov 8, 2026: air sealing $250 (10% above target) or $200 (meets target); post-audit booking deadline Nov 30, 2026, completion deadline Dec 31, 2026."
  },
  {
   "id": "hrs-waterheater",
@@ -1661,7 +1661,7 @@
   "action": "Check program details, confirm eligibility and required equipment before assigning a value.",
   "url": "https://www.homerenovationsavings.ca/",
   "phone": "",
-  "status": "Open; confirm amounts at homerenovationsavings.ca.",
+  "status": "Open for now, but time-limited: under the official Assessment stream terms (Nov 2025 version), the post-upgrade (follow-up) energy assessment must be booked by Nov 30, 2026 and completed by Dec 31, 2026 (or within 180 days of the first assessment, whichever is first). New customers starting now likely cannot finish in time; confirm at homerenovationsavings.ca or 1-866-449-8510 before promising.",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -1669,9 +1669,9 @@
    "type": "project",
    "note": "Published rebate; eligible equipment and pathway required"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.homerenovationsavings.ca/",
-  "verified": "HRS with-assessment page checked Nov 1, 2026: heat pump water heater $500."
+  "verified": "HRS with-assessment page and Assessment Program Stream Terms and Conditions (Nov 2025) checked Nov 8, 2026: heat pump water heater $500; post-audit booking deadline Nov 30, 2026, completion deadline Dec 31, 2026."
  },
  {
   "id": "hrs-assessment",
@@ -1691,7 +1691,7 @@
   "action": "Check program details, confirm eligibility and required equipment before assigning a value.",
   "url": "https://www.homerenovationsavings.ca/",
   "phone": "",
-  "status": "Open; confirm amounts at homerenovationsavings.ca.",
+  "status": "Open for now, but time-limited: under the official Assessment stream terms (Nov 2025 version), the post-upgrade (follow-up) energy assessment must be booked by Nov 30, 2026 and completed by Dec 31, 2026 (or within 180 days of the first assessment, whichever is first). New customers starting now likely cannot finish in time; confirm at homerenovationsavings.ca or 1-866-449-8510 before promising.",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -1699,9 +1699,9 @@
    "type": "project",
    "note": "Published rebate, eligible bundled pathway required"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.homerenovationsavings.ca/",
-  "verified": "HRS with-assessment page checked Nov 1, 2026: $600 for energy assessments; extra $500 for bundling three upgrades."
+  "verified": "HRS with-assessment page and Assessment Program Stream Terms and Conditions (Nov 2025) checked Nov 8, 2026: $600 toward assessment costs (terms: requires at least two installed upgrades) and $500 multi-upgrade bonus for three upgrades; post-audit booking deadline Nov 30, 2026, completion deadline Dec 31, 2026."
  },
  {
   "id": "waterloo-renovates",
@@ -1730,9 +1730,9 @@
    "type": "financing",
    "note": "Illustrative forgivable repair financing; not cash"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.regionofwaterloo.ca/media/tzsc1ib2/ontario_renovates_fact_sheet_row_4195350_2026.pdf",
-  "verified": "Region 'Funding for Home Repairs' page and 2026 fact sheet (v3) checked Nov 1, 2026: up to $25,000 forgivable loan; accessibility up to $25,000 incl. $5,000 grant; value max $600,000; income limits unchanged; 519-575-4400; fact sheet says apply before Nov 15, 2026 (web page says Dec 1); agreement signed by Dec 15.",
+  "verified": "Region 'Funding for Home Repairs' page and 2026 Ontario Renovates fact sheet (docs 4195350 v3, dated May 22, 2026) checked Nov 8, 2026: still open with no closure notice; up to $25,000 forgivable loan (10 years), accessibility up to $25,000 incl. $5,000 grant; assessed value max $600,000; income limits $41,210/$51,204/$63,072/$76,577 unchanged; web page says apply before Dec 1, fact sheet intake section says before Nov 15, 2026 (application section says Dec 1); agreement signed by Dec 15; 519-575-4400 (fact sheet also lists program line 519-575-4821).",
   "eligibility": {
    "maxIncome": [
     41210,
@@ -1769,9 +1769,9 @@
    "type": "project",
    "note": "Illustrative conditional affordable secondary-suite funding"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.regionofwaterloo.ca/programs-and-services/employment-and-financial-supports/financial-support-for-renters-and-homeowners/funding-for-secondary-suites/",
-  "verified": "Region 'Funding for Secondary Suites' page checked Nov 1, 2026: ongoing intake, limited funding; home assessed ≤$600,000; tenant income and rent limits; OntarioRenovates@regionofwaterloo.ca."
+  "verified": "Region 'Funding for Secondary Suites' page checked Nov 8, 2026: applications accepted on an ongoing basis, annual funding limited; single-family home assessed at $600,000 or less; OntarioRenovates@regionofwaterloo.ca; no closure notice (only a site-wide note that some online applications are down; this program uses a downloadable form)."
  },
  {
   "id": "cambridge-tax-deferral",
@@ -1791,7 +1791,7 @@
   "action": "Apply each year after final tax bills are issued (deadline Nov 1). Pick up the form at the Tax Office, 50 Dickson St.",
   "url": "https://www.cambridge.ca/resident-services/taxes/",
   "phone": "519-623-1340",
-  "status": "2026 deadline was Nov 1, 2026 (a Sunday); late applications only if the office agrees — call Monday Nov 2. Next deadline Nov 1, 2027.",
+  "status": "2026 window closed (deadline was Nov 1, 2026). Next deadline Nov 1, 2027; apply each year after final tax bills are issued (usually late May).",
   "value": {
    "monthly": 0,
    "annual": 300,
@@ -1799,9 +1799,9 @@
    "type": "financing",
    "note": "Illustrative tax deferred; payable later"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.cambridge.ca/resident-services/taxes/",
-  "verified": "Cambridge Taxes page checked Nov 1, 2026: seniors on OAS + supplement or ODSP; minimum $50; apply after final tax bills (late May); Tax Office, 50 Dickson St; 519-623-1340. Nov 1 deadline per regional By-law 98-048.",
+  "verified": "Cambridge Taxes page checked Nov 8, 2026: seniors on OAS and supplement or ODSP; minimum deferral $50; reapply yearly after final tax bills (late May); form at Tax Office, 50 Dickson St; 519-623-1340. Regional policy (Wellesley/City of Waterloo copies) confirms Nov 1 deadline each year.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -1823,10 +1823,10 @@
   ],
   "amount": "Defers the part of a reassessment tax increase above 3%, interest-free, until the home is sold.",
   "requirements": "Senior receiving GIS, or person receiving ODSP. Own and occupy the home for at least 1 year. Taxes must be current. Renew yearly.",
-  "action": "DEADLINE Nov 1, 2026. Mail the form to City of Kitchener Revenue, PO Box 1113, or drop at City Hall.",
+  "action": "Next deadline Nov 1, 2027 (renew every year). Mail the form to City of Kitchener Revenue, PO Box 1113, or drop at City Hall.",
   "url": "https://www.kitchener.ca/taxes-utilities-and-finance/property-taxes/tax-adjustments-rebates-and-deferrals/",
   "phone": "519-741-2450",
-  "status": "2026 deadline was Nov 1, 2026 (a Sunday); late applications only if the office agrees — call Monday Nov 2. Next deadline Nov 1, 2027.",
+  "status": "2026 window closed (deadline was Nov 1, 2026). Next deadline Nov 1, 2027; renew every year.",
   "value": {
    "monthly": 0,
    "annual": 300,
@@ -1834,9 +1834,9 @@
    "type": "financing",
    "note": "Illustrative tax deferred; payable later"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.kitchener.ca/taxes-utilities-and-finance/property-taxes/tax-adjustments-rebates-and-deferrals/",
-  "verified": "Kitchener tax adjustments page checked Nov 1, 2026: GIS or ODSP recipients; submit by Nov 1 each year; mail to PO Box 1113 or City Hall payment boxes; 519-741-2450.",
+  "verified": "Kitchener 'Tax adjustments, rebates and deferrals' page and Kitchener tax deferral policy PDF checked Nov 8, 2026: GIS or ODSP recipients; owner pays first 3%, no interest, due on sale; submit by Nov 1 of the tax year, renew annually; mail to PO Box 1113 or City Hall payment boxes; 519-741-2450.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -1871,9 +1871,9 @@
    "type": "project",
    "note": "Published maximum heat-pump incentive, subject to conditions"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.regionofwaterloo.ca/programs-and-services/climate-and-environment/climate-action/retrofit-waterloo-region/",
-  "verified": "Region 'Retrofit Waterloo Region' page checked Nov 1, 2026: 2026–2030; 2.5% loans for GrandBridge customers in Cambridge/North Dumfries; heat pump rebates $2,500 ducted, $1,000 per mini-split up to $2,500."
+  "verified": "Region 'Retrofit Waterloo Region' page checked Nov 8, 2026: 2026–2030; 2.5% on-bill loans only for GrandBridge Energy customers in Cambridge/North Dumfries; heat pump incentives $2,500 ducted, $1,000 per mini-split up to $2,500; extra support for income-eligible households; apply at RetrofitWR.ca; no pause notice."
  },
  {
   "id": "retrofitwr-coach",
@@ -1902,9 +1902,9 @@
    "type": "inkind",
    "note": "Hypothetical value of free coaching, not cash"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.regionofwaterloo.ca/programs-and-services/climate-and-environment/climate-action/retrofit-waterloo-region/",
-  "verified": "Region 'Retrofit Waterloo Region' page checked Nov 1, 2026: free Energy Coach for homeowners across the Region, 2026–2030."
+  "verified": "Region 'Retrofit Waterloo Region' page checked Nov 8, 2026: free independent Energy Coach for eligible homeowners across Waterloo Region, 2026–2030; sign up at RetrofitWR.ca."
  },
  {
   "id": "waterloo-home-water-review",
@@ -1932,9 +1932,9 @@
    "type": "inkind",
    "note": "Hypothetical value of free assessment, not cash"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.regionofwaterloo.ca/programs-and-services/water-and-wastewater/conserving-water/residential-water-conservation/",
-  "verified": "Region Residential Water Conservation page checked Nov 1, 2026: free 45–60 min visit for owners with own meter, ≥5.5 m3/person/month, no prior review; book online; 519-575-4400."
+  "verified": "Region Residential Water Conservation page checked Nov 8, 2026: free 45–60 minute review for owners of single/semi/townhome/duplex with own meter, using ≥5.5 m3/person/month, no prior review; book online; 519-575-4400 general line."
  },
  {
   "id": "cdb",
@@ -1965,9 +1965,9 @@
    "type": "cash",
    "note": "Published maximum; reduced by income"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.canada.ca/en/services/benefits/disability/canada-disability-benefit/amount.html",
-  "verified": "Canada.ca CDB pages checked Nov 1, 2026: open to apply; 18–64 with DTC, 2025 return filed; max $204.20/month (Jul 2026–Jun 2027).",
+  "verified": "Canada.ca CDB pages checked Nov 8, 2026 (main modified Oct 19, amount modified Sep 15, 2026): open to apply online, ages 18-64; max $204.20/month for Jul 2026-Jun 2027 based on 2025 return; income-tested.",
   "eligibility": {
    "minAge": 18,
    "maxAge": 64,
@@ -2004,9 +2004,9 @@
    "type": "tax",
    "note": "Value depends on tax payable; unlocks other benefits"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html",
-  "verified": "CRA DTC page checked Nov 1, 2026: apply by digital application or T2201 by mail; forms no longer accepted via 'submit documents' in My Account.",
+  "verified": "CRA DTC how-to-apply page (modified Oct 22, 2026) checked Nov 8, 2026: digital application or paper T2201 by mail; forms may not be sent through 'submit documents' in CRA account; apply any time.",
   "eligibility": {
    "requiresDisability": true
   }
@@ -2039,9 +2039,9 @@
    "type": "inkind",
    "note": "Illustrative value of covered care; not cash"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.ontario.ca/files/2026-07/moh-seniors-dental-en-2026-07-29.pdf",
-  "verified": "Ontario.ca seniors dental page (updated Jul 31, 2026) checked Nov 1, 2026: 65+, net income ≤$25,480 single / ≤$42,290 couple; 1-833-207-4435.",
+  "verified": "Ontario.ca dental care for seniors page (updated Jul 31, 2026) checked Nov 8, 2026: 65+, net income <=$25,480 single / <=$42,290 couple, no other dental benefits except CDCP; apply online or by mail; 1-833-207-4435.",
   "eligibility": {
    "minAge": 65,
    "maxIncome": [
@@ -2084,11 +2084,11 @@
    "type": "tax",
    "note": "Published maximum; requires eligible medical expenses"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.ontario.ca/page/ontario-seniors-care-home-tax-credit",
-  "verified": "Ontario.ca credit page checked Nov 1, 2026: 25% of up to $6,000 expenses, max $1,500; age 70+; reduced over $35,000 family income.",
+  "verified": "Ontario.ca credit page (updated Jun 26, 2025) checked Nov 8, 2026: refundable, 25% of up to $6,000 medical expenses (max $1,500); age 70+ (or spouse 70+); reduced by 5% of family net income over $35,000, phased out at $65,000.",
   "eligibility": {
-   "minAge": 65,
+   "minAge": 70,
    "maxIncome": 65000,
    "incomeBasis": "net"
   }
@@ -2122,9 +2122,9 @@
    "type": "project",
    "note": "Illustrative; depends on device"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.ontario.ca/page/assistive-devices-program",
-  "verified": "Ontario.ca ADP page checked Nov 1, 2026: 75% of approved price (100% OW/ODSP/ACSD); disability 6+ months; 1-800-268-6021.",
+  "verified": "Ontario.ca ADP page (updated Mar 26, 2026) checked Nov 8, 2026: 75% of approved price (100% for OW/ODSP/ACSD), disability needing the device 6+ months, income not considered; 416-327-8804 / 1-800-268-6021.",
   "eligibility": {
    "requiresDisability": true
   }
@@ -2160,9 +2160,9 @@
    "type": "cash",
    "note": "Amount varies; no illustration set"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.ontario.ca/page/apply-emergency-assistance",
-  "verified": "Ontario.ca emergency assistance page (updated Mar 26, 2026) checked Nov 1, 2026: residents in crisis not on OW/ODSP; apply online or at local OW office.",
+  "verified": "Ontario.ca apply-for-emergency-assistance page (updated Mar 26, 2026) checked Nov 8, 2026: Ontario residents in crisis not on OW/ODSP; apply online or via local OW office; about $733/month single, generally up to 48 days.",
   "eligibility": {
    "lowIncome": true
   }
@@ -2182,10 +2182,10 @@
   ],
   "amount": "Defers the part of a reassessment tax increase above 3%, interest-free, until the home is sold.",
   "requirements": "Senior receiving GIS, or person receiving ODSP. Own and occupy the home for at least 1 year. Renew yearly.",
-  "action": "DEADLINE Nov 1, 2026. Email the form to revenue@waterloo.ca or drop off at City Hall.",
+  "action": "Next deadline Nov 1, 2027 (renew every year). Email the form to revenue@waterloo.ca or drop off at City Hall.",
   "url": "https://www.waterloo.ca/water-and-tax-billing/tax-billing/check-if-you-qualify-for-a-tax-rebate-or-deferral/",
   "phone": "519-747-8718",
-  "status": "2026 deadline is Nov 1, 2026 (today, a Sunday) — email revenue@waterloo.ca today; otherwise next deadline Nov 1, 2027.",
+  "status": "2026 window closed (deadline was Nov 1, 2026). Next deadline Nov 1, 2027; renew every year.",
   "value": {
    "monthly": 0,
    "annual": 300,
@@ -2193,9 +2193,9 @@
    "type": "financing",
    "note": "Illustrative tax deferred; repaid on sale"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.waterloo.ca/media/wr3b1rf0/tax-deferral-policy.pdf",
-  "verified": "City of Waterloo rebate/deferral page checked Nov 1, 2026: GIS or ODSP recipients; Nov 1 deadline; revenue@waterloo.ca, fax 519-747-8760, City Hall; 519-747-8718.",
+  "verified": "City of Waterloo 'Check if you qualify for a tax rebate or deferral' page and tax-deferral-policy.pdf checked Nov 8, 2026: GIS (65+) or ODSP recipients, owner 1+ year; owner pays first 3%, impact over $50, interest-free, payable on sale; apply on or before Nov 1 each year; revenue@waterloo.ca, fax 519-747-8760, City Hall; 519-747-8718.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -2220,13 +2220,13 @@
   ],
   "amount": "Defers the part of a reassessment tax increase above 3%, interest-free, until the home is sold.",
   "requirements": "Senior receiving GIS, or person receiving ODSP. Own and occupy the home for at least 1 year. Renew yearly.",
-  "action": "DEADLINE Nov 1, 2026. Apply to the township office (Woolwich, Wilmot, Wellesley or North Dumfries).",
+  "action": "Next deadline Nov 1, 2027 (renew every year). Apply to the township office (Woolwich, Wilmot, Wellesley or North Dumfries).",
   "url": "https://www.wilmot.ca/en/township-office/resources/Documents/Tax---Regional-Policy-on-Tax-Deferral-for-Low-Income-Seniors-or-Disabled-Persons.pdf",
   "links": {
    "Wellesley": "https://www.wellesley.ca/media/kqzhqide/regional-tax-relief.pdf"
   },
   "phone": "",
-  "status": "2026 deadline was Nov 1, 2026 (a Sunday); late applications only if the office agrees — call Monday Nov 2. Next deadline Nov 1, 2027.",
+  "status": "2026 window closed (deadline was Nov 1, 2026). Next deadline Nov 1, 2027; renew every year.",
   "value": {
    "monthly": 0,
    "annual": 300,
@@ -2234,9 +2234,9 @@
    "type": "financing",
    "note": "Illustrative tax deferred; repaid on sale"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.wilmot.ca/en/township-office/resources/Documents/Tax---Regional-Policy-on-Tax-Deferral-for-Low-Income-Seniors-or-Disabled-Persons.pdf",
-  "verified": "Wilmot and Wellesley regional policy PDFs checked Nov 1, 2026: 65+ GIS or ODSP; owner pays first 3%; impact over $50; apply on or before Nov 1 each year.",
+  "verified": "Wellesley regional-tax-relief.pdf and Taxes page, plus Wilmot 'Tax Rates and Rebates' page, checked Nov 8, 2026: 65+ on GIS or ODSP, owner 1+ year; owner pays first 3%, impact over $50, interest-free, payable on sale; apply on or before Nov 1 each year to the area municipality. The record's Wilmot PDF address (old /en/township-office/... path) could not be fetched this week; Wilmot's current page links the policy at https://www.wilmot.ca/living-here/property-taxes/tax-rates-and-rebates/ (tax@wilmot.ca, 519-634-8444) — consider switching the url.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -2269,9 +2269,9 @@
    "type": "cash",
    "note": "Published rebate"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.regionofwaterloo.ca/programs-and-services/water-and-wastewater/conserving-water/residential-water-conservation/",
-  "verified": "Region softener rebate form checked Nov 1, 2026: one-time $50 per household; no closure notice."
+  "verified": "Region Water Softener Plumbing Rebate form and Residential Water Conservation page checked Nov 8, 2026: one-time $50 per household for re-plumbing softener to hot water only; register, submit hardness results, then receipts; still listed under 'Apply' with no closure notice."
  },
  {
   "id": "kitchener-stormwater-credit",
@@ -2299,9 +2299,9 @@
    "type": "bill",
    "note": "Illustrative yearly bill credit"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.kitchener.ca/water-and-environment/stormwater/stormwater-credits/",
-  "verified": "Kitchener Stormwater credits page checked Nov 1, 2026: residential credit 20%/30%/45%; apply online, by email (stormwaterutility@kitchener.ca per application PDF) or mail to 131 Goodrich Dr."
+  "verified": "Kitchener Stormwater credits page and residential application PDF checked Nov 8, 2026: 20%/30%/45% credit tiers; rain barrels, cisterns, infiltration galleries, rain gardens, permeable pavers; apply online, by mail (131 Goodrich Dr) or email; note web page says stormwater@kitchener.ca while the application PDF says stormwaterutility@kitchener.ca (left unchanged)."
  },
  {
   "id": "wreap",
@@ -2332,9 +2332,9 @@
    "type": "cash",
    "note": "Published maximum; overlaps LEAP — do not add both"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.regionofwaterloo.ca/programs-and-services/employment-and-financial-supports/financial-support-for-renters-and-homeowners/utility-bill-help/",
-  "verified": "Region 'Utility Bill Help' page checked Nov 1, 2026: one-time grant up to $500/yr for Enova/GrandBridge customers on low income; 519-883-2100 option 1.",
+  "verified": "Region 'Utility Bill Help' page checked Nov 8, 2026: one-time electricity arrears grant (up to $500/yr per page summary) for Enova/GrandBridge customers on social assistance or after-tax income under $38,000/$54,000/$65,000/$71,000; payment plan first; 519-883-2100 option 1; Enbridge LEAP 1-855-487-5327; Kitchener Utilities 519-883-2100.",
   "eligibility": {
    "maxIncome": [
     38000,
@@ -2372,9 +2372,9 @@
    "type": "project",
    "note": "Illustrative; depends on development charges"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.kitchener.ca/taxes-utilities-and-finance/grants-and-incentives/the-missing-middle-and-affordable-housing-community-improvement-plan/",
-  "verified": "Kitchener Missing Middle CIP page checked Nov 1, 2026: education DCs covered for 2nd–3rd units; 50–100% DCs for 4th unit; permits on/after Jan 5, 2026; first come while funding lasts; HousingIncentives@kitchener.ca."
+  "verified": "Kitchener Missing Middle and Affordable Housing CIP page checked Nov 8, 2026: 100% education DCs for 2nd–3rd units; 50% City/Regional/education DCs for 4th unit, up to 100% with affordability/energy/barrier-free commitments; single, semi or street townhouse; permits on/after Jan 5, 2026; first come while funding available; HousingIncentives@kitchener.ca; no closure notice."
  },
  {
   "id": "waterloo-atp",
@@ -2404,9 +2404,9 @@
    "type": "bill",
    "note": "Illustrative yearly fare savings"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.grt.ca/fares-and-payment/affordable-transit-program/",
-  "verified": "GRT ATP page checked Nov 1, 2026: 55% off; income limits $31,875 (1), $45,078 (2), $63,749 (4); online application still temporarily unavailable; 519-883-2100 option 1.",
+  "verified": "GRT Affordable Transit Program page checked Nov 8, 2026: 18+, Waterloo Region, not full-time student; net income limits $31,875 (1), $45,078 (2), $55,208 (3), $63,749 (4), $71,724 (5), $78,077 (6); online application still temporarily unavailable; apply via 519-883-2100 option 1 or Welcome Spaces (55% discount not restated on page; prices on fare page).",
   "eligibility": {
    "minAge": 18,
    "maxIncome": [
@@ -2446,9 +2446,9 @@
    "type": "financing",
    "note": "Published maximum; forgivable loan, not cash"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://simcoe.ca/wp-content/uploads/2025/07/SCS-Ontario-Renovates-Fact-Sheet-2025–2026.pdf",
-  "verified": "County page and 2025–26 fact sheet checked Nov 1, 2026: up to $15,000 forgiven over 10 years; accessibility up to $5,000 grant; income ≤$91,000; value ≤$799,000; year-round, first come first served.",
+  "verified": "County of Simcoe Affordable Housing Programs page, 2025-26 Ontario Renovates fact sheet and application package checked Nov 8, 2026: up to $15,000 forgiven over 10 years; accessibility up to $5,000 grant; income at or below $91,000; house value at or below $799,000; year-round intake, may be waitlisted; 705-725-7215 x1119, iah@simcoe.ca.",
   "eligibility": {
    "maxIncome": 91000
   }
@@ -2479,9 +2479,9 @@
    "type": "project",
    "note": "Published amount; only with County approval"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.barrie.ca/services-payments/permits-licences-applications/barrie-bonus-affordable-additional-residential-units",
-  "verified": "City of Barrie Barrie Bonus page checked Nov 1, 2026: $15,000 top-up for County Secondary Suites approvals; funding available but limited; HousingCIP@barrie.ca, 705-739-4220 x4416."
+  "verified": "City of Barrie Barrie Bonus page checked Nov 8, 2026: one-time $15,000 top-up for County Secondary Suites approvals; 'Funding is currently available but limited'; city water/sewer and taxes in good standing; HousingCIP@barrie.ca, 705-739-4220 x4416."
  },
  {
   "id": "simcoe-retention",
@@ -2514,9 +2514,9 @@
    "type": "cash",
    "note": "Published maximum for singles/couples; paid to landlord/utility"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://simcoe.ca/residents/housing/housing-retention-program/",
-  "verified": "County Housing Retention Program page checked Nov 1, 2026: up to $1,500 singles/couples, $3,500 families within 24 months; apply by phone 705-722-3132 x1833."
+  "verified": "County of Simcoe Housing Retention Program page checked Nov 8, 2026: up to $1,500 singles/couples, $3,500 families within 24 months; covers rental or mortgage arrears, utility arrears (disconnection notice + LEAP), N4 for rent arrears; apply by phone 705-722-3132 x1833."
  },
  {
   "id": "simcoe-leap",
@@ -2546,9 +2546,9 @@
    "type": "cash",
    "note": "Same grant as provincial LEAP — do not add both"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://uwsimcoemuskoka.ca/wp-content/uploads/2026/04/Application-FAQ.pdf",
-  "verified": "United Way Simcoe Muskoka LEAP page and Apr 2026 FAQ checked Nov 1, 2026: up to $650 ($780 electric heat); arrears over $100; one grant per utility per year; 1-855-487-5327.",
+  "verified": "United Way Simcoe Muskoka LEAP page checked Nov 8, 2026: arrears over $100, after-tax income brackets up to $71,000, phone 1-855-487-5327 or online for listed utilities; page does not repeat dollar amounts (record amounts from Apr 2026 FAQ not contradicted).",
   "eligibility": {
    "maxIncome": [
     38000,
@@ -2586,9 +2586,9 @@
    "type": "financing",
    "note": "Illustrative tax deferred; repaid on sale"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.barrie.ca/services-payments/permits-licences-applications/property-tax-deferral-application",
-  "verified": "City of Barrie deferral page checked Nov 1, 2026: 65+ and/or ODSP; frozen at base year; apply each year by Aug 31; 705-726-4242.",
+  "verified": "City of Barrie Property Tax Deferral Application page checked Nov 8, 2026: owners 65+ or on ODSP; taxes frozen at prior-year amount, interest-free, repaid on sale; reapply yearly by Aug 31 via Service Barrie Online; 705-726-4242.",
   "eligibility": {
    "minAge": 65,
    "altDisability": true
@@ -2620,9 +2620,9 @@
    "type": "bill",
    "note": "Published credit"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.barrie.ca/services-payments/permits-licences-applications/toilet-rebate",
-  "verified": "City of Barrie Toilet Rebate page checked Nov 1, 2026: $50 water bill credit for pre-1996 homes; 705-726-4242."
+  "verified": "City of Barrie Toilet Rebate page checked Nov 8, 2026: $50 water bill credit, one per dwelling, homes built before 1996, replace >6 L toilet with 6 L or less; no end date listed; 705-726-4242."
  },
  {
   "id": "simcoe-towns-tax-relief",
@@ -2670,9 +2670,9 @@
    "type": "tax",
    "note": "Published maximum"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://simcoe.ca/government/clk/municipal-partners/",
-  "verified": "Checked Nov 1, 2026: County Municipal Partners page; Midland (up to $250, deadline Dec 31); Innisfil Property Taxes page (up to $250, June 1–Dec 31); Wasaga Beach Property Taxes page (up to $250, July 1–Dec 15).",
+  "verified": "Checked Nov 8, 2026: County Municipal Partners page (16 member municipalities, modified Aug 14, 2026); Midland form page (up to $250, received by Dec 31; 705-526-4275 x2255); Innisfil Property Taxes page (up to $250, June 1-Dec 31); Wasaga Beach Property Taxes page (up to $250, July 1-Dec 15; 705-429-3844).",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -2700,10 +2700,10 @@
   ],
   "amount": "Property tax increase rebated: $400 minimum, up to $500 per year.",
   "requirements": "Owner 65+ receiving GIS, or receiving ODSP. Owned in the County at least 1 year; principal residence; current taxes paid.",
-  "action": "DEADLINE Nov 1, 2026. Apply online or drop the form at the local municipal office. Renew yearly.",
+  "action": "2026 deadline (Nov 1, 2026) has passed; late 2026 applications only if Treasury agrees (519-837-2600 ext. 2340). For 2027, apply online or at the local municipal office by Nov 1, 2027. Renew yearly.",
   "url": "https://www.wellington.ca/your-government/budget-finance/tax-rebates",
   "phone": "519-837-2600 ext. 2340",
-  "status": "2026 deadline was Nov 1, 2026 (a Sunday); late applications only if the office agrees — call Monday Nov 2. Next deadline Nov 1, 2027.",
+  "status": "2026 deadline passed (Nov 1, 2026). Next deadline Nov 1, 2027.",
   "value": {
    "monthly": 0,
    "annual": 400,
@@ -2711,9 +2711,9 @@
    "type": "cash",
    "note": "Published minimum rebate"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.wellington.ca/your-government/budget-finance/tax-rebates",
-  "verified": "County of Wellington Tax Rebates page checked Nov 1, 2026: rebate up to $500 (min $400 for 2026); 65+ GIS or ODSP; due Nov 1 of the tax year; 519-837-2600 x2340.",
+  "verified": "County of Wellington Tax Rebates page checked Nov 8, 2026: rebate up to $500, minimum $400 for 2026; 65+ GIS or ODSP; owned 1+ year; applications due by Nov 1 of the taxation year; 519-837-2600 x2340; page has no late-application or 2027 details.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -2746,9 +2746,9 @@
    "type": "financing",
    "note": "Illustrative tax deferred; repaid on sale"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://guelph.ca/city-government/budget-and-finance/property-taxes/tax-rebates-programs-deferrals/",
-  "verified": "City of Guelph tax programs page checked Nov 1, 2026: defers increase of $200+; 65+ GIS/GAINS or low-income disability; apply yearly; 519-822-1260 x5605.",
+  "verified": "City of Guelph Tax rebates, programs and deferrals page (modified Sep 4, 2026) checked Nov 8, 2026: defer full increase when $200+; 65+ GIS/GAINS or disability on ODSP/FBA/GAINS-D; principal residence 1+ year; apply yearly; 519-822-1260 x5605.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -2782,9 +2782,9 @@
    "type": "tax",
    "note": "Amount decided by Council; no illustration set"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://guelph.ca/city-government/budget-and-finance/property-taxes/tax-rebates-programs-deferrals/",
-  "verified": "City of Guelph tax programs page checked Nov 1, 2026: s.357 cancellation, no fee; file by Feb 28 of next year; 519-822-1260 x5605."
+  "verified": "City of Guelph Tax rebates, programs and deferrals page (modified Sep 4, 2026) checked Nov 8, 2026: s.357 sickness/extreme poverty condition listed with no fee (page's general s.357 'how to apply' mentions a $50 fee, so reps should confirm); file by Feb 28 of next year; 519-822-1260 x5605."
  },
  {
   "id": "wellington-hsp",
@@ -2817,9 +2817,9 @@
    "type": "cash",
    "note": "Illustrative; maximum not published"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.wellington.ca/programmes-services/housing-services-supports/eviction-prevention",
-  "verified": "County Eviction Prevention page checked Nov 1, 2026: rent/utility arrears, first/last deposit; apply at wellington.ca/HSP; 519-837-6274 x3712."
+  "verified": "County of Wellington Eviction Prevention page checked Nov 8, 2026: HSP covers rent arrears, utility arrears and first/last deposit; max per 24 months per household (no dollar amount published); paid to vendors; apply at wellington.ca/HSP; 519-837-6274 x3712."
  },
  {
   "id": "wellington-energy",
@@ -2850,9 +2850,9 @@
    "type": "cash",
    "note": "Same grant as provincial LEAP — do not add both"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://wwhealthline.ca/printService.aspx?id=214077",
-  "verified": "County Eviction Prevention page checked Nov 1, 2026: County is LEAP lead agency for Guelph Hydro (also Alectra and sub-metered in Guelph); contact 519-837-6274 x3712 (Guelph) or 519-843-7000 (Wellington). County page no longer names an 'Emergency Energy Programme'.",
+  "verified": "County of Wellington Eviction Prevention page checked Nov 8, 2026: County is LEAP lead agency for Guelph Hydro; staff complete LEAP for Alectra and sub-metered hydro in Guelph; LEAP funds annual and limited; 519-837-6274 x3712 (Guelph) or 519-843-7000 (Wellington); still no separate 'Emergency Energy Programme' named.",
   "eligibility": {
    "maxIncome": [
     38000,
@@ -2890,9 +2890,9 @@
    "type": "cash",
    "note": "Illustrative; amount set by County"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.wellington.ca/programmes-services/housing-services-supports/about-wellington-guelph-housing-services/rent-support",
-  "verified": "County Rent Support Programmes page checked Nov 1, 2026: income at/below HILs, rent at/below average market rent; subject to funds; 519-837-6274 x4060."
+  "verified": "County of Wellington Rent Support Programmes page checked Nov 8, 2026: HAP monthly subsidy paid to landlord; income at/below HILs, rent at/below CMHC AMR, no social housing arrears; via Centralized Waiting List, subject to funds; 519-837-6274 x4060."
  },
  {
   "id": "guelph-greener-homes",
@@ -2921,9 +2921,9 @@
    "type": "project",
    "note": "Published grant maximum; registration paused"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://guelph.ca/living/environment/energy/guelph-greener-homes/how-the-guelph-greener-homes-program-works/",
-  "verified": "City of Guelph Greener Homes page (modified Oct 6, 2026) checked Nov 1, 2026: no longer accepting loan applications (waitlist open); low-income grants still available, limited; heat pump grant up to $15,000; CVA ≤$350,000; 2-person income limit $68,193; 519-822-1260."
+  "verified": "City of Guelph Greener Homes page (modified Oct 6, 2026) checked Nov 8, 2026: no longer accepting loan applications (waitlist); loans up to $50,000 at 0% over 10 years; low-income grants limited, heat pump up to $15,000; CVA at or below $350,000; 2-person income limit $68,193; 519-822-1260."
  },
  {
   "id": "guelph-royal-flush",
@@ -2951,9 +2951,9 @@
    "type": "bill",
    "note": "Two toilets at $50"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://guelph.ca/living/environment/water/rebates/royal-flush-toilet-rebate/",
-  "verified": "City of Guelph Royal Flush page checked Nov 1, 2026: $50 per toilet, up to two; homes built before 2014; 519-822-1260 x2633."
+  "verified": "City of Guelph Royal Flush page checked Nov 8, 2026: $50 per toilet, up to two for homeowners; built before Jan 1, 2014; WaterSense 4.8 L or less; credit on water bill within 10 weeks; 519-822-1260 x2633."
  },
  {
   "id": "guelph-lead-pipe",
@@ -2981,9 +2981,9 @@
    "type": "project",
    "note": "Published maximum"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://guelph.ca/living/environment/water/rebates/replacement-program/",
-  "verified": "City of Guelph lead pipe page checked Nov 1, 2026: grants up to $2,000 (usually 80%); approval before work; 519-822-1260 x2263."
+  "verified": "City of Guelph 'Replace lead pipes and get a grant' page checked Nov 8, 2026: grant up to $2,000 (usually about 80%); City-confirmed lead line; apply and get building permit before work; funding status not stated; 519-822-1260 x2263."
  },
  {
   "id": "guelph-bus-pass",
@@ -3013,9 +3013,9 @@
    "type": "bill",
    "note": "Illustrative yearly fare savings"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://guelph.ca/living/getting-around/bus/fares-and-passes/affordable-bus-pass/",
-  "verified": "City of Guelph Affordable Bus Pass page (modified Oct 15, 2026) checked Nov 1, 2026: Tier A/B free; Tier C max $37.40/month; 1-person limit $27,478; 519-822-1811.",
+  "verified": "City of Guelph Affordable Bus Pass page (modified Oct 15, 2026) checked Nov 8, 2026: Tier A/B free; Tier C adult $1.10/ride capped at $37.40/month; 1-person limit $27,478; paper forms at ServiceGuelph, Evergreen, West End CC or Transit office; 519-822-1811.",
   "eligibility": {
    "maxIncome": [
     27478,
@@ -3043,10 +3043,10 @@
   ],
   "amount": "Cancellation or deferral of the yearly property tax increase, plus water and garbage bin rebates.",
   "requirements": "Owner-occupant 1+ year; combined owner income $62,000 or less; 65+, or 60–64 on GIS, or receiving a disability benefit (deferral also open to 50+ with a pension). Cancellation needs assessment under $975,000. Water rebate needs use under 400 m³/yr.",
-  "action": "DEADLINE Nov 2, 2026. Apply online or mail the form to Revenue Services, 5100 Yonge St. Reapply every year.",
+  "action": "2026 deadline passed (Nov 2, 2026). Watch the City page for the 2027 application, then apply online or mail the form to Revenue Services, 5100 Yonge St. Reapply every year.",
   "url": "https://www.toronto.ca/services-payments/property-taxes-utilities/property-tax/property-tax-water-solid-waste-relief-and-rebate-programs/property-tax-and-utility-relief-program/",
   "phone": "311",
-  "status": "Open; 2026 deadline is Mon Nov 2 (tomorrow). Closed after that until the 2027 intake.",
+  "status": "2026 intake over: the deadline was Mon Nov 2, 2026 and has passed. The City page has no 2027 dates yet. Do not offer until the 2027 intake opens.",
   "value": {
    "monthly": 0,
    "annual": 300,
@@ -3054,9 +3054,9 @@
    "type": "tax",
    "note": "Illustrative; depends on tax increase and water use"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.toronto.ca/services-payments/property-taxes-utilities/property-tax/property-tax-water-solid-waste-relief-and-rebate-programs/property-tax-and-utility-relief-program/",
-  "verified": "Official City page checked Nov 1, 2026 (modified Jul 22, 2026): open; 2026 deadline Nov 2, 2026; income $62,000; assessment under $975,000; water under 400 m3; 5100 Yonge St.",
+  "verified": "City relief program page (modified Jul 22, 2026) and Applications & Deadlines page (modified May 14, 2026) checked Nov 8, 2026: 2026 tax-year deadline Nov 2, 2026 (now passed), no 2027 or late-application info; income $62,000; assessment under $975,000; water under 400 m3; 5100 Yonge St.",
   "eligibility": {
    "minAge": 60,
    "altDisability": true,
@@ -3090,9 +3090,9 @@
    "type": "tax",
    "note": "Amount decided by the City; no illustration set"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.toronto.ca/services-payments/property-taxes-utilities/property-tax/property-tax-water-solid-waste-relief-and-rebate-programs/property-tax-appeal-sickness-or-extreme-poverty/",
-  "verified": "Official City page (modified May 14, 2026) checked Nov 1, 2026: ARB decides at hearing; apply by legislated deadline; fax 416-696-3508."
+  "verified": "City Sickness or Extreme Poverty appeal page (modified May 14, 2026) checked Nov 8, 2026: ARB decides at hearing; apply by legislated deadline; fax 416-696-3508; Applications & Deadlines page lists Mar 2, 2026 for the 2025 tax year (next date not yet posted)."
  },
  {
   "id": "toronto-help",
@@ -3121,9 +3121,9 @@
    "type": "financing",
    "note": "Illustrative loan; repaid with interest"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.toronto.ca/services-payments/water-environment/environmental-grants-incentives/home-energy-loan-program-help/",
-  "verified": "Official City page checked Nov 1, 2026: applications open; up to $125,000 (max 10% of CVA); rates 3.83%–5.12% fixed to Dec 31, 2026."
+  "verified": "City HELP page (modified Nov 4, 2026) checked Nov 8, 2026: applications open; up to $125,000 (max 10% of CVA); rates 3.83% (5 yr) to 5.12% (20 yr) valid to Dec 31, 2026; no 2027 rates posted."
  },
  {
   "id": "toronto-renovates",
@@ -3141,10 +3141,10 @@
   ],
   "amount": "Funding for essential repairs and accessibility changes for low-income senior and disabled homeowners.",
   "requirements": "Low-income homeowner; seniors and people with disabilities prioritised; no other property.",
-  "action": "Call 416-392-7620 or email torontorenovates@toronto.ca to confirm intake before applying.",
+  "action": "Do not offer. If a client asks, they can call 416-392-7620 or email torontorenovates@toronto.ca to ask whether any intake exists.",
   "url": "https://www.toronto.ca/wp-content/uploads/2021/11/98ea-Toronto-Renovates-Assessment-Request-Form.pdf",
   "phone": "416-392-7620",
-  "status": "Current intake not confirmed — check before offering.",
+  "status": "No current intake published. The City's Toronto Renovates page now redirects to its general Financial Support for Homeowners page (modified Mar 23, 2026), which no longer lists the program. Do not offer.",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -3152,9 +3152,9 @@
    "type": "financing",
    "note": "Illustrative; amount not published"
   },
-  "checked": "2026-10-22",
+  "checked": "2026-11-08",
   "source": "https://www.toronto.ca/wp-content/uploads/2021/11/98ea-Toronto-Renovates-Assessment-Request-Form.pdf",
-  "verified": "Program form (2021) found; current status not confirmed Oct 22, 2026.",
+  "verified": "Checked Nov 8, 2026: toronto.ca Toronto Renovates Homeowners Program URL now shows the Financial Support for Homeowners page (modified Mar 23, 2026), which lists EEF, tax/water relief and OW payments but not Toronto Renovates; City 2026 Housing Secretariat budget notes do not mention it; the only program document found is the 2021 assessment form (416-392-7620, torontorenovates@toronto.ca, 55 John St. address).",
   "eligibility": {
    "lowIncome": true
   }
@@ -3188,9 +3188,9 @@
    "type": "cash",
    "note": "Illustrative; overlaps LEAP — do not add both"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.toronto.ca/community-people/employment-social-support/support-for-people-in-financial-need/assistance-through-ontario-works/policies-and-procedures/emergency-energy-fund-eef/",
-  "verified": "Official City page checked Nov 1, 2026: low-income residents not on OW/ODSP; hydro, gas or oil arrears/reconnection; NIP 647-727-8988.",
+  "verified": "City EEF page (modified Dec 22, 2025) checked Nov 8, 2026: low-income residents not on OW/ODSP; hydro, gas or oil reconnection/arrears; call NIP 647-727-8988, Mon–Fri 9–4:30; no pause notice.",
   "eligibility": {
    "lowIncome": true
   }
@@ -3223,9 +3223,9 @@
    "type": "cash",
    "note": "Same grant as provincial LEAP — do not add both"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.torontohydro.com/for-home/financial-assistance",
-  "verified": "Toronto Hydro financial assistance page checked Nov 1, 2026: max $650 ($780 electric heat); NIP 416-924-2543 and other agencies listed.",
+  "verified": "Toronto Hydro financial assistance page checked Nov 8, 2026: LEAP max $650 ($780 electric heat); after-tax limits $38,000 (1) to $71,000 (5–7); NIP 416-924-2543, Housing Help Centre 416-285-8070, Albion 416-252-5990; no pause notice.",
   "eligibility": {
    "maxIncome": [
     38000,
@@ -3264,9 +3264,9 @@
    "type": "cash",
    "note": "Illustrative; paid to landlord"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.toronto.ca/rentbank",
-  "verified": "Official City Rent Bank page (modified Aug 17, 2026) checked Nov 1, 2026: arrears up to $5,000; income $46,500 (1) to $66,500 (4); apply via nipost.org.",
+  "verified": "City Toronto Rent Bank page (modified Aug 17, 2026) checked Nov 8, 2026: arrears up to $5,000; deposits $2,000–$3,500; income $46,500 (1) to $66,500 (4); rent max 85% of income; not OW/ODSP; asset limits; apply via nipost.org.",
   "eligibility": {
    "maxIncome": [
     46500,
@@ -3305,9 +3305,9 @@
    "type": "bill",
    "note": "Illustrative yearly fare savings"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.toronto.ca/community-people/employment-social-support/support-for-people-in-financial-need/assistance-through-ontario-works/transit-discount/",
-  "verified": "Official City page checked Nov 1, 2026: apply now; 36% off ($2.10 vs $3.30); age 20–64; $23,488 for 1 person; 416-338-8888.",
+  "verified": "City Fair Pass page (modified Oct 19, 2026) checked Nov 8, 2026: apply now; 36% off ($2.10 vs $3.30); cap $98.70; age 20–64; $23,488 for 1 person; OW/ODSP qualify; 416-338-8888.",
   "eligibility": {
    "minAge": 20,
    "maxAge": 64,
@@ -3350,9 +3350,9 @@
    "type": "cash",
    "note": "2026 Brampton amount"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://peelregion.ca/housing-social-support/financial-social-support/apply-rebate-your-property-taxes",
-  "verified": "Peel Region and Brampton pages checked Nov 1, 2026: 65+ on GIS or ODSP; owned 1+ yr; apply by Dec 31; Brampton 2026 rebate $590.",
+  "verified": "Peel Region rebate page and City of Brampton Tax Adjustments page checked Nov 8, 2026: 65+ on GIS or ODSP; owned 1+ year; apply by Dec 31 every year; Brampton 2026 rebate $590.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -3386,9 +3386,9 @@
    "type": "cash",
    "note": "Published maintenance maximum"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.mississauga.ca/wp-content/uploads/2025/09/25151346/Financial-Assistance-for-Older-Adults-September-2025.pdf",
-  "verified": "City of Mississauga rebate and outdoor maintenance subsidy pages checked Nov 1, 2026: stormwater subsidy automatic for rebate recipients; maintenance claims due Mar 31; guide says up to $400 (2024 services).",
+  "verified": "Mississauga outdoor maintenance subsidy page (modified Sep 21, 2026) and Sept 2025 older-adults guide checked Nov 8, 2026: stormwater subsidy 100% and automatic for rebate recipients; maintenance claims due Mar 31 of next year; tax@mississauga.ca; guide max $400 (2024 services); web page states no maximum.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -3421,9 +3421,9 @@
    "type": "project",
    "note": "Published maximum"
   },
-  "checked": "2026-11-01",
-  "source": "https://peelregion.ca/wastewater/backwater-valve-rebate.asp",
-  "verified": "Peel Region backwater valve rebate page checked Nov 1, 2026: 60% up to $1,500; permit and inspection required."
+  "checked": "2026-11-08",
+  "source": "https://peelregion.ca/water/pipes-downspouts/backwater-valve-rebate",
+  "verified": "Peel Region backwater valve rebate page checked Nov 8, 2026: 60% up to $1,500; sanitary lateral only; permit and passed inspection; cheque in 4–6 weeks; application form dated Dec 2025; no end date."
  },
  {
   "id": "peel-water-relief",
@@ -3453,9 +3453,9 @@
    "type": "bill",
    "note": "Illustrative"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://peelregion.ca/services/water-bill-relief-program",
-  "verified": "Official Region page checked Nov 1, 2026: 20% credit Apr 1, 2026–Mar 31, 2027; 65+, low income or very low use; 905-791-8711."
+  "verified": "Peel Region water bill relief page checked Nov 8, 2026: 20% credit for bills Apr 1, 2026–Mar 31, 2027; 65+, low income ($35,000 for 1 to $52,500 for 5) or very low use; apply via resident portal; 905-791-8711."
  },
  {
   "id": "peel-past-due",
@@ -3478,7 +3478,7 @@
   "amount": "One-time financial help with overdue utility bills or rent; based on need.",
   "requirements": "Peel resident behind on utilities or rent; proof of income and expenses.",
   "action": "Apply online through a Peel Region account.",
-  "url": "https://peelregion.ca/help/past-due-bills/",
+  "url": "https://peelregion.ca/housing-social-support/financial-social-support/keep-housing-avoid-eviction",
   "phone": "",
   "status": "Open.",
   "value": {
@@ -3488,9 +3488,9 @@
    "type": "cash",
    "note": "Illustrative; overlaps LEAP — do not add both"
   },
-  "checked": "2026-11-01",
-  "source": "https://peelregion.ca/help/past-due-bills/",
-  "verified": "Official Region page checked Nov 1, 2026: one-time help with overdue rent or utilities; apply online; no pause notice.",
+  "checked": "2026-11-08",
+  "source": "https://peelregion.ca/housing-social-support/financial-social-support/keep-housing-avoid-eviction",
+  "verified": "Peel Region 'Keep housing and avoid eviction' page (old URL redirects there) checked Nov 8, 2026: one-time help with overdue utilities or rent; based on need; proof of income and expenses; apply online through Peel Region account; no pause notice.",
   "eligibility": {
    "lowIncome": true
   }
@@ -3523,9 +3523,9 @@
    "type": "bill",
    "note": "Illustrative yearly savings"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://peelregion.ca/services/bus-fare-discounts",
-  "verified": "Official Region page checked Nov 1, 2026: 50% off for 12 months; age 20+; $30,255 (1) to $60,510 (4); 905-793-9200.",
+  "verified": "Peel Region bus fare discounts page checked Nov 8, 2026: 50% off for 12 months; age 20+; net income $30,255 (1) to $60,510 (4); PRESTO required; 905-793-9200; no pause notice.",
   "eligibility": {
    "minAge": 20,
    "maxIncome": [
@@ -3564,9 +3564,9 @@
    "type": "financing",
    "note": "Illustrative tax deferred"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.halton.ca/getmedia/9c09f93b-365f-40f2-a8e6-d946618e95ed/fn-by-law-no-21-26-amended-09-25-tax-increase-deferral-program-apr-2026.pdf",
-  "verified": "Halton Region property taxes page checked Nov 1, 2026: 2026 application period concluded; new form spring 2027.",
+  "verified": "Halton Region Property Taxes page checked Nov 8, 2026: Property Tax Increase Deferral 'application period has concluded for 2026'; new form to be posted spring 2027; income threshold set in By-law 21-26 (by-law PDF not re-read this week).",
   "eligibility": {
    "minAge": 65,
    "altDisability": true,
@@ -3599,9 +3599,9 @@
    "type": "financing",
    "note": "Illustrative full tax deferred; repaid on sale"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.halton.ca/the-region/finance-and-transparency/property-taxes/older-adults-property-tax-deferral-program",
-  "verified": "Official Region page checked Nov 1, 2026: closed for 2026, new form spring 2027; 65+, income under $69,500; $200 fee.",
+  "verified": "Halton Older Adults Property Tax Deferral page and amending By-law 22-26 (Apr 2026) checked Nov 8, 2026: closed for 2026, new form spring 2027; 65+; combined income below $69,500; principal residence 4 years; no other Halton property; $200 one-time admin fee; renewals due Sept 30; 311.",
   "eligibility": {
    "minAge": 65,
    "maxIncome": 69500
@@ -3633,9 +3633,9 @@
    "type": "cash",
    "note": "Published amount"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.oakville.ca/getmedia/db0f8738-56f1-4493-adce-735448a5ac04/property-tax-senior-rebate-form.pdf",
-  "verified": "Town of Oakville rebates page and 2026 form checked Nov 1, 2026: 2026 rebate $500; applications had to be received by Oct 31, 2026, none processed after; 905-845-6601.",
+  "verified": "Town of Oakville Tax Rebates & Assistance page checked Nov 8, 2026: 2026 seniors rebate $500, application had to be submitted by Oct 31, 2026 (now passed); only one of rebate/deferral; tax@oakville.ca, ServiceOakville 905-845-6601.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true
@@ -3667,9 +3667,9 @@
    "type": "cash",
    "note": "Published amount"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.burlington.ca/en/property-taxes/low-income-seniors-property-tax-rebate.aspx",
-  "verified": "City of Burlington online application form (issued Jun 15, 2026) checked Nov 1, 2026: $575 reduction; 65+ GIS or ODSP; owner 1+ yr; due Dec 31; 905-335-7750. Main page not reachable this week.",
+  "verified": "City of Burlington Low-Income Property Tax Reduction page (now reachable) checked Nov 8, 2026: $575 reduction; 65+ receiving GIS or ODSP income support; owner-occupied principal residence; must be submitted by Dec 31; 'Applications for the 2026 property tax reduction program are now being accepted.'",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -3706,9 +3706,9 @@
    "type": "cash",
    "note": "Illustrative; maximum not published"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://halton.ca/For-Residents/Housing-Supports-and-Services/Housing/Housing-Stability-Fund",
-  "verified": "Official Halton HSF page checked Nov 1, 2026: one-time help with rent, moving, utilities (after LEAP); asset limits $5,000/$10,000; 311."
+  "verified": "Halton Housing Stability Fund page (halton.ca/for-residents/housing-supports-and-services/housing/housing-stability-fund) checked Nov 8, 2026: one-time help with unpaid rent, last month's rent, moving/storage, furniture, hydro/gas arrears after LEAP; assets under $5,000 (single/couple) or $10,000 (family); apply via Halton 311 account or 311 / 905-825-6000; no closure notice."
  },
  {
   "id": "halton-backwater",
@@ -3736,9 +3736,9 @@
    "type": "project",
    "note": "Published maximum"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.halton.ca/for-residents/water-and-wastewater-services/basement-flooding/flood-preparedness-and-reducing-your-risk/backwater-valve-installation-subsidy",
-  "verified": "Halton subsidy application (rev. June 2026) checked Nov 1, 2026: backwater valve 50% up to $1,600; permit and paid invoice required."
+  "verified": "Halton Backwater Valve Installation Subsidy page and Basement Flooding Prevention Subsidy application (rev. June 2026) checked Nov 8, 2026: backwater valve 50% up to $1,600 (work after July 15, 2024); permit with final inspection and paid invoice; apply within 1 year to basementfloodingsubsidy@halton.ca; 311/905-825-6000. Other maxima: weeping tile/sump pump $6,500, downspouts $900, lateral lining $4,000."
  },
  {
   "id": "hamilton-seniors-rebate",
@@ -3766,9 +3766,9 @@
    "type": "cash",
    "note": "Illustrative; amount not published"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.hamilton.ca/media/5741",
-  "verified": "City of Hamilton 2026 Seniors Tax Rebate application checked Nov 1, 2026: $241 plus $175 utility rebate; income ≤$44,568; assessment ≤$505,694; due last business day of Feb 2027; 905-546-2489.",
+  "verified": "City of Hamilton 2026 Seniors (65+) Tax Rebate application (hamilton.ca/sites/default/files/2026-06/taxes-senior-tax-rebate-application-2026.pdf) checked Nov 8, 2026: $241 credit plus $175 Seniors Utility Rebate with active metered water account; combined income ≤$44,568; assessment ≤$505,694; due last business day of Feb 2027; 905-546-2489.",
   "eligibility": {
    "minAge": 65,
    "maxIncome": 44568
@@ -3800,9 +3800,9 @@
    "type": "financing",
    "note": "Illustrative tax deferred"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.hamilton.ca/media/5740",
-  "verified": "City of Hamilton 2026 deferral form checked Nov 1, 2026: 65+ or disability benefits; combined income ≤$44,568; due last business day of Feb 2027; 905-546-2489.",
+  "verified": "City of Hamilton 2026 Low Income Seniors & Persons with Disabilities Deferral of Tax Increase form (hamilton.ca/media/5740) checked Nov 8, 2026: 65+ or ODSP/GIS disability/CPP disability; combined income ≤$44,568; owned 1+ year, principal residence; apply any time, deadline last business day of Feb 2027; 905-546-2489.",
   "eligibility": {
    "minAge": 65,
    "altDisability": true,
@@ -3869,9 +3869,9 @@
    "type": "project",
    "note": "Published maximum"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.hamilton.ca/sites/default/files/2026-01/basementflooding-protective-plumbing-program-assessment-form-rev15-jan2026.pdf",
-  "verified": "City of Hamilton 3P assessment form (rev15, Jan 2026) and loan application checked Nov 1, 2026: grant up to $2,000 plus permit cost; loan up to $2,000 at 4% over 10 years on taxes; pre-2012 single-family homes; 905-546-2489."
+  "verified": "City of Hamilton 3P assessment form (rev15, Jan 2026) and Residential Protective Plumbing Loan application (v4, Feb 2026) checked Nov 8, 2026: grant up to $2,000 plus building permit cost (only $500 for a backwater valve if not using a pre-qualified contractor); single-family home on City sewer built before Jan 1, 2012; taxes current; loan up to $2,000 at 4% over 10 years on the tax bill; 905-546-2489."
  },
  {
   "id": "hamilton-hef",
@@ -3903,9 +3903,9 @@
    "type": "cash",
    "note": "Illustrative"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.hamilton.ca/media/7432",
-  "verified": "City of Hamilton HEF information sheet (Mar 2025, hamilton.ca/media/7432) checked Nov 1, 2026: max over 24 months $3,000 (1) to $7,000 (5+); OW via City, others via Housing Help Centre; hef@hamilton.ca, 905-546-2424 ext. 6555. Current open status not re-confirmed.",
+  "verified": "City of Hamilton HEF information sheet (Mar 2025, hamilton.ca/media/7432) re-checked Nov 8, 2026: max over 24 months $3,000 (single) to $7,000 (5+); housing costs ≤95% of income; OW via City HEF team, ODSP-in-community/low-income via Housing Help Centre; hef@hamilton.ca, 905-546-2424 ext. 6555. HEF web page body not readable; no closure notice found.",
   "eligibility": {
    "lowIncome": true
   }
@@ -3940,9 +3940,9 @@
    "type": "financing",
    "note": "Illustrative tax deferred"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.Vaughan.ca/sites/default/files/Property%20Tax%20Deferral%20for%20Seniors%20and%20Disabled%20Persons.pdf",
-  "verified": "King and Aurora York Region deferral forms checked Nov 1, 2026: 65+ (Aurora: on GIS); 55–64 low income; ODSP/GAINS-D; due Sept 30 yearly. Vaughan PDF not reachable this week.",
+  "verified": "Vaughan deferral form (now reachable), King and Aurora York Region deferral forms checked Nov 8, 2026: 65+ (Aurora: on GIS); 55–64 with income ≤$23,000 single / ≤$40,000 family (Vaughan form: increase over $300 deferred; King form says over $100 — sources conflict, record left as is); ODSP/GAINS-D; principal residence; due Sept 30 yearly.",
   "eligibility": {
    "minAge": 55,
    "altDisability": true
@@ -3974,9 +3974,9 @@
    "type": "cash",
    "note": "Illustrative; amount set yearly"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.richmondhill.ca/en/shared-content/resources/documents/Senior-Tax-Grant-2026.pdf",
-  "verified": "Richmond Hill Senior Tax Grant page and 2026 document checked Nov 1, 2026: 65+ on GIS; final deadline Sept 30; 905-771-8949.",
+  "verified": "Richmond Hill Senior Tax Grant and Tax Assistance Programs pages checked Nov 8, 2026: 65+ receiving GIS; owned 1+ year, principal residence; one per household; deadline Sept 30 (by Mar 31 to apply to the Final Tax Bill); amount not published; Access Richmond Hill 905-771-8949.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true
@@ -4013,9 +4013,9 @@
    "type": "cash",
    "note": "Illustrative; amount not published"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.york.ca/node/44101",
-  "verified": "York Region Rent and Utility Assistance page (modified Jul 27, 2026) checked Nov 1, 2026: HPP covers rent/mortgage/utility arrears, deposits, moving; income $47,952 (1) to $126,870 (7+); 1-877-464-9675.",
+  "verified": "York Region Rent and Utility Assistance page (modified Nov 4, 2026) checked Nov 8, 2026: Homelessness Prevention Program covers rent/utility arrears, mortgage payments or arrears, deposits, reconnection, moving; income $47,952 (1) to $126,870 (7+); Access York 1-877-464-9675; OW/ODSP Housing Stability Program 1-888-256-1112.",
   "eligibility": {
    "maxIncome": [
     47952,
@@ -4052,9 +4052,9 @@
    "type": "financing",
    "note": "Program closed"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.durham.ca/regional-government/property-taxes/",
-  "verified": "Durham Region property taxes page and Whitby page checked Nov 1, 2026: deferral of reassessment increases; Whitby states closed until next province-wide reassessment.",
+  "verified": "Durham Region Property Taxes page and Town of Whitby Low Income Seniors page checked Nov 8, 2026: Regional deferral of reassessment-related increases over 5% or $100 for 65+ GIS or ODSP-eligible owners, administered by the local municipality; Whitby states the deferral is closed until the next province-wide MPAC reassessment.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -4087,9 +4087,9 @@
    "type": "cash",
    "note": "2026 amount"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.pickering.ca/property-roads-safety/property-taxes/tax-deferrals-grants-and-rebates/",
-  "verified": "Official Pickering tax deferrals/grants page checked Nov 1, 2026: 2026 grant $620; 65+ GIS or ODSP; due Aug 19; 905-420-4614.",
+  "verified": "Official City of Pickering Tax Deferrals, Grants and Rebates page checked Nov 8, 2026: 2026 grant $620; 65+ on GIS or ODSP; owned and occupied 1+ year; due Aug 19; Tax Section 905-420-4614.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -4122,9 +4122,9 @@
    "type": "cash",
    "note": "Illustrative; amount not published"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.oshawa.ca/living-here/property-taxes/tax-rebates-and-reductions/",
-  "verified": "Official Oshawa Tax Rebates and Reductions page checked Nov 1, 2026: GIS 65+ or ODSP owners; Jan 1–Apr 30; 905-436-3311.",
+  "verified": "Official City of Oshawa Tax Rebates and Reductions page checked Nov 8, 2026: GIS 65+ (by Dec 31) or ODSP owners; occupied 1+ year before Dec 31; one grant per household; apply Jan 1 to Apr 30 online or at City Hall; no dollar amount published; 905-436-3311, tax@oshawa.ca.",
   "eligibility": {
    "minAge": 65,
    "altDisability": true,
@@ -4158,9 +4158,9 @@
    "type": "cash",
    "note": "Illustrative; amount not published"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.whitby.ca/services-and-payments/property-taxes/tax-rebate-and-relief-programs/low-income-seniors/",
-  "verified": "Official Whitby Low Income Seniors page checked Nov 1, 2026: 65+ GIS; one rebate per roll number per year; due Dec 31; email service@whitby.ca or mail; 905-430-4300.",
+  "verified": "Official Town of Whitby Low Income Seniors page checked Nov 8, 2026: 65+ with GIS-qualifying income, principal residence; one rebate per roll number per year; due Dec 31; submit with current-year GIS letter to tax@whitby.ca or by mail; no amount published; 905-430-4300.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -4187,7 +4187,7 @@
   "amount": "Up to 2 months of rent or utility arrears (rent caps $3,000 1-bed to $4,000 4+-bed), last month's rent deposit, utility deposits/reconnection.",
   "requirements": "Durham resident on OW/ODSP, or net household income under $50,000 (1 person), $58,000 (2), $65,000 (3), $68,000 (4), $72,000 (5), $75,000 (6), $78,000 (7+). Once per 3 years per benefit type; subject to funding. Mainly for renters — homeowners ask about utility arrears.",
   "action": "Apply online on the Region's HSP form or call 905-668-4113 ext. 3474 (also listed: 905-666-6239 ext. 1803). Outreach workers: Ajax-Pickering CDC Durham 905-686-2661; Oshawa-Whitby John Howard Society 905-579-8482; Clarington 905-623-6814; Scugog/Uxbridge/Brock Community Living Durham North 905-852-5919.",
-  "url": "https://www.durham.ca/en/living-here/housing-supports.aspx",
+  "url": "https://www.durham.ca/living-here/housing-and-homelessness/housing-supports/",
   "phone": "905-668-4113 ext. 3474",
   "status": "Open.",
   "value": {
@@ -4197,9 +4197,9 @@
    "type": "cash",
    "note": "Illustrative"
   },
-  "checked": "2026-11-01",
-  "source": "https://www.durham.ca/en/living-here/housing-supports.aspx",
-  "verified": "Official Durham Housing Supports page checked Nov 1, 2026: arrears caps, income limits, once per 3 years, phone 905-668-4113 ext. 3474.",
+  "checked": "2026-11-08",
+  "source": "https://www.durham.ca/living-here/housing-and-homelessness/housing-supports/",
+  "verified": "Official Durham Housing Supports page (new URL) and Durham utility/rent arrears resources page checked Nov 8, 2026: up to 2 months rent/utility arrears, rent caps $3,000-$4,000, net income limits $50,000-$78,000 unchanged, once per 3 years per benefit, subject to funding; 905-668-4113 ext. 3474 and 905-666-6239 ext. 1803; outreach phones unchanged.",
   "eligibility": {
    "maxIncome": [
     50000,
@@ -4237,9 +4237,9 @@
    "type": "financing",
    "note": "Illustrative"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://niagarafalls.ca/property-home-and-environment/property-tax-and-assessment/water-and-property-tax-relief-programs/",
-  "verified": "City of Niagara Falls relief page checked Nov 1, 2026: Region deferral of increase above $200; 65+ GIS or ODSP; apply by Feb 28 of following year; 905-356-7521 ext. 4214.",
+  "verified": "City of Niagara Falls Water and Property Tax Relief Programs page and Town of Fort Erie Tax Deferral page checked Nov 8, 2026: Region deferral of the part of a yearly increase above $200; 65+ on GIS or ODSP; owner-occupant 1+ year; taxes current; apply to local municipality by Feb 28 of following year.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -4272,9 +4272,9 @@
    "type": "financing",
    "note": "Published deferral amount"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://niagarafalls.ca/property-home-and-environment/property-tax-and-assessment/water-and-property-tax-relief-programs/",
-  "verified": "City of Niagara Falls relief page checked Nov 1, 2026: $500/yr up to 10 years; 65+ GIS or ODSP; applications Aug 1–Oct 31 each year.",
+  "verified": "City of Niagara Falls relief page checked Nov 8, 2026: up to $500/yr deferred, max $5,000 and 10 years; $150 fee at sale or transfer; 65+ GIS or ODSP; principal residence; Senior Deferral pre-authorized payment plan required; applications Aug 1-Oct 31 each year; 905-356-7521 ext. 4214.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -4307,9 +4307,9 @@
    "type": "bill",
    "note": "Published credit"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://niagarafalls.ca/property-home-and-environment/property-tax-and-assessment/water-and-property-tax-relief-programs/",
-  "verified": "City of Niagara Falls relief page checked Nov 1, 2026: $102 rebate for GIS/ODSP tenant account holders; 2026 window Aug 1–Oct 31.",
+  "verified": "City of Niagara Falls relief page checked Nov 8, 2026: $102 water-account credit for GIS or ODSP tenants who are the registered water account holder; 2026 window Aug 1-Oct 31 (closed); credit appears by end of 2026; 905-356-7521.",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -4332,10 +4332,10 @@
   ],
   "amount": "Interest-free loan for necessary repairs and accessibility work.",
   "requirements": "Moderate-income owner; sole residence in Dufferin; taxes, mortgage and insurance current.",
-  "action": "Call 519-941-6991 ext. 2110 to confirm funding before applying.",
-  "url": "https://www.dufferincounty.ca/housing-services/ontario-renovates-program",
-  "phone": "519-941-6991 ext. 2110",
-  "status": "Subject to funding — confirm.",
+  "action": "Call Dufferin County Housing Services at 519-941-6991 (had@dufferincounty.ca) and ask whether Ontario Renovates home repair funding is currently offered before quoting or applying.",
+  "url": "https://www.dufferincounty.ca/county-services/housing-services/",
+  "phone": "519-941-6991",
+  "status": "Not listed on Dufferin County's current Housing Services pages (Nov 2026); availability unconfirmed. Call before quoting.",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -4343,9 +4343,9 @@
    "type": "financing",
    "note": "Illustrative; amount not published"
   },
-  "checked": "2026-10-22",
-  "source": "https://dufferincounty.cioc.ca/record/DUF0023?PrintMd=on",
-  "verified": "Community directory (2024) checked Oct 22, 2026."
+  "checked": "2026-11-08",
+  "source": "https://www.dufferincounty.ca/county-services/housing-services/",
+  "verified": "Checked Nov 8, 2026: Dufferin County Housing Services page and its program list (rent/utilities, Home Ownership, About Housing, Apply, Tenant info, Homelessness, Reports & Plans), Home Ownership, Seniors' Services, Climate & Energy Home Energy Efficiency Tips and Reports & Plans pages, plus site-restricted searches. No official County page mentions Ontario Renovates or a home repair/accessibility loan. The only references are community directory (cioc/211) copies. The old record URL could not be fetched this week. The County site does not say the program is closed, so it is not marked closed."
  },
  {
   "id": "dufferin-tax-relief",
@@ -4373,9 +4373,9 @@
    "type": "cash",
    "note": "Illustrative"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://townofgrandvalley.ca/media/1sjkv1k3/tax-relief-application.pdf",
-  "verified": "Dufferin County Low Income Tax Relief page (modified Aug 10, 2026) checked Nov 1, 2026: 65+ GIS or ODSP; owned 1+ yr; due before Nov 30; 519-941-2816 ext. 2810.",
+  "verified": "Dufferin County Low Income Tax Relief Program page (modified Aug 10, 2026) and Town of Grand Valley Rebates and Deferrals page checked Nov 8, 2026: 65+ GIS or FBA/ODSP; owned in Dufferin 1+ year; apply annually before Nov 30 with final tax bill; 519-941-2816 x2810. Grand Valley application PDF and 2026 by-law PDF could not be opened, so the 'less $50' formula was not re-verified (not contradicted).",
   "eligibility": {
    "minAge": 65,
    "needsGIS": true,
@@ -4408,9 +4408,9 @@
    "type": "project",
    "note": "Illustrative charges avoided; varies widely by city"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.mississauga.ca/wp-content/uploads/2026/04/08084145/Gentle-Density-Table-of-Incentives.pdf",
-  "verified": "Mississauga Gentle Density Table of Incentives checked Nov 1, 2026: 2nd/3rd units exempt from DCs and parkland cash-in-lieu; school DC may apply."
+  "verified": "Mississauga Gentle Density Table of Incentives PDF (dated Apr 7, 2026) and ARU page checked Nov 8, 2026: 2nd/3rd units exempt from City/Regional/GO DCs (Development Charges Act) and parkland cash-in-lieu (Planning Act); school board DC may be payable; 4th unit pays unless waived through local CIP."
  },
  {
   "id": "barrie-aru-fees",
@@ -4438,9 +4438,9 @@
    "type": "project",
    "note": "Illustrative permit fees saved"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.barrie.ca/node/15283",
-  "verified": "City of Barrie 2026 ARU Incentives page checked Nov 1, 2026: 50% off permit fees, rest rebated after occupancy within 12 months; permits issued by Dec 31, 2026; no funding-exhausted notice; 705-739-4220 x4416."
+  "verified": "City of Barrie 2026 ARU Incentives page checked Nov 8, 2026: 50% off permit/zoning/water fees, full rebate after occupancy within 12 months; applications Jan 1-Dec 31, 2026 or until funding allocated; permits issued by Dec 31, 2026; completed by Dec 31, 2027; no funding-exhausted notice; housingCIP@barrie.ca, 705-739-4220 x4416."
  },
  {
   "id": "mississauga-aru-fee-refund",
@@ -4468,9 +4468,9 @@
    "type": "project",
    "note": "Illustrative permit fees refunded"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.mississauga.ca/services-and-programs/building-and-renovating/building-more-units-on-your-property/additional-residential-units/",
-  "verified": "City of Mississauga ARU page (modified Jan 21, 2026) checked Nov 1, 2026: permit fees refunded automatically after inspections; 311."
+  "verified": "City of Mississauga ARU page (modified Jan 21, 2026) checked Nov 8, 2026: permit fees refunded automatically by cheque after construction and inspections; 2nd/3rd units exempt from most municipal charges; 311 / 905-615-4311."
  },
  {
   "id": "toronto-suite-dc-deferral",
@@ -4498,9 +4498,9 @@
    "type": "financing",
    "note": "Illustrative charges deferred"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.toronto.ca/services-payments/grants-incentives-rebates/laneway-garden-suite-development-charges-deferral-program/",
-  "verified": "City deferral program page (updated Aug 14, 2026) checked Nov 1, 2026: DCs deferred 20 years; repayable on severance or transfer without assumption."
+  "verified": "City DC deferral program page (modified Aug 14, 2026) checked Nov 8, 2026: no closure notice; DCs deferred 20 years; payable on severance or transfer without an Assumption Agreement; do not pay DCs first. (A May 2026 Mayor's item proposes new deferral terms, not yet shown as in effect.)"
  },
  {
   "id": "hamilton-adu-grant",
@@ -4528,9 +4528,9 @@
    "type": "project",
    "note": "Published per-unit maximum; requires construction spending"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.hamilton.ca/sites/default/files/2026-03/housing-secretariat-ADU-Multiplex-Housing-Incentive-Program-feb2026.pdf",
-  "verified": "City of Hamilton guidelines PDF (Feb 2026) checked Nov 1, 2026: 70% up to $40,000/unit, $240,000/site; occupancy by Aug 4, 2027; subject to funds. Program web page body not readable."
+  "verified": "City of Hamilton ADU & Multi-Plex Housing Incentive Program guidelines PDF (Feb 2026) checked Nov 8, 2026: 70% of eligible costs up to $40,000/unit, $240,000/site; CIP area excluding Roxborough; permit on/after Oct 9, 2025; occupancy within 18 months or by Aug 4, 2027; apply to Housing Secretariat; subject to availability of funds. Program web page body still not readable."
  },
  {
   "id": "brampton-garden-suite-grant",
@@ -4550,7 +4550,7 @@
   "action": "Apply online after the suite is registered; questions to 311.",
   "url": "https://brampton.ca/EN/Business/planning-development/housing-brampton/Pages/Garden-Suite-Grant-Application.aspx",
   "phone": "905-874-2000",
-  "status": "Application page live; 2026 funding not stated — confirm.",
+  "status": "CLOSED — City of Brampton says the Garden Suite Grant Program closed as of July 21, 2025. The old application page is still online but the program is not taking applications. Do not offer.",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -4558,9 +4558,9 @@
    "type": "project",
    "note": "Illustrative fees reimbursed"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://brampton.ca/EN/Business/planning-development/housing-brampton/Pages/Garden-Suite-Grant-Application.aspx",
-  "verified": "City Garden Suite Grant page checked Nov 1, 2026: refunds registration, permit, review fees and education DCs; form live; no funding or end date stated; 311."
+  "verified": "City of Brampton Renting/Garden Suites page checked Nov 8, 2026 says 'As of July 21, 2025, the program is now closed'; the grant application page is still live with no notice, so the closure notice governs."
  },
  {
   "id": "stcatharines-adu-grant",
@@ -4588,9 +4588,9 @@
    "type": "project",
    "note": "Published maximum for interior ADU"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.stcatharines.ca/building-and-renovating/housing-accelerator-funding/",
-  "verified": "City Housing Accelerator Funding page checked Nov 1, 2026: ADU grant up to $40,000 interior / $80,000 exterior; apply within 90 days of permit; until funding runs out; 905-688-5600."
+  "verified": "City of St. Catharines Housing Accelerator Funding page checked Nov 8, 2026: ADU grant up to $40,000 interior / $80,000 exterior, subject to HAF funding; apply within 90 days of building permit; more than one ADU per property allowed; open from April 1 until funding runs out; accessible-unit permit fee reimbursement extended by Council Mar 23, 2026; 905-688-5600."
  },
  {
   "id": "barrie-water-relief",
@@ -4619,9 +4619,9 @@
    "type": "bill",
    "note": "Published maximum: $60 x 6 bills"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://www.barrie.ca/node/8701",
-  "verified": "City of Barrie relief application page checked Nov 1, 2026: up to 40% of bill, max $60 per cycle for six bills; income limits $31,264 (1) to $58,096 (4); 705-726-4242."
+  "verified": "City of Barrie Low-Income Water/Wastewater Relief page checked Nov 8, 2026: credit up to 40% of bill, max $60 per cycle for next six bills; income limits $31,264 (1), $38,922 (2), $58,096 (4); owners or renters with account in own name; reapply annually; water.relief@barrie.ca, 705-726-4242."
  },
  {
   "id": "niagarafalls-penalty-credit",
@@ -4649,9 +4649,9 @@
    "type": "tax",
    "note": "Illustrative; 50% of the penalty and interest actually charged"
   },
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "source": "https://niagarafalls.ca/property-home-and-environment/property-tax-and-assessment/water-and-property-tax-relief-programs/",
-  "verified": "City of Niagara Falls relief page checked Nov 1, 2026: 50% of 2026–2027 penalty/interest once paid in full; apply Aug 4, 2026–Feb 29, 2028."
+  "verified": "City of Niagara Falls relief page checked Nov 8, 2026: one-time credit of 50% of penalty and interest charged Jan 1, 2026-Dec 31, 2027 once the account is paid in full; one credit per property, applied to a future instalment, no refunds; applications Aug 4, 2026-Feb 29, 2028; 905-356-7521."
  },
  {
   "id": "durham-greener-homes-loan",
@@ -4659,7 +4659,7 @@
    "owner"
   ],
   "phone": "",
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "name": "Durham Greener Homes Loan — 2% renovation loan up to $125,000",
   "level": "Regional",
   "regions": [
@@ -4680,7 +4680,7 @@
   "action": "Register at durhamgreenerhomes.ca and book a free Greener Homes Coach call; coach checks eligibility and walks through the loan application. Do NOT start work before approval. Can be combined with Home Renovation Savings rebates.",
   "url": "https://durhamgreenerhomes.ca/financial/loans/durham-region/",
   "status": "Open (except Pickering).",
-  "verified": "Official Durham Greener Homes loan page checked Nov 1, 2026: up to $125,000, 2%, 15-year term, 80/20 split, Pickering excluded.",
+  "verified": "Official Durham Greener Homes Durham Region Green Retrofit Loans page checked Nov 8, 2026: up to $125,000 at 2%, fixed 15-year term repaid via property taxes, 80/20 energy/resilience split, enrol before work, pre/post EnerGuide, 24 months energy data sharing, not available in Pickering.",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -4696,7 +4696,7 @@
    "owner"
   ],
   "phone": "",
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "name": "Durham Greener Homes — Free Renovation Coach and Weather-ready Home Assessment",
   "level": "Regional",
   "regions": [
@@ -4712,7 +4712,7 @@
   "action": "Register at durhamgreenerhomes.ca/get-started, then book through the portal. Good first step for any renovation client in Durham.",
   "url": "https://durhamgreenerhomes.ca/get-started/",
   "status": "Open; no cost.",
-  "verified": "Official Durham Greener Homes 'Get Started' page checked Nov 1, 2026.",
+  "verified": "Official Durham Greener Homes Coaching Service page checked Nov 8, 2026: free, initial consultation plus three follow-up phone/video sessions (four total), coach helps schedule the Weather-ready Home Assessment, register via Get Started; loan page confirms Pickering residents can use coaching and the assessment.",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -4728,7 +4728,7 @@
    "owner"
   ],
   "phone": "905-430-4300",
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "name": "Whitby — Additional Dwelling Unit Fee Reimbursement",
   "level": "Municipal",
   "regions": [
@@ -4737,20 +4737,20 @@
   "categories": [
    "adu"
   ],
-  "amount": "Town repays select fees for a new basement/garden suite: ADU building permit fee, registration inspection fee, curb cut fee, education development charges.",
-  "requirements": "Whitby owner who got the ADU building permit during the program period; unit registered with By-law Services by Mar 31, 2027.",
-  "action": "Program ended for new permits Dec 31, 2025. Clients who already have a permit: email HAF-ADU@whitby.ca and register the unit by Mar 31, 2027.",
-  "url": "https://www.whitby.ca/en/town-hall/additional-dwelling-units.aspx",
-  "status": "CLOSED to new permits (ended Dec 31, 2025); registration deadline Mar 31, 2027 for existing permits.",
-  "verified": "Official Town ADU page checked Nov 1, 2026: HAF-funded until Dec 31, 2025; register by Mar 31, 2027, no extensions.",
+  "amount": "Town repays select fees for a new basement/garden suite, where applicable: ADU building permit fee, ADU registration inspection fee, curb cut fee, below-grade entrance fee, and education development charges for detached ADUs. Minor variance fees are not covered.",
+  "requirements": "Whitby owner with an ADU building permit issued on or after Apr 1, 2024; building permit application deemed complete by Dec 31, 2026 (submit at least two weeks before) and any required minor variance final by then; incentive agreement signed by all registered owners and unit registered with By-law Services by Mar 31, 2027, or the incentive must be repaid by Apr 30, 2027. No exceptions or extensions.",
+  "action": "Apply through the Town's ADU Incentive Program online form (webforms.whitby.ca/Building/Additional-Dwelling-Unit-Incentive-Program). Clients planning an ADU must submit the building permit application at least two weeks before Dec 31, 2026. Register the unit with By-law Services (bylaw@whitby.ca) by Mar 31, 2027. Questions: 905-430-4300 or service@whitby.ca; planning 905-430-4306.",
+  "url": "https://www.whitby.ca/services-and-payments/building-and-renovating/additional-dwelling-units/",
+  "status": "OPEN until Dec 31, 2026 (HAF-funded); permit application must be complete by Dec 31, 2026; agreement and ADU registration by Mar 31, 2027.",
+  "verified": "Official Town of Whitby Additional Dwelling Units page checked Nov 8, 2026: HAF-funded incentive available until Dec 31, 2026; permits issued on or after Apr 1, 2024; application complete by Dec 31, 2026; agreement and registration by Mar 31, 2027 (repay by Apr 30, 2027 if not registered); no extensions.",
   "value": {
    "monthly": 0,
    "annual": 0,
    "once": 0,
    "type": "project",
-   "note": "Program closed to new applicants"
+   "note": "Fee reimbursement; amount varies by fees and is not published"
   },
-  "source": "https://www.whitby.ca/en/town-hall/additional-dwelling-units.aspx"
+  "source": "https://www.whitby.ca/services-and-payments/building-and-renovating/additional-dwelling-units/"
  },
  {
   "id": "brock-seniors-rebate",
@@ -4758,7 +4758,7 @@
    "owner"
   ],
   "phone": "705-432-2355",
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "name": "Brock — Low-income Seniors Property Tax Rebate",
   "level": "Municipal",
   "regions": [
@@ -4768,11 +4768,11 @@
    "tax"
   ],
   "amount": "$355 per year off property taxes.",
-  "requirements": "Homeowner 65+ receiving GIS; principal residence. GIS renewal award letter must be attached.",
+  "requirements": "Homeowner 65+ (by Dec 31) receiving GIS; principal residence owned 1+ year before Dec 31; property tax account paid in full for the rebate year; one applicant per property. Proof of GIS (renewal award letter) must be attached.",
   "action": "Apply by Sept 30 each year at the Municipal Office or online (2026 window passed — plan for 2027).",
   "url": "https://www.townshipofbrock.ca/news/posts/low-income-seniors-property-tax-rebate",
   "status": "Annual; 2026 deadline Sept 30 passed; next Sept 30, 2027.",
-  "verified": "Official Township of Brock notice checked Nov 1, 2026: $355; 65+ on GIS; deadline Sept 30.",
+  "verified": "Official Township of Brock Tax Rebates and Adjustments page and Tax Rebates, Reductions and Refunds Policy checked Nov 8, 2026: 65+ on GIS, principal residence, deadline Sept 30, proof of GIS required, tax account must be paid in full; 705-432-2355. Current pages do not state a dollar amount (policy says it is indexed annually), so the $355 figure from the earlier Township notice was not re-confirmed this week.",
   "value": {
    "monthly": 0,
    "annual": 355,
@@ -4792,7 +4792,7 @@
    "owner"
   ],
   "phone": "905-985-7346 ext. 102 or 106",
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "name": "Scugog — Property Tax Grant for Low-income Seniors and Persons with Disabilities",
   "level": "Municipal",
   "regions": [
@@ -4806,7 +4806,7 @@
   "action": "Submit 'Application A' to the Finance Department by Aug 31 each year (2026 window passed — plan for 2027). Email tax@scugog.ca.",
   "url": "https://www.scugog.ca/home-property-roads/property-taxes/tax-incentive-and-rebate-programs/",
   "status": "Annual; 2026 deadline Aug 31 passed; next Aug 31, 2027.",
-  "verified": "Official Township of Scugog tax incentive page checked Nov 1, 2026: $375; GIS or ODSP; deadline Aug 31.",
+  "verified": "Official Township of Scugog Tax Incentive and Rebate Programs page checked Nov 8, 2026: $375 grant; owner-occupant on GIS or ODSP; due Aug 31 to Finance; tax@scugog.ca; 905-985-7346 ext. 102 or 106.",
   "value": {
    "monthly": 0,
    "annual": 375,
@@ -4826,9 +4826,9 @@
   "housing": [
    "owner"
   ],
-  "phone": "905-623-3379 ext. 2650",
-  "checked": "2026-11-01",
-  "name": "Clarington — Property Tax Cancellation or Reduction (hardship)",
+  "phone": "905-623-3379",
+  "checked": "2026-11-08",
+  "name": "Clarington — Property Tax Cancellation, Reduction or Refund (Sections 357/358)",
   "level": "Municipal",
   "regions": [
    "city:Clarington"
@@ -4837,12 +4837,12 @@
    "tax",
    "debt"
   ],
-  "amount": "Cancellation or reduction of property taxes in certain circumstances (e.g., sickness or extreme poverty), decided case by case.",
-  "requirements": "Clarington property owner; reviewed by Taxation Services.",
-  "action": "Call Taxation Services 905-623-3379 ext. 2650. Apply by the last day of February of the year after the tax year (2026 taxes: by Feb 28, 2027).",
-  "url": "https://www.clarington.net/en/town-hall/Property-Taxes-and-Assessments.aspx",
+  "amount": "Cancellation, reduction or refund of property taxes for listed reasons only: property unusable 3+ months due to repairs/renovations, fire or demolition, change of use or tax class, newly exempt, removal of a mobile unit, or a gross or manifest assessment error. Sickness or extreme poverty is NOT a listed reason on Clarington's page or form.",
+  "requirements": "Clarington property owner with one of the listed reasons; reviewed by Taxation Services.",
+  "action": "Submit the Application for Cancellation/Reduction/Refund of Taxes (online at webforms.clarington.net) by the last day of February of the year after the tax year (2026 taxes: by Feb 28, 2027). Call 905-623-3379. For hardship cases, also look at Ontario Senior Homeowners' Property Tax Grant and payment arrangements.",
+  "url": "https://www.clarington.net/homes-and-property/property-taxes-and-assessments/",
   "status": "Open; 2026 taxes deadline Feb 28, 2027.",
-  "verified": "Official Municipality of Clarington property tax page checked Nov 1, 2026; no separate seniors rebate listed.",
+  "verified": "Official Municipality of Clarington Property Taxes and Assessments page and its Application for Cancellation/Reduction/Refund of Taxes form checked Nov 8, 2026: listed grounds exclude sickness or extreme poverty; Section 357 deadline Feb 28 of following year; 905-623-3379; no seniors rebate or deferral listed.",
   "value": {
    "monthly": 0,
    "annual": 200,
@@ -4850,7 +4850,7 @@
    "type": "tax",
    "note": "Illustrative; case by case"
   },
-  "source": "https://www.clarington.net/en/town-hall/Property-Taxes-and-Assessments.aspx"
+  "source": "https://www.clarington.net/homes-and-property/property-taxes-and-assessments/"
  },
  {
   "id": "oshawa-hardship-relief",
@@ -4858,7 +4858,7 @@
    "owner"
   ],
   "phone": "905-436-3311",
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "name": "Oshawa — Tax Relief for Sickness or Extreme Poverty (Section 357)",
   "level": "Municipal",
   "regions": [
@@ -4870,10 +4870,10 @@
   ],
   "amount": "Relief of the previous year's property taxes for owners facing sickness or extreme poverty.",
   "requirements": "Oshawa property owner; select the sickness/extreme poverty reason on the Section 357 form.",
-  "action": "Send the completed Section 357 form to Taxation Services; staff follow up. Service Oshawa 905-436-3311.",
-  "url": "https://www.oshawa.ca/en/home-property/tax-rebates-and-reductions.aspx",
-  "status": "Open.",
-  "verified": "Official Oshawa Tax Rebates and Reductions page checked Nov 1, 2026.",
+  "action": "Send the completed Section 357 form (check sickness/extreme poverty, s. 357(1)(d.1)) to Taxation Services by email at tax@oshawa.ca or in person at City Hall by Feb 28 of the year after the tax year (2026 taxes: by Feb 28, 2027; late applications not accepted). Service Oshawa 905-436-3311.",
+  "url": "https://www.oshawa.ca/living-here/property-taxes/tax-rebates-and-reductions/",
+  "status": "Open; 2026 taxes deadline Feb 28, 2027 (no late applications).",
+  "verified": "Official City of Oshawa Tax Rebates and Reductions page checked Nov 8, 2026: relief of previous year's taxes for sickness or extreme poverty via Section 357 form (d.1); due Feb 28 of following year, no late applications; tax@oshawa.ca; 905-436-3311.",
   "value": {
    "monthly": 0,
    "annual": 200,
@@ -4881,7 +4881,7 @@
    "type": "tax",
    "note": "Illustrative; case by case"
   },
-  "source": "https://www.oshawa.ca/en/home-property/tax-rebates-and-reductions.aspx"
+  "source": "https://www.oshawa.ca/living-here/property-taxes/tax-rebates-and-reductions/"
  },
  {
   "id": "durham-leap-intake",
@@ -4891,7 +4891,7 @@
    "other"
   ],
   "phone": "905-686-2661",
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "name": "Durham — LEAP Emergency Energy Grant intake (Community Development Council Durham)",
   "level": "Regional",
   "regions": [
@@ -4906,7 +4906,7 @@
   "action": "Call Community Development Council Durham, 905-686-2661, 458 Fairall St, Unit 4, Ajax. Bring ID, bills, disconnection notice, proof of income.",
   "url": "https://oeb.ca/consumer-information-and-protection/bill-assistance-programs/low-income-energy-assistance-program/leap-agencies",
   "status": "Open, year-round, while funds last.",
-  "verified": "OEB LEAP agency list (Elexicon Whitby zone and Oshawa PUC entries) and Town of Ajax seniors page checked Nov 1, 2026.",
+  "verified": "OEB LEAP page and OEB utility listings for Oshawa PUC Networks and Elexicon Energy (Whitby zone), plus Oshawa Power assistance page and Town of Ajax seniors page, checked Nov 8, 2026: up to $650 ($780 electrically heated; $650 gas); after-tax limits $38,000/$54,000/$65,000/$65,000/$71,000; CDC Durham is the intake agency, 905-686-2661 (toll-free 1-888-746-3696); first-come while funds last.",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -4934,7 +4934,7 @@
    "other"
   ],
   "phone": "",
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "name": "Oshawa Power — Arrears Management, Compassion Fund and Rainy Day Fund",
   "level": "Municipal",
   "regions": [
@@ -4949,7 +4949,7 @@
   "action": "See oshawapower.ca/assistance or call Oshawa Power customer service. For a LEAP grant, call CDC Durham 905-686-2661.",
   "url": "https://www.durham.ca/living-here/living-with-low-income/housing-outreach-eviction-prevention-and-utility-and-rent-arrears-resources/",
   "status": "Open.",
-  "verified": "Durham Region utility arrears resources page checked Nov 1, 2026 (describes Oshawa Power programs); amounts not published.",
+  "verified": "Durham Region utility/rent arrears resources page and Oshawa Power Financial Assistance page (oshawapower.ca/assistance) checked Nov 8, 2026: Arrears Management Program (5-16 month repayment), Rainy Day Fund for life-threatening illness, LEAP via CDC Durham; Compassion Fund is still named on the Region page but not on Oshawa Power's own page, so reps should confirm it with Oshawa Power.",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -4967,7 +4967,7 @@
    "other"
   ],
   "phone": "311 / 905-668-7711",
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "name": "Durham Region — Water Bill Payment Help (60+ due-date extension)",
   "level": "Regional",
   "regions": [
@@ -4981,7 +4981,7 @@
   "action": "Call 311 (or 905-668-7711) and ask Water Billing for a payment arrangement or a seniors' due-date extension.",
   "url": "https://ajax.ca/life-in-ajax/town-services/aging-well-in-ajax/senior-financial-assistance-benefits/",
   "status": "Open.",
-  "verified": "Town of Ajax Senior Financial Assistance page checked Nov 1, 2026 (describes the Region's water bill assistance).",
+  "verified": "Durham Region Water Billing page and Town of Ajax Senior Financial Assistance page checked Nov 8, 2026: payment arrangements available; due-date extension for customers 60+; contact 311 / 905-668-7711 (toll-free 1-800-372-1102).",
   "value": {
    "monthly": 0,
    "annual": 0,
@@ -4999,7 +4999,7 @@
    "other"
   ],
   "phone": "905-436-3311",
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "name": "Oshawa — Snow Clearing Help for Seniors and Persons with Disabilities",
   "level": "Municipal",
   "regions": [
@@ -5014,7 +5014,7 @@
   "action": "Apply online or at Service Oshawa, Oct 1 to Dec 18, 2026 (late applications reviewed case by case). Renew yearly.",
   "url": "https://www.oshawa.ca/getting-around/snow-clearing/snow-clearing-help/",
   "status": "OPEN NOW — 2026 window Oct 1 to Dec 18.",
-  "verified": "Official City of Oshawa Snow Clearing Help page checked Nov 1, 2026.",
+  "verified": "Official City of Oshawa Snow Clearing Help page checked Nov 8, 2026: 65+ or disability with proof, single-family home, no one under 65 without a disability; sidewalks cleared/salted and windrows 20 cm+; apply Oct 1 to Dec 18, 2026 (late reviewed case by case); 905-436-3311.",
   "value": {
    "monthly": 0,
    "annual": 300,
@@ -5036,7 +5036,7 @@
    "other"
   ],
   "phone": "905-668-3437",
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "name": "Whitby — Free Windrow Snow Clearing for Seniors and Persons with Disabilities",
   "level": "Municipal",
   "regions": [
@@ -5051,7 +5051,7 @@
   "action": "Register at whitby.ca/WindrowApp. 2026 registration ran Sept 14 to Nov 1, 2026 — call 905-668-3437 to ask about late or waitlist spots.",
   "url": "https://www.whitby.ca/payments-and-services/parking-roads-and-transportation/snow-and-windrow-clearing-services",
   "status": "2026 registration closed Nov 1; next season opens mid-September 2027.",
-  "verified": "Official Town of Whitby snow and windrow page checked Nov 1, 2026: free; registration Sept 14 – Nov 1, 2026.",
+  "verified": "Official Town of Whitby Snow and Windrow Clearing Services page checked Nov 8, 2026: free; 65+ or doctor-certified, no one under 65 who can help; 2026-27 registration Sept 14 to Nov 1, 2026 at whitby.ca/WindrowApp; 905-668-3437, windrow@whitby.ca; no waitlist mentioned.",
   "value": {
    "monthly": 0,
    "annual": 300,
@@ -5073,7 +5073,7 @@
    "other"
   ],
   "phone": "905-623-3379",
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "name": "Clarington — Snow Clearing Program for Seniors and Persons with Disabilities",
   "level": "Municipal",
   "regions": [
@@ -5088,7 +5088,7 @@
   "action": "2026–27 registration ran Sept 21 to Oct 31, 2026. Call Community Services 905-623-3379 to ask about late spots.",
   "url": "https://www.clarington.net/community-and-people/roads-and-transportation/sidewalk-snow-removal/snow-clearing-program-for-seniors-and-persons-with-disabilities/",
   "status": "2026–27 registration closed Oct 31; next season opens September 2027.",
-  "verified": "Official Municipality of Clarington page checked Nov 1, 2026: $107.69; registration Sept 21 – Oct 31, 2026.",
+  "verified": "Official Municipality of Clarington Snow Clearing Program for Seniors and Persons with Disabilities page checked Nov 8, 2026: $107.69 (2026-27, HST incl.); sidewalk plus up to 3 ft of apron; registration Sept 21 to Oct 31, 2026; 905-623-3379.",
   "value": {
    "monthly": 0,
    "annual": 200,
@@ -5110,7 +5110,7 @@
    "other"
   ],
   "phone": "",
-  "checked": "2026-11-01",
+  "checked": "2026-11-08",
   "name": "Durham Region Transit — Transit Assistance Program (OW/ODSP)",
   "level": "Regional",
   "regions": [
@@ -5124,7 +5124,7 @@
   "action": "Ask the OW/ODSP caseworker or DRT about a TAP PRESTO card; see durhamregiontransit.com.",
   "url": "https://www.durham.ca/media/0oaf3swl/2026-transit-fees-charges-updated-july-1.pdf",
   "status": "Open.",
-  "verified": "Official Durham 2026 transit fees schedule (updated July 1, 2026) checked Nov 1, 2026.",
+  "verified": "Official Durham Region Transit Fares page checked Nov 8, 2026 (rates effective July 1, 2026): TAP $53.76 monthly pass or fare cap after 14 trips, for OW/ODSP recipients and family members, valid in 6-month periods; senior monthly pass $55.30.",
   "value": {
    "monthly": 0,
    "annual": 600,
@@ -5136,5 +5136,66 @@
   "eligibility": {
    "lowIncome": true
   }
+ },
+ {
+  "id": "pickering-snow-clearing",
+  "name": "Pickering — Seniors and Persons with Disabilities Snow Clearing",
+  "level": "Municipal",
+  "regions": [
+   "city:Pickering"
+  ],
+  "categories": [
+   "access",
+   "community"
+  ],
+  "housing": [
+   "owner"
+  ],
+  "amount": "City clears the windrow and concrete sidewalks next to the property, Nov 1, 2026 to Apr 30, 2027. Free for GAINS/GIS recipients; otherwise $128.82 (net income under $90,997), $186.45 ($90,997-$148,065) or $240.69 ($148,065-$199,900), HST included. Not available over $199,900.",
+  "requirements": "Registered owner living at the property with taxes in good standing; 65+, or under 65 with proof of permanent physical or cognitive disability; no one aged 18-65 in the home except a person with a permanent disability; single dwelling on a municipal street in the urban area south of Taunton Rd or in Brougham, Claremont, Greenwood or Whitevale; not away more than two consecutive weeks during the season.",
+  "action": "2026-27 registration ran Sept 11 to Oct 16, 2026, but applications are still accepted if the program is not full. Apply online (forms.pickering.ca/Forms/CSD2203) or drop off/mail to Pickering City Hall Customer Care Centre with documents and payment. Lottery if oversubscribed (priority for permanent disability). Call 905-683-7575.",
+  "url": "https://www.pickering.ca/property-roads-safety/parking-roads-and-driveways/snow-removal-and-clearing/seniors-and-persons-with-disabilities-snow-clearing/",
+  "phone": "905-683-7575",
+  "status": "2026-27 registration closed Oct 16; late applications accepted while space remains. Season Nov 1, 2026 to Apr 30, 2027.",
+  "value": {
+   "monthly": 0,
+   "annual": 200,
+   "once": 0,
+   "type": "project",
+   "note": "Illustrative value of a free or subsidized winter service; noncash"
+  },
+  "source": "https://www.pickering.ca/property-roads-safety/parking-roads-and-driveways/snow-removal-and-clearing/seniors-and-persons-with-disabilities-snow-clearing/",
+  "checked": "2026-11-08",
+  "verified": "New: official page checked Nov 8, 2026."
+ },
+ {
+  "id": "mississauga-flood-rebate",
+  "name": "Mississauga — Basement Flooding Prevention Rebate",
+  "level": "Municipal",
+  "regions": [
+   "city:Mississauga"
+  ],
+  "categories": [
+   "repairs"
+  ],
+  "housing": [
+   "owner"
+  ],
+  "amount": "Up to $7,500 per property: sump pump up to $6,000, foundation drain capping up to $1,000, storm backwater valve up to $1,500, downspout disconnection $125 each (max $500).",
+  "requirements": "Registered owner (individual) of a detached, semi, duplex or townhouse in Mississauga; no taxes or fees owing; Ontario-licensed contractor; building permit for drain capping and backwater valves; no sump pump rebate in last 10 years; condo townhomes need City pre-consultation.",
+  "action": "Get pre-approval BEFORE any work (quote, sketch, tax bill, permit); request final approval within 6 months with the invoice. Apply online or by mail; questions floodrebate@mississauga.ca or 311.",
+  "url": "https://www.mississauga.ca/services-and-programs/home-and-yard/stormwater/apply-for-a-basement-flooding-prevention-rebate/",
+  "phone": "905-615-4311",
+  "status": "Open while funding lasts (page modified Sep 29, 2026; no end date stated).",
+  "value": {
+   "monthly": 0,
+   "annual": 0,
+   "once": 3000,
+   "type": "project",
+   "note": "Illustrative; up to $7,500"
+  },
+  "source": "https://www.mississauga.ca/services-and-programs/home-and-yard/stormwater/apply-for-a-basement-flooding-prevention-rebate/",
+  "checked": "2026-11-08",
+  "verified": "New: official page checked Nov 8, 2026."
  }
 ]

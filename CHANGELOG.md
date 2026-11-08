@@ -1,5 +1,49 @@
 # Changelog
 
+## 2026-11-08: Weekly check
+- 146 programs reviewed: 144 confirmed against official pages (checked dates set to 2026-11-08), 25 changed, 2 added, 2 couldn't be checked. 148 programs in total.
+
+Changes:
+- Durham Housing Stability Program: link moved from durham.ca/en/living-here/housing-supports.aspx → durham.ca/living-here/housing-and-homelessness/housing-supports/
+- Whitby ADU Fee Reimbursement: CLOSED to new permits (ended Dec 31, 2025) → OPEN until Dec 31, 2026 (permits issued on/after Apr 1, 2024; permit application complete by Dec 31, 2026)
+- Whitby ADU Fee Reimbursement: reimbursed fees now also include the below-grade entrance fee; education development charges only for detached ADUs
+- Whitby ADU Fee Reimbursement: link moved to whitby.ca/services-and-payments/building-and-renovating/additional-dwelling-units/
+- Brock Low-income Seniors Rebate: requirements → add property owned 1+ year and tax account paid in full for the rebate year (per Township policy)
+- Clarington Tax Cancellation: described as hardship relief (sickness/extreme poverty) → official page and Section 357 form list only property-based reasons (renovation 3+ months, fire/demolition, change of use, exemption, assessment error); sickness/extreme poverty not offered
+- Clarington Tax Cancellation: phone 905-623-3379 ext. 2650 → 905-623-3379 (ext. 2650 is listed only for bills on properties no longer owned)
+- Clarington Tax Cancellation: link moved to clarington.net/homes-and-property/property-taxes-and-assessments/
+- Oshawa Section 357 hardship relief: no deadline listed → must be received by Feb 28 of the following year (2026 taxes: Feb 28, 2027); late applications not accepted
+- Oshawa Section 357 hardship relief: link moved to oshawa.ca/living-here/property-taxes/tax-rebates-and-reductions/
+- Home Renovation Savings: status 'no end date; unconfirmed extension to Nov 2026' → official terms set Nov 30, 2026 (attic completion, follow-up assessment booking) and Dec 31, 2026 (assessment completion, smart thermostat) cut-offs
+- HRS insulation rebate: status 'Open' → open but follow-up assessment must be booked by Nov 30, 2026 and completed by Dec 31, 2026
+- HRS standalone attic rebate: status 'Open' → work must be completed by Nov 30, 2026
+- HRS smart thermostat rebate: status 'Open' → offer ends Dec 31, 2026 (claim within 60 days of purchase)
+- HRS air sealing rebate: status 'Open' → open but follow-up assessment must be booked by Nov 30, 2026 and completed by Dec 31, 2026
+- HRS heat pump water heater rebate: status 'Open' → open but follow-up assessment must be booked by Nov 30, 2026 and completed by Dec 31, 2026
+- HRS energy assessment rebate: status 'Open' → open but follow-up assessment must be booked by Nov 30, 2026 and completed by Dec 31, 2026
+- Multigenerational Home Renovation Tax Credit: value note said 'nonrefundable' → CRA says the credit is refundable (note corrected; amounts unchanged)
+- Ontario Seniors Care at Home Tax Credit: eligibility minimum age in data was 65 → 70 (matches the official page and the record's own requirements text)
+- Wellington Tax Relief: action/status said 'DEADLINE Nov 1, 2026 … call Monday Nov 2' → 2026 deadline passed; next deadline Nov 1, 2027 (late 2026 only if Treasury agrees)
+- Dufferin Ontario Renovates: status 'Subject to funding, confirm' → not listed on the County's current Housing Services pages; availability unconfirmed, call before quoting
+- Dufferin Ontario Renovates: link moved from old /housing-services/ontario-renovates-program page → County Housing Services page
+- Dufferin Ontario Renovates: phone 519-941-6991 ext. 2110 (from 2024 directory) → 519-941-6991 (County Housing Services main line)
+- Toronto Property Tax, Water and Solid Waste Relief: Open, deadline Nov 2 → 2026 deadline (Nov 2, 2026) has passed; wait for 2027 intake
+- Toronto Renovates: Intake not confirmed → no longer listed by the City (program page redirects to a general homeowner-support page); do not offer
+- Peel Backwater Valve Rebate: source link was the old .asp page → current Region page
+- Peel Emergency Help with Past-due Bills: link peelregion.ca/help/past-due-bills now redirects → new 'Keep housing and avoid eviction' page
+- Cambridge Seniors and Disability Property Tax Deferral: status 'deadline was Nov 1, call Monday Nov 2' → '2026 window closed; next deadline Nov 1, 2027'
+- Kitchener Seniors and Disability Property Tax Deferral: deadline Nov 1, 2026 → 2026 window closed; next deadline Nov 1, 2027
+- City of Waterloo Seniors and Disability Property Tax Deferral: deadline Nov 1, 2026 (today) → 2026 window closed; next deadline Nov 1, 2027
+- Waterloo Region townships Seniors and Disability Property Tax Deferral: deadline Nov 1, 2026 → 2026 window closed; next deadline Nov 1, 2027
+- Brampton Garden Suite Fee Grant: Application page live, funding not stated → CLOSED as of July 21, 2025 (per City Garden Suites page)
+
+Added:
+- Pickering — Seniors and Persons with Disabilities Snow Clearing
+- Mississauga — Basement Flooding Prevention Rebate
+
+Needs a decision: Brampton Garden Suite Grant closed (July 21, 2025) — hide or remove; Toronto Renovates no longer listed by the City — consider removing; Dufferin Ontario Renovates not on County site; Whitby ADU incentive reopened through Dec 31, 2026; Clarington tax record no longer a hardship program — consider removing from hardship searches.
+Couldn't check: Hamilton — Ontario Renovates (repairs and accessibility), Salvation Army Fort Erie — Utility Assistance Intake.
+
 ## 2026-11-03: Age and income eligibility tags
 - Added an `eligibility` field to 85 of 146 programs (age limits, GIS requirement, disability route, household income limits by size). Built by `tools/add_eligibility.py`.
 - The search page uses these tags to hide programs a client clearly can't qualify for. Net and after-tax limits are compared with 30% headroom because the form asks for gross income; "low income" programs with no published figure are hidden only at $100,000+.
