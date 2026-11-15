@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-11-15: Weekly check
+- 148 programs reviewed: 148 confirmed against official pages (checked dates set to 2026-11-15), 12 changed, 0 added, 0 couldn't be checked. 148 programs in total.
+
+Changes:
+- Multigenerational Home Renovation Tax Credit: link canada.ca/cra-mhrtc (unconfirmed shortcut) → CRA line 45355 MHRTC page
+- Hamilton — ADU and Multiplex Housing Incentive Grant (duplicate listing): open while funds last → CLOSED (funding capacity reached; application portal closed to new submissions)
+- County of Simcoe — Secondary Suites Program: phone 705-735-6901 ext. 1360 → 705-725-7215 ext. 1119 (ext. 1360 not published; iah@simcoe.ca unchanged)
+- Niagara Region — Social Assistance & Employment Opportunities (Fort Erie Office): phone 905-354-3561 ext. 6331 → 905-354-3561 (no extension published by the Region or 211)
+- Region of Waterloo — Ontario Renovates Home Repairs: status 'deadline Nov 15, 2026' → Nov 15 date reached; official web page and fact sheet application section still say apply before Dec 1, 2026 (agreements by Dec 15)
+- Guelph Transit — Affordable Bus Pass: action 'pick up a paper application' → apply online or on paper (paper forms also at the Guelph Transit office); renew yearly
+- Peel — Property Tax Rebate for Low-income Seniors and Persons with Disabilities: Mississauga $571 (2025) → $601 (2026 rate, per City guide as of Aug 2026)
+- Mississauga — Stormwater Subsidy and Outdoor Maintenance Subsidy: source Sept 2025 guide → Aug 2026 City guide (max still $400, now stated as 2025 rate); link now the City subsidy web page
+- Peel — Affordable Transit Program: 'Apply online or call' → apply online; phone applications only for people whose disability prevents applying online
+- Hamilton — Ontario Renovates: amount not published → forgivable loan up to $25,000 (published on City program page)
+- Hamilton — ADU and Multiplex Housing Incentive Grant: Open while funds last → CLOSED (funding capacity reached; application portal closed to new submissions, no waitlist)
+- Durham Greener Homes Loan: Open (except Pickering) → CLOSED to new applicants (fully subscribed; may reopen)
+
+Needs a decision: Hamilton ADU and Multiplex Housing Incentive Grant closed (funding capacity reached; two listings: hamilton-adu-grant and duplicate import-18) — hide or remove, and remove the duplicate; Durham Greener Homes Loan closed to new applicants (fully subscribed, may reopen); Brampton Garden Suite Grant still closed (since July 21, 2025); Toronto Renovates still not listed by the City; Dufferin Ontario Renovates still not on County site.
+Couldn't check: none (some links blocked this week were verified through other official pages for the same program).
+
 ## 2026-11-08: Weekly check
 - 146 programs reviewed: 144 confirmed against official pages (checked dates set to 2026-11-08), 25 changed, 2 added, 2 couldn't be checked. 148 programs in total.
 
