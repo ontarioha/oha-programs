@@ -1,5 +1,17 @@
 # Changelog
 
+## 2026-11-22: Weekly check
+- 148 programs reviewed: 147 confirmed against official pages (checked dates set to 2026-11-22), 4 changed, 0 added, 1 couldn't be checked. 148 programs in total.
+
+Changes:
+- Home and Vehicle Modification Program: name/provider March of Dimes → Disability Can (formerly March of Dimes Canada); link marchofdimes.ca How-to-Apply page → disabilitycan.ca/program/ontario-home-and-vehicle-modification-program (old link redirects); phone unchanged
+- Grand River Transit — Affordable Transit Program: online application temporarily unavailable, apply by phone → Open; apply online again (phone 519-883-2100 for help)
+- Toronto — Property Tax, Water and Solid Waste Relief: no 2027 dates yet → City says the application process is closed; check back in spring 2027
+- Mississauga — Stormwater Subsidy and Outdoor Maintenance Subsidy: maintenance claims 'by Mar 31 of the next year' → 2026 claims accepted Jan 1–Mar 31, 2027 only (not before)
+
+Needs a decision: still closed — Hamilton ADU and Multiplex Grant (two listings, incl. duplicate import-18), Brampton Garden Suite Grant, Durham Greener Homes Loan; Toronto Renovates still not listed by the City; Dufferin Ontario Renovates still not on County site.
+Couldn't check: Durham Greener Homes — Free Renovation Coach and Weather-ready Home Assessment (durhamgreenerhomes.ca not reachable this week; record unchanged).
+
 ## 2026-11-15: Weekly check
 - 148 programs reviewed: 148 confirmed against official pages (checked dates set to 2026-11-15), 12 changed, 0 added, 0 couldn't be checked. 148 programs in total.
 
